@@ -1,0 +1,79 @@
+gene_id	gene_name	log2FadultChange	log2CPM	baseMean	description
+NKY04_mgp09	ATP8	2.95	9.11	1867.12	NA
+NKY04_mgp05	ND4L	3.2	10.77	6223.04	NA
+LOC101279083	UNC119B	2.26	7.29	465.21	unc-119 lipid binding chaperone B
+LOC101270224	PTPN9	2.28	6.86	347.88	protein tyrosine phosphatase non-receptor type 9
+NKY04_mgp08	ATP6	2.57	12.32	17111.76	NA
+C10H6orf132	C10H6orf132	3.08	7.11	443.53	chromosome 10 C6orf132 homolog
+LOC101281893	MYH11	-2.5	8.99	1409.22	myosin heavy chain 11
+LOC101269651	PMM1	2.49	6.63	1222.67	phosphomannomutase 1
+NKY04_mgp04	ND4	2.91	13.15	30751.56	NA
+LOC101283808	RNF24	1.75	6.97	370.94	ring finger protein 24
+LOC101286435	RHBDL3	-3.07	2.01	13.85	rhomboid like 3
+LOC101281886	DOT1L	1.66	7.63	606.72	DOT1 like histone lysine methyltransferase
+NKY04_mgp12	ND2	2.86	12.2	18548.59	NA
+LOC101288392	EID3	1.88	5.82	178.1	EP300 interacting inhibitor of differentiation 3
+LOC125960760	LOC125960760	3.32	6.7	687.3	uncharacterized LOC125960760
+LOC101271972	ABTB2	1.9	5.42	119.88	ankyrin repeat and BTB domain containing 2
+C9H7orf57	C9H7orf57	2.73	3.53	33.38	chromosome 9 C7orf57 homolog
+LOC101285220	MRPL22	3.18	6.56	491.53	mitochondrial ribosomal protein L22
+LOC101288863	TGM1	3.24	7.13	389.49	transglutaminase 1
+LOC101283352	RANBP1	1.11	5.81	189.89	RAN binding protein 1
+LOC101269735	ACTG2	-2.44	5.45	119.95	actin gamma 2, smooth muscle
+LOC101275682	PHLDB3	2.41	7.15	912.82	pleckstrin homology like domain family B member 3
+NKY04_mgp03	ND5	3.16	13.5	43488.3	NA
+LOC101278453	PPM1B	1.56	6.88	349.23	protein phosphatase, Mg2+/Mn2+ dependent 1B
+LOC117199116	LOC117199116	1.68	4.8	92.11	uncharacterized LOC117199116
+NKY04_mgp13	ND1	2.32	12.42	19325.34	NA
+LOC101276014	ARHGEF19	1.72	6.64	773.94	Rho guanine nucleotide exchange factor 19
+LOC101286746	STK25	0.88	5.79	210.88	serine/threonine kinase 25
+LOC117198242	DMKN	2.61	7.13	365.6	dermokine
+C10H6orf15	C10H6orf15	3.76	6.99	57.87	chromosome 10 C6orf15 homolog
+LOC101286103	IQCE	1.15	6.18	181.29	IQ motif containing E
+CCN3	CCN3	-2.07	5.61	127.49	cellular communication network factor 3
+LOC101285547	LOC101285547	2.86	9.77	4238.83	E3 ubiquitin-protein ligase SMURF2-like
+LOC101271787	VWA5B2	-2.7	1.13	30.94	von Willebrand factor A domain containing 5B2
+LOC101273925	PCP4L1	-2.62	2.03	24.16	Purkinje cell protein 4 like 1
+LOC101289346	TRPM1	-3.45	6.12	50.15	transient receptor potential cation channel subfamily M member 1
+LOC117198824	LOC117198824	1.73	5.01	172.03	uncharacterized LOC117198824
+LOC101271642	AKAP6	-1.47	4.73	80.46	A-kinase anchoring protein 6
+LOC101273811	CEP170B	1.56	6.91	336.83	centrosomal protein 170B
+LOC125964650	LOC125964650	8.1	11.24	NA	trichohyalin
+LOC101277312	EPS8L1	4.04	7.11	NA	EPS8 like 1
+LOC101274393	FOSL1	4.48	5.63	NA	FOS like 1, AP-1 transcription factor subunit
+LOC101278180	MXD1	3.01	5.44	NA	MAX dimerization protein 1
+LOC101290187	ELF3	3.82	4.26	NA	E74 like ETS transcription factor 3
+LOC101274430	PLEKHN1	3.44	5.9	NA	pleckstrin homology domain containing N1
+LOC101290411	LRRC20	3.27	5.41	NA	leucine rich repeat containing 20
+LOC101275925	PPL	3.23	10.42	NA	periplakin
+LOC101283640	DLGAP3	-3.27	3.15	24.41	DLG associated protein 3
+LOC101276775	EVPL	4.18	9.26	NA	envoplakin
+LOC101272448	KRT80	5.48	5.68	NA	keratin 80
+LOC101275663	KIF21B	2.71	4.68	NA	kinesin family member 21B
+LOC101280235	METTL7A	2.35	7.21	211.98	methyltransferase like 7A
+LOC101273672	TTLL7	-2.12	3.54	37.65	tubulin tyrosine ligase like 7
+C5H3orf70	C5H3orf70	2.02	4.23	82.57	chromosome 5 C3orf70 homolog
+LOC101287858	RGS12	2.33	7.25	NA	regulator of G protein signaling 12
+LOC101273543	DNAH5	-3.88	2.51	13.06	dynein axonemal heavy chain 5
+LOC101276060	MAP3K7CL	-2.42	1.65	7.59	MAP3K7 C-terminal like
+LOC101274454	AK3	2.44	9.76	3147.82	adenylate kinase 3
+LOC101269783	NPTX2	3.07	3.93	NA	neuronal pentraxin 2
+LOC105748501	LOC105748501	4.36	4.39	71.7	DNA dC->dU-editing enzyme APOBEC-3G-like
+LOC101283105	ARHGEF18	2.47	7.18	NA	Rho/Rac guanine nucleotide exchange factor 18
+LOC101288042	MUC21	4.91	6.04	NA	mucin 21, cell surface associated
+LOC101275804	EPN3	2.46	4.13	NA	epsin 3
+LOC105748632	LOC105748632	3.9	2.84	NA	myosin light chain 1, skeletal muscle isoform-like
+LOC125961507	LOC125961507	5.1	6.56	NA	protein-glutamine gamma-glutamyltransferase E-like
+LOC101274387	LOC101274387	3.92	3.85	NA	keratin, type I cytoskeletal 42-like
+LOC101288377	MYH14	2.55	8.08	NA	myosin heavy chain 14
+LOC101276457	EPS8L2	2.31	8.25	NA	EPS8 like 2
+LOC101275005	KCNMB1	-3.25	1.29	5.93	potassium calcium-activated channel subfamily M regulatory beta subunit 1
+LOC101270593	MYO18B	-2.63	2.74	21.76	myosin XVIIIB
+LOC101281127	CDC42BPG	1.89	7.2	NA	CDC42 binding protein kinase gamma
+LOC101290459	ZNF296	2.94	4.1	NA	zinc finger protein 296
+LOC101276301	KRT16	2.95	7.34	9494.82	keratin, type I cytoskeletal 16
+LOC101278796	CDH19	-3.29	1.74	11.46	cadherin 19
+LOC101278007	HOMER2	1.8	5.07	96.28	homer scaffold protein 2
+LOC101276616	EPHB3	1.67	5.2	87.11	EPH receptor B3
+LOC101278025	SAMD10	2.22	3.04	30.31	sterile alpha motif domain containing 10
+LOC125960360	LOC125960360	2.77	10.07	2973.78	pre-mRNA 3'-end-processing factor FIP1-like
