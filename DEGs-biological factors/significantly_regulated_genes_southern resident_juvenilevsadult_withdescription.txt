@@ -1,0 +1,4 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101274617	RASSF10	-2.26	4.11	66.48	Ras association domain family member 10
+LOC101276958	ICAM1	-2.22	5.5	185.33	intercellular adhesion molecule 1
+LOC101270718	SNX31	-5.49	1.01	9.42	sorting nexin 31

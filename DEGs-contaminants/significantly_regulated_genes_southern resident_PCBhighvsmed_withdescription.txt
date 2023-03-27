@@ -1,0 +1,3 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+CCN5	CCN5	-3.73	3.59	48.18	cellular communication network factor 5
+LOC101283487	UCHL1	-2.1	6.21	334.79	ubiquitin C-terminal hydrolase L1

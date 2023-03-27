@@ -1,0 +1,2 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101273206	CCL21	4.51	5.83	224.4	C-C motif chemokine ligand 21

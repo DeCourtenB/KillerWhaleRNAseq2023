@@ -1,0 +1,9 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101290014	ADAMTSL2	3.62	5.77	218.36	ADAMTS like 2
+LOC101284175	ADAMTS20	3.42	7.01	554.18	ADAM metallopeptidase with thrombospondin type 1 motif 20
+LOC101283487	UCHL1	-2.71	6.71	413.24	ubiquitin C-terminal hydrolase L1
+LOC101288765	PI15	3.34	4.06	81.04	peptidase inhibitor 15
+LOC101280077	FREM1	3.01	3.88	54.81	FRAS1 related extracellular matrix 1
+LOC101270334	TOP2A	4.4	2.57	22.3	DNA topoisomerase II alpha
+CCN5	CCN5	-3.81	3.6	41.51	cellular communication network factor 5
+LOC101276162	KIF14	5.79	1.63	11.39	kinesin family member 14

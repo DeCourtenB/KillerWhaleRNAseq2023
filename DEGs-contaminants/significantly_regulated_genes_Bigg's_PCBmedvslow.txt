@@ -1,0 +1,5 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+NKY04_mgp04	ND4	4.44	NA	83017.1	NA
+NKY04_mgp09	ATP8	3.58	NA	5632.69	NA
+NKY04_mgp07	COIII	3.28	NA	35910.9	NA
+NKY04_mgp08	ATP6	3.65	NA	47079.21	NA

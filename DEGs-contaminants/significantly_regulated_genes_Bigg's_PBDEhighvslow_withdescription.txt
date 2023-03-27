@@ -1,0 +1,4 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101279397	SOX21	-5.08	NA	109.02	SRY-box transcription factor 21
+LOC101270652	TENM4	-2.81	4.24	55.32	teneurin transmembrane protein 4
+LOC101269393	RYR3	-6.33	NA	46.48	ryanodine receptor 3

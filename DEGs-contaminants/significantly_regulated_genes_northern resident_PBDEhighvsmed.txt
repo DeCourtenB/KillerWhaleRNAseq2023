@@ -1,0 +1,2145 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101276071	ST8SIA5	-9.68	3.5	55.21	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5
+LOC101289645	EPHA6	-7.34	3.17	35.58	EPH receptor A6
+LOC101281291	UNC80	-7.59	3.4	44.73	unc-80 homolog, NALCN channel complex subunit
+LOC101289833	ABCA13	-9.32	3.63	48.42	ATP binding cassette subfamily A member 13
+LOC101274570	CCKAR	-8.42	3.01	39.57	cholecystokinin A receptor
+LOC101287977	DNAH6	-6.38	3.41	41.7	dynein axonemal heavy chain 6
+LOC101285617	LRP1B	-8.35	3.61	49.21	LDL receptor related protein 1B
+LOC101280468	XIRP2	-7.81	3.89	51.81	xin actin binding repeat containing 2
+C4H4orf50	C4H4orf50	-6.13	3.61	47.58	chromosome 4 C4orf50 homolog
+LOC101275781	FSIP2	-6.41	3.85	49.58	fibrous sheath interacting protein 2
+LOC125964221	LOC125964221	-7.97	3.96	75.82	endogenous retrovirus group K member 9 Env polyprotein-like
+LOC101288207	CSMD3	-7.08	2.89	32.23	CUB and Sushi multiple domains 3
+LOC101274265	GCSAM	-9.04	2.79	44.77	germinal center associated signaling and motility
+LOC101271246	DNAH9	-7.24	3.33	44.43	dynein axonemal heavy chain 9
+LOC101281622	GPR98	-4.2	4.27	68.32	adhesion G protein-coupled receptor V1
+LOC101289760	ADAM23	-7.85	2.86	28.11	ADAM metallopeptidase domain 23
+LOC101269685	FAM135B	-8.86	2.43	20.21	protein FAM135B
+LOC101273183	MYH8	-7.51	1.98	24.39	myosin-8
+LOC117195498	LOC117195498	-9.32	3.23	32.86	uncharacterized LOC117195498
+LOC101269419	RBM11	-6.54	3.81	48.99	RNA binding motif protein 11
+LOC101281005	APOB	-7.46	3.63	44.72	apolipoprotein B
+LOC101283311	MALRD1	-7.15	2.94	36.44	MAM and LDL receptor class A domain containing 1
+LOC101270841	KCNH7	-8.06	2.9	37.48	potassium voltage-gated channel subfamily H member 7
+LOC101270906	TCL1B	-6.72	3.42	37.86	TCL1 family AKT coactivator B
+LOC101283570	ABCB11	-7.99	2.74	24.24	ATP binding cassette subfamily B member 11
+LOC117195621	LOC117195621	-8.45	2.76	28.17	low-density lipoprotein receptor-related protein 2-like
+LOC101274621	GPR158	-9.22	2.77	24.95	G protein-coupled receptor 158
+LOC101283432	SCN5A	-8.93	2.53	21.31	sodium voltage-gated channel alpha subunit 5
+LOC101279587	GALNTL6	-8.31	2.68	24.9	polypeptide N-acetylgalactosaminyltransferase like 6
+LOC101284427	GRID2	-8.91	2.46	21.27	glutamate ionotropic receptor delta type subunit 2
+LOC101270997	LGI2	-7.96	2.61	29.56	leucine rich repeat LGI family member 2
+LOC101290210	LRRC3B	-7.52	2.22	25.27	leucine rich repeat containing 3B
+LOC101270149	DLGAP1	-5.08	2.61	24.39	DLG associated protein 1
+LOC101286702	SLC7A14	-7.07	2.43	21.26	solute carrier family 7 member 14
+LOC101282272	COL6A5	-5.75	2.86	28.79	collagen type VI alpha 5 chain
+LOC101269494	SSTR3	-7.43	2.99	28.18	somatostatin receptor 3
+LOC101276968	TENM1	-7.69	2.99	29.13	teneurin-1
+LOC125960381	LOC125960381	-6.94	2.52	20.11	uncharacterized LOC125960381
+LOC101285236	SLITRK3	-8.5	2.48	20.04	SLIT and NTRK like family member 3
+LOC101272850	MYBPC1	-8.01	2.53	21.18	myosin binding protein C1
+LOC101290246	ONECUT1	-7.69	2.65	24.58	one cut homeobox 1
+LOC101275706	MUC2	-9.01	2.99	40.72	mucin 2, oligomeric mucus/gel-forming
+LOC101276760	NEFM	-7.9	2.29	17.75	neurofilament medium chain
+LOC101275290	PDE10A	-4.97	2.82	26.77	phosphodiesterase 10A
+LOC101275394	EYS	-6.65	2.71	24.53	eyes shut homolog
+LOC101274363	DNAH7	-3.25	4.01	51.99	dynein axonemal heavy chain 7
+LOC101275307	MUC19	-5.14	3.62	44.52	mucin 19, oligomeric
+LOC101274623	NRXN3	-5.11	2.67	22.91	neurexin 3
+LOC101279202	CSMD2	-6.1	3.43	47.43	CUB and Sushi multiple domains 2
+LOC101283832	CNTNAP3	-7.2	2.3	20.39	contactin-associated protein-like 3
+LOC101272714	KCNH5	-5.64	2.76	27.24	potassium voltage-gated channel subfamily H member 5
+LOC101282703	LOC101282703	-7	2.81	25.53	histone-lysine N-methyltransferase SETD2-like
+C6H8orf74	C6H8orf74	-8.09	3.03	27.63	chromosome 6 C8orf74 homolog
+LOC101278119	CHIA	-8.38	2.24	24	acidic mammalian chitinase
+LOC101279927	LRRC7	-6.81	2.46	28.85	leucine rich repeat containing 7
+LOC125960667	LOC125960667	-5.6	3.11	35.05	uncharacterized LOC125960667
+LOC101275495	LOXHD1	-8.1	3.22	37.21	lipoxygenase homology PLAT domains 1
+LOC101272655	SPTA1	-3.86	3.3	35.53	spectrin alpha, erythrocytic 1
+LOC101289213	ABCC12	-8.47	1.82	19.48	ATP binding cassette subfamily C member 12
+LOC101277806	CRABP1	-3.02	5.28	132.35	cellular retinoic acid binding protein 1
+LOC101279690	RSPH1	-7.66	2.25	18.11	radial spoke head component 1
+LOC101284337	GRM7	-8.53	2.44	20.48	glutamate metabotropic receptor 7
+LOC101271613	FAM186A	-8.5	2.24	17.77	family with sequence similarity 186 member A
+LOC101285003	DISP3	-8.02	2.69	24.38	dispatched RND transporter family member 3
+LOC101279038	SCN1A	-7.16	2.66	24.39	sodium channel protein type 1 subunit alpha
+LOC125964539	LOC125964539	-5.27	3.41	43.78	uncharacterized LOC125964539
+LOC101278164	POU2AF1	-8.52	1.86	18.17	POU class 2 homeobox associating factor 1
+LOC125964844	LOC125964844	-5.38	6.05	551.47	uncharacterized LOC125964844
+LOC101271143	LOC101271143	-5.62	3.87	51.55	olfactory receptor 6B2
+LOC101270395	ST18	-8.56	2.45	20.48	ST18 C2H2C-type zinc finger transcription factor
+LOC117197274	LOC117197274	-4.81	3.81	48.68	40S ribosomal protein S27-like
+LOC101277354	MYT1L	-8.36	2.9	27.49	myelin transcription factor 1 like
+LOC101282286	LOC101282286	-8.5	2.27	17.52	dnaJ homolog subfamily C member 14-like
+LOC101283631	GRM6	-7.46	2.07	16.3	glutamate metabotropic receptor 6
+LOC101282534	KCNU1	-7.6	2.43	19.61	potassium calcium-activated channel subfamily U member 1
+LOC101269964	AQP4	-7.17	2.34	18.97	aquaporin 4
+LOC101278839	CDH8	-7.88	1.79	13.39	cadherin 8
+LOC101280257	LRRTM3	-7.12	3.08	47.3	leucine rich repeat transmembrane neuronal 3
+LOC101281468	IGSF1	-6.08	2.79	25.72	immunoglobulin superfamily member 1
+LOC101282655	CPLX2	-8.41	2.4	21.74	complexin 2
+LOC101276941	LOC101276941	-7.97	1.64	15.06	signal peptidase complex catalytic subunit SEC11A-like
+LOC101283317	DNAH12	-3.6	4.11	56.98	dynein axonemal heavy chain 12
+LOC101275152	SORCS1	-4.9	3.71	42.82	sortilin related VPS10 domain containing receptor 1
+LOC101284833	LOC101284833	-7.86	3.36	36.72	olfactory receptor 10AC1-like
+LOC101280669	KCNJ16	-6.25	3.02	36.27	potassium inwardly rectifying channel subfamily J member 16
+LOC101289931	NCAM2	-6.94	2.83	25.74	neural cell adhesion molecule 2
+LOC101280480	SHC3	-9.08	2.62	22.85	SHC adaptor protein 3
+LOC117199770	LOC117199770	-6.96	2.42	24.83	hyaluronidase-like
+LOC101277558	SLC12A3	-6.31	2.58	22.11	solute carrier family 12 member 3
+LOC101279619	TDRD12	-4.71	2.97	31.06	tudor domain containing 12
+LOC117197676	LOC117197676	-4.98	3.42	49.52	membrane cofactor protein-like
+LOC101269326	NCAN	-8.35	2.37	18.29	neurocan
+LOC101271075	USH2A	-7.52	3.83	57.17	usherin
+LOC101273956	UPF3A	-3.9	4.05	55.14	UPF3A regulator of nonsense mediated mRNA decay
+LOC101281665	AJAP1	-5.89	2.36	28.64	adherens junctions associated protein 1
+LOC101289210	TMPRSS15	-8.05	1.97	14.11	transmembrane serine protease 15
+LOC101277121	IL18RAP	-8.22	2.17	18.32	interleukin 18 receptor accessory protein
+LOC101277054	TRPM8	-8.45	2.76	25.96	transient receptor potential cation channel subfamily M member 8
+LOC101275194	TOPAZ1	-7.76	2.08	16.02	testis and ovary specific TOPAZ 1
+LOC101277722	KIAA2012	-7.52	2.68	23.51	KIAA2012 ortholog
+LOC117197715	LOC117197715	-5.27	3.98	122.44	uncharacterized LOC117197715
+LOC101287704	LOC101287704	-7.83	2.28	17.5	filaggrin-2-like
+LOC101283705	ABCB5	-7.66	1.96	13.94	ATP binding cassette subfamily B member 5
+LOC101287620	GAD1	-6.72	2.09	15.85	glutamate decarboxylase 1
+LOC101271731	FCRL3	-8.81	2.23	21.01	Fc receptor like 3
+LOC101278877	CACNG8	-7.65	2.46	31.57	calcium voltage-gated channel auxiliary subunit gamma 8
+LOC101279142	CFAP74	-8.14	2.63	23.39	cilia and flagella associated protein 74
+LOC101285470	ATP13A4	-4.17	3.38	37.9	ATPase 13A4
+STYXL2	STYXL2	-6.54	2.58	21.63	serine/threonine/tyrosine interacting like 2
+LOC101277185	MRAP2	-6.68	2.49	22.92	melanocortin 2 receptor accessory protein 2
+LOC101273859	RBFOX1	-6.35	2.41	25.09	RNA binding fox-1 homolog 1
+LOC101289526	TMEM72	-6.65	2.18	26.46	transmembrane protein 72
+LOC125962893	LOC125962893	-5.85	3.85	53.19	endogenous retrovirus group K member 6 Env polyprotein-like
+LOC101281736	DMGDH	-6.93	2.04	14.58	dimethylglycine dehydrogenase
+LOC101286864	MYO3B	-8.01	2.49	23.8	myosin IIIB
+C14H10orf71	C14H10orf71	-7.26	2.26	18.37	chromosome 14 C10orf71 homolog
+LOC101272296	OFCC1	-8.11	1.77	12.25	uncharacterized LOC101272296
+LOC101279573	CNTN3	-6.38	2.29	18.68	contactin 3
+LOC101279992	RAD51AP2	-6.39	2.78	30.88	RAD51 associated protein 2
+LOC101284688	SCN10A	-4.82	3.02	27.63	sodium voltage-gated channel alpha subunit 10
+LOC101274713	POU6F2	-7.57	2.11	20.92	POU class 6 homeobox 2
+LOC101284042	VNN2	-6.3	2.52	23.31	vanin 2
+LOC101271939	SECTM1	-8.6	2.95	27.84	secreted and transmembrane 1
+LOC101283906	PPP1R3A	-7.78	2.52	22.75	protein phosphatase 1 regulatory subunit 3A
+LOC101277069	GRIK1	-6.74	1.9	14.72	glutamate ionotropic receptor kainate type subunit 1
+LOC101287069	ANKRD34C	-6.51	2.14	17.8	ankyrin repeat domain 34C
+LOC101277536	PPFIA2	-3.83	2.99	26.75	PTPRF interacting protein alpha 2
+LOC101276756	EPO	-7.97	2.52	20.57	erythropoietin
+LOC101287408	CDH18	-6.41	2.08	14.85	cadherin 18
+LOC101277236	WDR64	-6.14	1.26	9.31	WD repeat domain 64
+LOC101282182	ATP8A2	-8.07	2.4	19.93	ATPase phospholipid transporting 8A2
+LOC101278094	F11	-7.39	1.35	9.87	coagulation factor XI
+LOC101277584	SV2C	-7.23	3.01	30.52	synaptic vesicle glycoprotein 2C
+LOC101287665	CUX2	-4.84	3.08	30.64	cut like homeobox 2
+LOC101276125	MYO3A	-8.23	1.71	15.55	myosin IIIA
+LOC125963891	LOC125963891	-5.15	3.95	64.49	putative POM121-like protein 1
+LOC101278368	ADCY1	-9.14	2.55	28.02	adenylate cyclase 1
+LOC101288463	OGDHL	-7.78	1.51	10.95	oxoglutarate dehydrogenase L
+LOC101285913	PLCXD3	-6.3	3.12	30.91	phosphatidylinositol specific phospholipase C X domain containing 3
+LOC101275793	KCNG4	-7.56	2.21	23.42	potassium voltage-gated channel modifier subfamily G member 4
+LOC101285406	TDRD1	-7.11	2.25	17.45	tudor domain containing 1
+LOC101273475	CLEC17A	-6.1	2.88	32.74	C-type lectin domain containing 17A
+LOC101272240	SLC14A1	-7.77	1.72	11.12	solute carrier family 14 member 1 (Kidd blood group)
+LOC125964790	LOC125964790	-8.06	1.61	12.1	spermatogenesis-associated protein 31A6-like
+LOC101280680	MOV10L1	-8.25	2.21	16.8	Mov10 like RISC complex RNA helicase 1
+LOC101273089	PCDH20	-6.14	2.49	20.99	protocadherin 20
+LOC125960840	LOC125960840	-9.52	6.29	395.2	uncharacterized LOC125960840
+LOC101287552	GYS2	-7.58	1.87	14.41	glycogen synthase 2
+LOC117195569	REELD1	-8.41	2.04	17.89	reeler domain containing 1
+LOC125965173	LOC125965173	-6.89	2.81	29.68	mucin 5AC, oligomeric mucus/gel-forming
+LOC101271249	LOC101271249	-6.65	1.89	12.97	heat shock protein HSP 90-beta-like
+LOC101284846	DPP10	-7.39	1.76	13.12	dipeptidyl peptidase like 10
+LOC101287801	ITGAM	-5.52	2.25	18.47	integrin subunit alpha M
+LOC125963872	LOC125963872	-5.62	2.83	26.19	putative POM121-like protein 1
+LOC101274962	GPR179	-5.96	3.49	39.36	G protein-coupled receptor 179
+LOC101280223	ATP1A3	-5.93	2.01	20.12	ATPase Na+/K+ transporting subunit alpha 3
+LOC101278233	ANKS1B	-4.66	2.59	22.1	ankyrin repeat and sterile alpha motif domain containing 1B
+LOC101285451	NOL4	-7.98	2.08	16.71	nucleolar protein 4
+LOC101272900	KCNQ2	-8.32	1.74	16.42	potassium voltage-gated channel subfamily Q member 2
+LOC101284465	OTOL1	-4.05	2.79	23.67	otolin 1
+LOC101275400	CLVS2	-4.85	2.67	41.07	clavesin 2
+LOC117202213	LOC117202213	-7.19	1.6	11.53	paraneoplastic antigen Ma1-like
+LOC101276525	ADAMTS16	-7.04	2.15	15.46	ADAM metallopeptidase with thrombospondin type 1 motif 16
+LOC101276634	PRKCQ	-4.78	2.77	23.68	protein kinase C theta
+LOC101279162	MUC16	-6.68	3.46	72.94	mucin-16
+LOC101281280	PCDH11X	-6.9	2.26	18.31	protocadherin 11 X-linked
+LOC101279656	SLITRK1	-8.32	1.82	15.04	SLIT and NTRK like family member 1
+LOC125964906	LOC125964906	-7.87	2.49	22.5	spermatogenesis-associated protein 31D4-like
+LOC101276333	NR1H4	-8.02	2.14	23.13	nuclear receptor subfamily 1 group H member 4
+LOC101282881	THSD7B	-4.62	3.15	30.31	thrombospondin type 1 domain containing 7B
+LOC101282460	LOC101282460	-5.91	2.07	15.29	importin-7-like
+LOC125965210	LOC125965210	-7.02	2.1	17.56	uncharacterized LOC125965210
+LOC101286371	VWA5B1	-8.29	2.25	17.86	von Willebrand factor A domain containing 5B1
+LOC101277878	FGA	-8.47	2.05	14.73	fibrinogen alpha chain
+LOC101272176	BAI3	-6.06	2.3	18.6	adhesion G protein-coupled receptor B3
+LOC101280012	PRKG2	-7.13	1.68	12.96	protein kinase cGMP-dependent 2
+LOC101290242	DPP6	-7.01	2.13	18.33	dipeptidyl peptidase like 6
+LOC101289120	F2	-5.26	2.15	14.87	coagulation factor II, thrombin
+LOC101270526	GRIN2A	-7.41	3.05	33.41	glutamate ionotropic receptor NMDA type subunit 2A
+LOC101286253	WNK3	-6.36	2.38	19.46	WNK lysine deficient protein kinase 3
+LOC101288365	GPR26	-8.56	1.98	19.76	G protein-coupled receptor 26
+LOC101274865	LOC101274865	-5.92	1.88	12.56	guanylate cyclase D-like
+LOC101270218	TRIM55	-7.73	1.23	9.99	tripartite motif containing 55
+LOC101282633	CFAP47	-8.32	2.46	22.84	cilia and flagella associated protein 47
+LOC101276994	LRP2	-3.6	4.38	52.11	LDL receptor related protein 2
+LOC101271767	SIDT1	-4.7	2.41	20.84	SID1 transmembrane family member 1
+LOC101271964	NYAP2	-8.36	1.77	16.23	neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adaptor 2
+LOC101269393	RYR3	-4.92	4.35	77.25	ryanodine receptor 3
+LOC125961207	LOC125961207	-7.81	1.72	12.55	nitric oxide synthase, brain-like
+LOC101274057	CCDC158	-7.64	1.26	9.13	coiled-coil domain containing 158
+LOC101284970	NEFH	-6.19	2.49	19.4	neurofilament heavy chain
+LOC101273932	TMC2	-6.22	2.51	20.07	transmembrane channel like 2
+LOC101270197	MLIP	-5.58	3.37	38.07	muscular LMNA interacting protein
+LOC125960842	LOC125960842	-10.37	5.34	238	uncharacterized LOC125960842
+LOC125961814	LOC125961814	-4.29	4.39	224.26	endogenous retrovirus group K member 10 Gag polyprotein-like
+LOC101278300	GLRB	-5.37	2.1	15.16	glycine receptor beta
+LOC101280774	ADGRG4	-8.96	2.57	23.06	adhesion G protein-coupled receptor G4
+LOC101289287	MYT1	-6.89	3.19	36.23	myelin transcription factor 1
+LOC101282788	CDHR2	-7.19	2.4	19.91	cadherin related family member 2
+LOC101276569	SIM1	-7.2	1.92	14.4	SIM bHLH transcription factor 1
+LOC101279866	CNTNAP2	-4.5	2.94	28.56	contactin associated protein 2
+LOC101271710	ARMC3	-7.67	1.95	14.4	armadillo repeat containing 3
+LOC101289288	BRDT	-7.51	1.44	12.63	bromodomain testis associated
+LOC101290098	MYH7	-7.46	2.29	21.64	myosin-7
+LOC101279221	CDH22	-5	2.85	27.74	cadherin 22
+LOC101280492	MYO16	-7.26	2.45	21.31	myosin XVI
+LOC101278058	MYH13	-6.03	2.69	25.35	myosin-13
+LOC125965314	LOC125965314	-4.56	3.13	30.76	uncharacterized LOC125965314
+LOC125963064	LOC125963064	-6.7	1.66	12.29	HIV Tat-specific factor 1-like
+LOC101286057	LOC101286057	-6.95	2.2	28.71	fibrous sheath-interacting protein 2-like
+LOC101271066	LRRC37A2	-4.62	3.02	44.39	leucine-rich repeat-containing protein 37A2
+LOC101273427	XCR1	-8.75	2.27	17.93	X-C motif chemokine receptor 1
+LOC101277422	LOC101277422	-6.29	2.35	18.65	heterogeneous nuclear ribonucleoprotein A3-like
+LOC101269219	STAB2	-4.01	4	55.62	stabilin 2
+LOC101279209	GRM4	-5.36	3.14	31.91	glutamate metabotropic receptor 4
+LOC101270042	PLPPR1	-6.75	1.6	11.44	phospholipid phosphatase related 1
+DNAI3	DNAI3	-8.32	1.9	14.51	dynein axonemal intermediate chain 3
+LOC101274385	LGSN	-7.67	1.29	8.6	lengsin, lens protein with glutamine synthetase domain
+LOC105747829	RHOH	-6.28	2.62	38.21	ras homolog family member H
+LOC101290222	CNTNAP5	-5.35	2.95	28.27	contactin associated protein family member 5
+LOC101276364	EPHB1	-6.17	2.22	17.24	EPH receptor B1
+LOC101275270	SCN8A	-6.7	3.34	34.86	sodium voltage-gated channel alpha subunit 8
+LOC101286619	DRAXIN	-7.64	1.46	11.55	dorsal inhibitory axon guidance protein
+LOC101272424	PKHD1	-4.46	3.12	35.71	PKHD1 ciliary IPT domain containing fibrocystin/polyductin
+LOC117203052	LOC117203052	-7.93	1.52	11.69	transcription initiation factor TFIID subunit 11-like
+LOC101271294	TRIM71	-5.83	2.57	25.68	tripartite motif containing 71
+LOC101286542	MYH15	-3.83	5.04	375.32	myosin heavy chain 15
+LOC101289593	BCL2L14	-5.36	2.12	15.03	BCL2 like 14
+LOC101269859	TRIM9	-6.3	1.58	10.65	tripartite motif containing 9
+LOC105748242	TDRD15	-6.39	1.81	12.45	tudor domain containing 15
+LOC101270593	MYO18B	-3.43	3.71	46.2	myosin XVIIIB
+LOC101274678	RNASE10	-4.81	2.08	15.14	ribonuclease A family member 10 (inactive)
+LOC101272582	SLC12A1	-6.34	1.69	12.11	solute carrier family 12 member 1
+LOC101285033	INSL5	-5.6	2.56	21.46	insulin like 5
+LOC101274597	KCNH8	-7.14	1.77	13.12	potassium voltage-gated channel subfamily H member 8
+LOC101278434	SMC1B	-6.75	2.19	15.96	structural maintenance of chromosomes 1B
+LOC101282520	EYA4	-6.02	2.32	18.31	EYA transcriptional coactivator and phosphatase 4
+LOC101276553	TSHR	-5.48	2.36	18.31	thyroid stimulating hormone receptor
+C14H10orf90	C14H10orf90	-7.6	1.78	12.33	chromosome 14 C10orf90 homolog
+LOC101278314	SLC5A11	-7.03	1.63	10.88	solute carrier family 5 member 11
+LOC125961717	LOC125961717	-5.19	2.99	28.87	histone-lysine N-methyltransferase SETD2-like
+LOC101288229	FHAD1	-5	2.6	22.27	forkhead associated phosphopeptide binding domain 1
+LOC101271982	FCRL4	-7.74	1.37	9.53	Fc receptor like 4
+LOC101272137	DLGAP2	-7.4	2.22	17.79	DLG associated protein 2
+C20H16orf78	C20H16orf78	-8.6	3.32	44.54	chromosome 20 C16orf78 homolog
+LOC101269705	PAH	-7.5	1.06	8.75	phenylalanine hydroxylase
+LOC101281572	OPALIN	-7.83	1.33	11.72	oligodendrocytic myelin paranodal and inner loop protein
+LOC101276126	LOC101276126	-7.99	1.47	10.9	serine/threonine-protein phosphatase 4 regulatory subunit 3B-like
+LOC101285357	SIRPB2	-8.01	1.47	11.39	signal regulatory protein beta 2
+LOC101277541	VWC2L	-7.95	1.9	14.9	von Willebrand factor C domain containing 2 like
+LOC101278811	DMRTC2	-5.73	2.35	19.98	DMRT like family C2
+LOC101286180	ZMAT4	-7.84	1.38	9.49	zinc finger matrin-type 4
+LOC117195380	ERBB4	-6.38	1.57	14.42	erb-b2 receptor tyrosine kinase 4
+LOC101281655	SPATA16	-7.26	0.9	7.64	spermatogenesis associated 16
+LOC101286518	FRMPD4	-7.15	1.53	10.57	FERM and PDZ domain containing 4
+LOC101279657	LOC101279657	-7.81	2	17.72	zinc finger protein 883-like
+LOC101272416	CACNA1B	-3.42	2.88	25.63	calcium voltage-gated channel subunit alpha1 B
+LOC101269448	DMBT1	-5.11	2.53	22.74	deleted in malignant brain tumors 1
+LOC101273681	LIN28B	-8.08	1.91	19.11	lin-28 homolog B
+LOC101272925	SLC34A2	-6.96	1.35	12.46	solute carrier family 34 member 2
+LOC101278319	CFTR	-4.52	2.84	26.94	CF transmembrane conductance regulator
+LOC101270930	CFAP100	-7.34	1.8	12.18	cilia and flagella associated protein 100
+LOC101283077	RFX4	-6.23	1.63	10.8	regulatory factor X4
+LOC101271724	KCNJ6	-8.21	1.82	13.23	potassium inwardly rectifying channel subfamily J member 6
+LOC101270978	COL4A3	-5.87	2.33	20.99	collagen type IV alpha 3 chain
+LOC101284510	LOC101284510	-8.03	1.71	11.43	guanylate cyclase soluble subunit beta-2-like
+LOC125963956	LOC125963956	-6.41	2.9	70.66	uncharacterized LOC125963956
+LOC101269286	ZBTB8B	-6.51	2.35	25.07	zinc finger and BTB domain containing 8B
+LOC101277758	TNN	-6.61	2.12	16.58	tenascin N
+LOC101290044	GABRG2	-7.72	1.63	13.64	gamma-aminobutyric acid type A receptor subunit gamma2
+LOC101280226	GRM5	-5.08	2.17	15.71	glutamate metabotropic receptor 5
+LOC101273198	LOC101273198	-4.93	4.82	94.31	very-long-chain 3-oxoacyl-CoA reductase-A-like
+LOC101274465	STOX1	-4.28	2.62	27.39	storkhead box 1
+LOC101273238	CNTN5	-7.36	2.34	20.94	contactin 5
+LOC101282036	DRC7	-4.45	2.83	27.08	dynein regulatory complex subunit 7
+LOC101270717	DNAJC5B	-6.5	1.53	10.71	DnaJ heat shock protein family (Hsp40) member C5 beta
+LOC101271684	NUTM1	-6.35	2.04	14.55	NUT midline carcinoma family member 1
+LOC101275824	CACNG6	-8.77	2.38	16.98	calcium voltage-gated channel auxiliary subunit gamma 6
+LOC101289046	ACMSD	-6.93	1.48	8.97	aminocarboxymuconate semialdehyde decarboxylase
+LOC101276005	RP1L1	-6.59	2.52	20.71	RP1 like 1
+LOC101271478	SLA	-4.85	2.15	17.21	Src like adaptor
+LOC101287618	EFCAB5	-3.88	3.25	33.68	EF-hand calcium binding domain 5
+LOC101286128	SLCO5A1	-4.91	2.4	21.46	solute carrier organic anion transporter family member 5A1
+LOC101269737	LOC101269737	-6.34	2.45	19.21	complement C3
+LOC101290350	MYH6	-6.59	1.8	13.73	myosin-6
+LOC101284619	MACC1	-7.87	1.36	10.98	MET transcriptional regulator MACC1
+LOC117199299	LOC117199299	-6.71	2.45	19.37	uncharacterized LOC117199299
+LOC125964880	LOC125964880	-7.38	0.97	7.23	spermatogenesis-associated protein 31D1-like
+LOC101282334	NELL2	-5.4	1.7	11.67	neural EGFL like 2
+LOC101277753	GABRA4	-6.06	1.68	14.64	gamma-aminobutyric acid type A receptor subunit alpha4
+LOC101271992	WDR65	-5.42	2.29	19.45	cilia and flagella associated protein 57
+LOC117195637	LOC117195637	-3.91	3.68	70.34	uncharacterized LOC117195637
+LOC101273315	KSR2	-6.74	2.29	18.74	kinase suppressor of ras 2
+LOC101286430	LOC101286430	-6.66	1.02	7.08	protein TEX261-like
+LOC101271021	TLR5	-3.52	3.7	49.94	toll like receptor 5
+LOC101284868	TMEM196	-7.67	1.94	14.08	transmembrane protein 196
+LOC101287019	PAX6	-5.16	2.46	21.84	paired box 6
+MYH2	MYH2	-7	3.21	33.35	myosin heavy chain 2
+LOC101269269	POU4F2	-7.22	1.55	10.74	POU class 4 homeobox 2
+LOC101272020	MROH7	-6.57	2.16	16.96	maestro heat like repeat family member 7
+LOC101274612	BMP10	-7.61	1.14	8.15	bone morphogenetic protein 10
+LOC101271633	KCNB2	-6.81	2.16	18.91	potassium voltage-gated channel subfamily B member 2
+LOC101275703	SLC9A4	-7.5	1.45	10.01	solute carrier family 9 member A4
+LOC101283686	LOC101283686	-7.65	1.36	10.4	probable E3 ubiquitin-protein ligase HECTD2
+LOC101288502	MUC4	-7.35	2.05	15.18	mucin 4, cell surface associated
+LOC101283400	FRMPD2	-6.94	2.14	15.91	FERM and PDZ domain-containing protein 2
+LOC125960815	LOC125960815	-7.4	2.37	26.19	endogenous retrovirus group K member 6 Env polyprotein-like
+LOC101284467	ENAM	-5.72	1.45	10.76	enamelin
+LOC101281978	TIGIT	-6.66	2.3	18.21	T cell immunoreceptor with Ig and ITIM domains
+LOC101285525	CAPN8	-7.61	1.47	9.79	calpain-8
+LOC101283431	NWD1	-6.55	1.99	13.98	NACHT and WD repeat domain containing 1
+LOC101275291	LOC101275291	-6.29	1.74	11.87	olfactory receptor 51E1
+LOC101286906	CDH12	-5.92	1.59	15.52	cadherin 12
+LOC101286395	FBXO40	-7.6	1.15	8.01	F-box protein 40
+LOC101271652	HTR1E	-8.04	1.42	13.33	5-hydroxytryptamine receptor 1E
+LOC101270110	BTBD16	-5.35	2.73	31.32	BTB domain containing 16
+LOC101285446	GRID1	-4.35	1.86	13.33	glutamate ionotropic receptor delta type subunit 1
+LOC101270574	ZDHHC22	-6.84	1.63	11.19	zinc finger DHHC-type palmitoyltransferase 22
+LOC101278039	TRIM58	-6.56	1.78	11.79	tripartite motif containing 58
+LOC101277757	LOC101277757	-7.48	2.03	17.13	heterogeneous nuclear ribonucleoprotein A1-like
+LOC101288845	KLHL6	-4.24	2.59	21.27	kelch like family member 6
+LOC101279032	BTNL2	-7.77	1.56	10.58	butyrophilin like 2
+LOC101269430	DDI1	-7.98	1.49	10.73	DNA damage inducible 1 homolog 1
+LOC101275656	SLAMF6	-6.76	1.83	16.74	SLAM family member 6
+LOC101284840	SNTG1	-7.41	1.7	11.97	syntrophin gamma 1
+LOC101277550	LOC101277550	-6.25	1.26	8.94	glycerol-3-phosphate dehydrogenase 1-like protein
+LOC101270017	PPARGC1A	-3.35	3.21	31.65	PPARG coactivator 1 alpha
+LOC101275717	IL2RA	-5.86	3	28.28	interleukin 2 receptor subunit alpha
+LOC101289733	FAM5C	-8.16	1.66	12.53	BMP/retinoic acid inducible neural specific 3
+LOC101270433	LOC101270433	-7.39	1.3	9.55	major facilitator superfamily domain-containing protein 1-like
+LOC101290191	TMC5	-6.78	1.83	12.93	transmembrane channel like 5
+LOC117200583	LOC117200583	-5.08	2.07	14.83	60S ribosomal protein L39-like
+LOC101272116	GDA	-5.86	1.91	14.79	guanine deaminase
+LOC101278663	KCNS2	-5.79	3.2	32.58	potassium voltage-gated channel modifier subfamily S member 2
+LOC101270477	MCF2	-7.8	1.27	10.7	MCF.2 cell line derived transforming sequence
+LOC101279729	MSGN1	-7.43	2.68	23.58	mesogenin 1
+LOC101285412	HMGB4	-7.1	0.89	6.7	high mobility group box 4
+LOC101283977	PCDH15	-4.96	3.08	31.18	protocadherin related 15
+LOC125962664	LOC125962664	-8.83	2.37	18.78	zinc finger protein 550-like
+LOC101277397	GABRA3	-8.03	1.52	11.36	gamma-aminobutyric acid type A receptor subunit alpha3
+LOC125960841	LOC125960841	-7.5	4.57	172.73	uncharacterized LOC125960841
+LOC101289168	SLC6A3	-7.37	1.3	9.21	solute carrier family 6 member 3
+LOC101269177	FSTL4	-6.53	2.07	18.69	follistatin like 4
+LOC101282284	ASB15	-7.74	1.48	10.65	ankyrin repeat and SOCS box containing 15
+LOC125961976	LOC125961976	-6.99	2.41	19.64	immunoglobulin-like and fibronectin type III domain-containing protein 1
+LOC101278272	DGKK	-5.13	2.39	19.02	diacylglycerol kinase kappa
+LOC125964733	LOC125964733	-6.79	2.05	16.12	filaggrin-like
+LOC101279354	ANO3	-6.86	1.94	14.73	anoctamin 3
+LOC101277150	NELL1	-6.58	1.11	8.31	neural EGFL like 1
+LOC101286310	LOC101286310	-6.63	1.6	10.49	probable RNA-binding protein 46
+LOC101285029	TBPL2	-6.68	1.61	11.12	TATA-box binding protein like 2
+TEX55	TEX55	-4.08	2.94	26.75	testis expressed 55
+LOC101269476	LOC101269476	-6.16	2.97	27.99	histone-lysine N-methyltransferase SETD2-like
+LOC101288584	ELAVL4	-8	1.57	10.06	ELAV like RNA binding protein 4
+LOC101288412	C1QL4	-8.62	2.17	16.15	complement C1q like 4
+LOC101279072	TEX15	-5.1	2.41	19.41	testis expressed 15, meiosis and synapsis associated
+LOC101287772	CSRNP3	-6.23	2.56	24.73	cysteine and serine rich nuclear protein 3
+LOC101280543	NXPH1	-7.61	2.21	17.13	neurexophilin 1
+LOC101281203	CTCFL	-7.06	1.67	11.29	CCCTC-binding factor like
+LOC101277194	ACTL7B	-7.79	1.32	9.4	actin like 7B
+LOC101272970	CAPN6	-6.14	2.29	17.86	calpain 6
+LOC101273171	ADCY8	-7.51	1.73	15.68	adenylate cyclase 8
+LOC101276371	GAD2	-8.19	1.74	12.76	glutamate decarboxylase 2
+LOC101273712	NEUROD4	-8.11	1.59	13.87	neuronal differentiation 4
+LOC101279238	LIPH	-6.82	1.18	8.25	lipase H
+LOC101279685	SMTNL1	-6.26	2.13	15.36	smoothelin like 1
+LOC101275228	GRIK2	-3.43	3.51	39.6	glutamate ionotropic receptor kainate type subunit 2
+LOC101279881	TLR10	-4.64	1.86	12.93	toll like receptor 10
+LOC101270015	SV2B	-5.54	2.14	16.18	synaptic vesicle glycoprotein 2B
+LOC101282060	KIF6	-3.99	2.82	25.79	kinesin family member 6
+LOC101274901	IGFN1	-6.05	1.44	11.8	immunoglobulin like and fibronectin type III domain containing 1
+LOC101283417	FSIP1	-4.45	2.28	16.78	fibrous sheath interacting protein 1
+LOC101285543	TRIM42	-7.65	1.46	9.97	tripartite motif containing 42
+LOC101274884	NOX3	-7.64	1.76	11.72	NADPH oxidase 3
+LOC101276078	CHRNA1	-5.7	1.77	15.22	cholinergic receptor nicotinic alpha 1 subunit
+LOC101274636	LOC101274636	-6.83	1.46	10.35	keratin, type II cytoskeletal 8-like
+LOC101284832	CHRM2	-8.04	1.52	11.46	cholinergic receptor muscarinic 2
+LOC101277329	TRIM10	-8.13	1.56	12.12	tripartite motif-containing protein 10
+LOC101279499	CNTNAP4	-6.39	2.39	19.89	contactin associated protein family member 4
+LOC101280887	CHRNA7	-7.72	1.34	9.25	cholinergic receptor nicotinic alpha 7 subunit
+LOC101287313	ANKFN1	-5.54	1.77	16.42	ankyrin repeat and fibronectin type III domain containing 1
+LOC125960809	LOC125960809	-6.33	1.91	14.84	uncharacterized LOC125960809
+LOC101274142	TRPC5	-8	1.57	10.08	transient receptor potential cation channel subfamily C member 5
+LOC101282638	RBP3	-7.56	1.57	9.64	retinol binding protein 3
+LOC125961665	LOC125961665	-7.14	3.02	51.13	putative POM121-like protein 1
+LOC101290387	XKR7	-6.51	1.2	9.59	XK related 7
+LOC101270406	ROBO2	-3.55	3.43	36.31	roundabout guidance receptor 2
+LOC101278017	MYPN	-5.67	3.07	43.55	myopalladin
+LOC101270685	LOC101270685	-7.02	1.23	10.38	melanoma-associated antigen B2-like
+LOC101290273	ANK1	-4.12	3.3	29.84	ankyrin 1
+LOC101288959	LOC101288959	-8.28	1.76	15.07	uncharacterized LOC101288959
+LOC101278938	RBM46	-6.33	1.56	10.54	RNA binding motif protein 46
+LOC101282336	SYT14	-3.83	3.1	31.95	synaptotagmin 14
+LOC101276833	PTCHD4	-6.2	1.73	11.91	patched domain-containing protein 4
+LOC101280915	DISP2	-4.66	2.35	19.3	dispatched RND transporter family member 2
+LOC105748183	CHST9	-5.44	2.83	30.98	carbohydrate sulfotransferase 9
+LOC101277026	SH3GL2	-5.78	1.94	14.03	SH3 domain containing GRB2 like 2, endophilin A1
+LOC101277739	LOC101277739	-4.71	1.99	14.68	NF-kappa-B-activating protein-like
+LOC101275396	GRM3	-6.94	1.24	9.31	glutamate metabotropic receptor 3
+LOC101282001	TMC3	-7.77	1.33	11.76	transmembrane channel like 3
+LOC101270796	KRT4	-7.29	1.51	10.02	keratin 4
+LOC101283246	DNAI2	-6.33	1.65	11.18	dynein axonemal intermediate chain 2
+LOC101289295	NR2E1	-4.51	1.8	13.23	nuclear receptor subfamily 2 group E member 1
+LOC125964845	LOC125964845	-6.99	2.54	37.18	metabotropic glutamate receptor 7-like
+LOC101279746	NETO1	-6.29	2.4	20.64	neuropilin and tolloid like 1
+LOC101274351	LOC101274351	-6.46	1.18	8	R3H domain-containing protein 1-like
+LOC101276195	IL1RL1	-7.26	1.37	9.62	interleukin 1 receptor like 1
+C20H16orf74	C20H16orf74	-3.81	3.15	31.11	chromosome 20 C16orf74 homolog
+LOC101273814	CD28	-8.16	3.04	29.83	CD28 molecule
+LOC101272757	SLFN14	-6.09	1.92	13.35	schlafen family member 14
+LOC101278031	RAG2	-7.65	1.29	8.38	recombination activating 2
+LOC101280024	SLC5A12	-6.58	1.94	13.78	solute carrier family 5 member 12
+LOC101282314	ADCY10	-6.93	1.75	12.87	adenylate cyclase 10
+LOC101289110	BARHL2	-7.02	0.96	8.16	BarH like homeobox 2
+LOC101288437	RPH3A	-5.79	2.19	16.32	rabphilin 3A
+LOC101272508	ADAM28	-6.03	2.23	18	ADAM metallopeptidase domain 28
+LOC101287233	LOC101287233	-7.29	1.33	10.48	retinol dehydrogenase 16-like
+LOC101278228	CAPN14	-7.36	1.55	11.5	calpain 14
+LOC101281740	ZPLD1	-3.24	3.06	29.82	zona pellucida like domain containing 1
+LOC105748589	LOC105748589	-7.76	1.31	9.63	transcription factor SPT20 homolog
+LOC101282192	IGSF5	-8.45	1.81	15.57	immunoglobulin superfamily member 5
+LOC101287327	RASGRF1	-6.14	1.7	12.93	Ras protein specific guanine nucleotide releasing factor 1
+LOC101277869	AK7	-8.12	1.78	12.04	adenylate kinase 7
+LOC101283134	GJB7	-6.46	1.45	12.84	gap junction protein beta 7
+LOC101278382	STEAP1	-7.17	0.93	9.02	STEAP family member 1
+LOC101278349	GLDC	-5.31	2.6	22.19	glycine decarboxylase
+LOC101285573	LOC101285573	-7.73	1.4	12.67	rac GTPase-activating protein 1-like
+LOC101280222	SLC17A7	-5.72	1.92	14.56	solute carrier family 17 member 7
+LOC125963855	LOC125963855	-3.38	4.76	179.66	uncharacterized LOC125963855
+LOC101280741	STMN4	-6.01	1.81	12.57	stathmin 4
+LOC101278759	AKAP4	-8.07	1.55	11.3	A-kinase anchoring protein 4
+LOC101286038	DDX4	-4.23	2.43	18.53	DEAD-box helicase 4
+LOC101290142	C8A	-8.03	1.6	12.3	complement C8 alpha chain
+LOC101280329	TUBB4A	-7.06	1.12	9.06	tubulin beta 4A class IVa
+C20H19orf33	C20H19orf33	3.76	6.6	283.38	chromosome 20 C19orf33 homolog
+LOC101279639	PAX5	-4.49	2.36	32.11	paired box 5
+LOC101277341	KCNQ5	-6.32	1.75	12.42	potassium voltage-gated channel subfamily Q member 5
+LOC101276329	UGT2A2	-6.15	1.19	7.62	UDP-glucuronosyltransferase 2A2
+LOC101272486	ROS1	-6.07	3.13	30.89	ROS proto-oncogene 1, receptor tyrosine kinase
+LOC101287317	NRG3	-4.65	2.88	26.7	neuregulin 3
+LOC101285510	ZBED9	-4.35	2.44	18.88	zinc finger BED-type containing 9
+LOC101270091	DGKB	-5.68	1.99	18.4	diacylglycerol kinase beta
+LOC101281229	EVX2	-8.2	1.7	12.17	even-skipped homeobox 2
+LOC101273758	CCDC30	-2.44	3.68	43.05	coiled-coil domain containing 30
+LOC101280749	SLC17A4	-8.86	2.34	18.88	solute carrier family 17 member 4
+LOC101270993	CD5L	-7.08	1.03	6.76	CD5 molecule like
+LOC101274079	GRIA4	-6.28	2.59	21.99	glutamate ionotropic receptor AMPA type subunit 4
+LOC101272700	LOC101272700	-7.05	1.32	9.16	retinol dehydrogenase 12
+LOC101272029	SGCZ	-4.31	1.93	15.99	sarcoglycan zeta
+LOC101288242	UNC5C	-3.42	2.48	17.11	unc-5 netrin receptor C
+LOC101286729	LOC101286729	-7.27	1.89	14.52	peptidyl-prolyl cis-trans isomerase FKBP4-like
+LOC101285288	CLSTN2	-4.27	3.21	39.87	calsyntenin 2
+LOC101281857	EML5	-4.04	3.47	40.49	EMAP like 5
+LOC101278748	LOC101278748	-7.66	1.54	10.87	60S ribosomal protein L36a-like
+C17H8orf89	C17H8orf89	-5.79	1.75	12.34	chromosome 17 C8orf89 homolog
+LOC101280714	SLC16A10	-4.13	2.36	19.56	solute carrier family 16 member 10
+LOC101283960	TFF2	-7.71	1.26	8.93	trefoil factor 2
+LOC101285154	LOC101285154	-6.22	1.85	13.1	serine/threonine-protein phosphatase 1 regulatory subunit 10-like
+LOC101277355	IL31RA	-6.45	1.95	17.76	interleukin 31 receptor A
+LOC101275973	DSCAM	-4.32	3.17	32.51	DS cell adhesion molecule
+LOC101287276	PRPS1L1	-6.81	0.71	5.65	phosphoribosyl pyrophosphate synthetase 1 like 1
+LOC101274112	EFHB	-6.72	1.38	11.88	EF-hand domain family member B
+LOC101278238	GABRB3	-7.74	1.69	13.03	gamma-aminobutyric acid type A receptor subunit beta3
+LOC117203426	LOC117203426	-5.05	1.88	14.56	chondroitin sulfate proteoglycan 4-like
+LOC101286988	ADAM29	-7.16	0.69	6.35	ADAM metallopeptidase domain 29
+LOC101289825	LOC101289825	-5.33	1.86	14.09	HAUS augmin-like complex subunit 6
+LOC101282371	MAJIN	-5.8	1.95	14.21	membrane anchored junction protein
+LOC101277782	LOC101277782	-4.8	2.83	26.53	pregnancy zone protein-like
+LOC101269896	CACNB4	-3.86	2.79	22.12	calcium voltage-gated channel auxiliary subunit beta 4
+LOC101272989	KCNC1	-5.91	1.96	13.52	potassium voltage-gated channel subfamily C member 1
+LOC101282349	GALR1	-7.71	2.23	18.09	galanin receptor 1
+LOC101280914	LOC101280914	-5.24	1.23	7.96	MORF4 family-associated protein 1-like
+LOC117196623	LRRC53	-6.02	1.41	9.27	leucine rich repeat containing 53
+LOC101284866	ADAM30	-5.74	3.12	63.85	ADAM metallopeptidase domain 30
+LOC101272866	DAB1	-4.67	2.11	16.11	DAB adaptor protein 1
+LOC101282866	KCNV1	-6.43	1.26	8.34	potassium voltage-gated channel modifier subfamily V member 1
+LOC101286545	LRIT1	-7.17	2.8	30.78	leucine rich repeat, Ig-like and transmembrane domains 1
+LOC125965266	LOC125965266	-7.65	5.18	341.31	uncharacterized LOC125965266
+LOC101289906	WDR72	-4.79	2.04	14.8	WD repeat domain 72
+LOC101276290	TERB1	-4.46	3.95	112.54	telomere repeat binding bouquet formation protein 1
+LOC101271704	OTX2	-8.29	1.8	12.5	orthodenticle homeobox 2
+LOC101287865	HABP2	-6.03	1.15	8.86	hyaluronan binding protein 2
+LOC125960784	LOC125960784	-5.66	5.29	192.86	endogenous retrovirus group K member 5 Gag polyprotein-like
+LOC101290159	PRDM7	-6.66	1.5	10.51	PR/SET domain 7
+LOC101283632	RYR1	-4.15	4.92	101.93	ryanodine receptor 1
+LOC101290204	F5	-4.7	2.7	24.68	coagulation factor V
+LOC101281570	BEND4	-6.27	1.83	13.95	BEN domain containing 4
+LOC101284284	PROM1	-7.27	1.98	19.09	prominin 1
+LOC101278351	LOC101278351	-5.21	1.76	12.15	transcription elongation factor A protein-like 4
+LOC101281799	ADAM2	-6.36	1.85	13.73	ADAM metallopeptidase domain 2
+LOC101289643	GABRA1	-7.48	1.07	8.91	gamma-aminobutyric acid type A receptor subunit alpha1
+LOC101286687	MT	3.69	9.14	1740.77	metallothionein-2
+LOC101272192	KRT81	-6.06	1.18	7.77	keratin, type II cuticular Hb1
+LOC101275077	SLC5A8	-5.89	1.88	16.36	solute carrier family 5 member 8
+LOC101287407	LOC101287407	-7.36	1.36	9.93	cytochrome P450 1A2
+LOC101286907	ERMN	-8.23	1.76	14.46	ermin
+LOC101272223	KRT12	-6.12	1.5	10.73	keratin, type I cytoskeletal 12
+LOC125960875	LOC125960875	-4.25	3.06	139.37	uncharacterized LOC125960875
+LOC101283001	P2RX7	-4.98	2.45	17.29	purinergic receptor P2X 7
+LOC101274854	LOC101274854	-7.64	1.2	8.64	gastrokine-3-like
+LOC101275884	TMEM179	-7.03	0.99	9.29	transmembrane protein 179
+LOC101279945	TCEAL2	-7.7	1.52	12.61	transcription elongation factor A like 2
+LOC101280651	ACP7	-7.9	1.44	9.61	acid phosphatase 7, tartrate resistant (putative)
+LOC101277671	SNAP91	-8.06	1.67	13.68	synaptosome associated protein 91
+LOC101271398	PIGR	-7.69	1.35	9.25	polymeric immunoglobulin receptor
+BNIP5	BNIP5	-7.32	1.66	11.64	BCL2 interacting protein 5
+LOC101274806	LRRD1	-5.93	1.12	8.43	leucine rich repeats and death domain containing 1
+LOC117203097	SERP2	-6.24	2.61	21.9	stress associated endoplasmic reticulum protein family member 2
+LOC101287849	CTSG	-2.87	8.19	6007.86	LINE-1 retrotransposable element ORF2 protein
+LOC101277008	NEFL	-6.95	1.32	8.58	neurofilament light chain
+LOC101288960	NLRP8	-6.91	1.31	8.13	NLR family pyrin domain containing 8
+LOC101270410	LHX5	-7.14	1.08	8.03	LIM homeobox 5
+LOC101289887	DNAH3	-2.92	4.45	71.2	dynein axonemal heavy chain 3
+LOC101275202	IL3	-7.34	3.29	35.33	interleukin-3
+LOC101278874	RXFP2	-6.74	1.39	12.79	relaxin family peptide receptor 2
+LOC101275879	LOC101275879	-7.52	1.13	8.32	piwi like RNA-mediated gene silencing 3
+MYH1	MYH1	-7.34	2.37	21.41	myosin heavy chain 1
+LOC101279455	LOC101279455	-6.22	1.5	10.48	tripartite motif-containing protein 64-like
+LOC101284842	CD300A	-4.13	2.34	19.8	CMRF35-like molecule 8
+LOC125964846	LOC125964846	-7.47	3.04	46.08	metabotropic glutamate receptor 7-like
+LOC101286558	CX3CR1	-4.16	3.24	33.64	C-X3-C motif chemokine receptor 1
+LOC101277792	RAG1	-6.85	1.62	12.38	recombination activating 1
+LOC125963512	LOC125963512	-5.27	6.26	14128.44	uncharacterized LOC125963512
+LOC101284147	NPAS3	-4.49	2	14.98	neuronal PAS domain protein 3
+LOC101269858	DTHD1	-7.92	1.59	10.68	death domain containing 1
+C8H11orf87	C8H11orf87	-7.18	2.6	21.56	chromosome 8 C11orf87 homolog
+LOC101274087	FSTL5	-6.78	1.5	11.11	follistatin like 5
+LOC101286361	ETNPPL	-5.42	1.44	11.35	ethanolamine-phosphate phospho-lyase
+LOC101277247	SLC13A2	-6.18	1.87	19.51	solute carrier family 13 member 2
+TAFA5	TAFA5	-4.67	3.8	77.74	TAFA chemokine like family member 5
+LOC101282677	GK2	-6.74	0.63	7.33	glycerol kinase 2
+LOC101275277	LOC101275277	-3.61	4.95	323.03	A-kinase anchor protein 17B
+LOC101288386	GFRAL	-7.33	0.97	7.06	GDNF family receptor alpha like
+LOC101289454	NDST3	-6.4	1.38	9.44	N-deacetylase and N-sulfotransferase 3
+LOC101272099	HTR1F	-7.4	1	7.06	5-hydroxytryptamine receptor 1F
+LOC101279843	CTNNA3	-3.69	3.1	24.5	catenin alpha-3
+LOC101269192	CBLN1	-6.44	1.5	10.55	cerebellin 1 precursor
+LOC101285603	TAS2R60	-6.99	1.44	11.01	taste receptor type 2 member 60
+LOC101271102	SLC9C2	-3.58	3.45	39.75	solute carrier family 9 member C2 (putative)
+LOC101269588	GUCY2F	-8.29	1.9	14.12	guanylate cyclase 2F, retinal
+LOC101274732	OTOG	-4.1	2.99	31.06	otogelin
+LOC101278204	SLC17A6	-7.35	1.34	9.44	solute carrier family 17 member 6
+LOC101282667	AMER3	-7.68	1.7	12.61	APC membrane recruitment protein 3
+LOC101273881	SLC24A2	-3.77	1.84	18.01	solute carrier family 24 member 2
+LOC101269517	TRAM1L1	-4.36	1.95	15.32	translocation associated membrane protein 1 like 1
+LOC101289446	NLRP5	-6.21	1.46	10.99	NLR family pyrin domain containing 5
+LOC101275287	ADARB2	-7.3	1.55	10.58	adenosine deaminase RNA specific B2 (inactive)
+LOC117198203	LOC117198203	-8.53	2.37	29.58	paraneoplastic antigen Ma6F-like
+LOC101281463	PNLIPRP2	-7.8	1.48	9.79	pancreatic lipase-related protein 2
+LOC101283968	TDRKH	-3.57	2.68	23.85	tudor and KH domain containing
+LOC101285995	LOC101285995	-7.05	1.43	10.76	alpha-fetoprotein-like
+LOC101281405	FRMPD1	-3.85	2.65	19.2	FERM and PDZ domain containing 1
+LOC101281096	RGS8	-3.83	2.5	27.01	regulator of G protein signaling 8
+LOC101269335	SKIDA1	-3.37	3.18	32.93	SKI/DACH domain containing 1
+LOC101290244	IRS4	-7.1	2.16	19.58	insulin receptor substrate 4
+LOC101279241	MAS1	-6.92	1.36	10.87	MAS1 proto-oncogene, G protein-coupled receptor
+LOC101286567	EOMES	-7.59	1.64	11.59	eomesodermin
+LOC101272393	RTL1	-7.1	1.15	9.81	retrotransposon Gag like 1
+LOC105747899	LRTM1	-6.54	1.89	18.11	leucine rich repeats and transmembrane domains 1
+LOC117199154	LOC117199154	-7.04	1.25	9.08	putative protein FRMPD2-like
+LOC101275967	CDHR3	-3.67	3.01	28.45	cadherin related family member 3
+LOC101283194	TMPRSS2	-5.98	1.31	10.2	transmembrane serine protease 2
+LOC101285815	FMN2	-3.66	2.43	17.33	formin 2
+LOC101290145	UNC13C	-4.51	3.19	30.78	unc-13 homolog C
+LOC101271460	DAO	-6.47	2.25	17.77	D-amino acid oxidase
+LOC101279751	KCNK10	-5.2	2.33	17.38	potassium two pore domain channel subfamily K member 10
+LOC101273943	ITIH1	-5.92	2.07	15.59	inter-alpha-trypsin inhibitor heavy chain 1
+LOC101290064	SRRM4	-4.58	2.6	23.52	serine/arginine repetitive matrix 4
+LOC101288289	ITIH6	-6.21	1.64	12.29	inter-alpha-trypsin inhibitor heavy chain family member 6
+LOC101284630	TRPM2	-4.78	2.73	23.61	transient receptor potential cation channel subfamily M member 2
+LOC101288521	CPO	-6.88	1.36	12.19	carboxypeptidase O
+ELAPOR1	ELAPOR1	-6.47	1.79	13.43	endosome-lysosome associated apoptosis and autophagy regulator 1
+LOC117197688	LOC117197688	-6.76	2.66	22.74	BLACAT1 overlapping LEMD1 locus
+LOC125961282	LOC125961282	-7.71	1.37	9.14	netrin receptor DCC-like
+LOC101274903	GCM1	-7.71	1.23	9.3	glial cells missing transcription factor 1
+LOC101275910	AGXT2	-6.73	1.47	10.14	alanine--glyoxylate aminotransferase 2
+LOC101284871	TAAR1	-6.94	1.05	7.09	trace amine-associated receptor 1
+LOC101286680	PDILT	-4.9	1.82	12.68	protein disulfide isomerase like, testis expressed
+LOC101274633	AMPD1	-6.14	1.62	11.23	adenosine monophosphate deaminase 1
+LOC101284480	SOST	-6.73	1.48	9.33	sclerostin
+LOC101286120	NRSN2	-7.59	1.25	12.77	neurensin 2
+LOC101275662	AGTR2	-7.36	0.94	7.3	angiotensin II receptor type 2
+LOC101278631	AZU1	-7.85	1.72	11.13	azurocidin 1
+LOC101271425	CLNK	-7.27	1.07	6.61	cytokine dependent hematopoietic cell linker
+LOC101284396	HAL	-4.36	1.86	12.8	histidine ammonia-lyase
+LOC101284189	BLK	-6.79	1.54	11.11	BLK proto-oncogene, Src family tyrosine kinase
+LOC101278642	LOC101278642	-7.36	0.89	7.87	MORF4 family-associated protein 1-like
+LOC125960851	LOC125960851	-3.45	3.45	42.86	uncharacterized LOC125960851
+LOC101270929	MEPE	-6.38	1.6	15.13	matrix extracellular phosphoglycoprotein
+LOC101278639	SYN3	-3.68	2.72	22.96	synapsin III
+LOC101286949	GP2	-7.39	0.97	9.26	glycoprotein 2
+LOC101280427	BMP3	-7.59	1.37	10.08	bone morphogenetic protein 3
+LOC101274151	IGSF22	-5.18	2.3	19.49	immunoglobulin superfamily member 22
+LOC125961791	LOC125961791	-4.87	3.55	57.19	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101283131	LOC101283131	-7.92	1.54	10.47	hypoxia-inducible factor 1-alpha inhibitor-like
+C13H2orf78	C13H2orf78	-5.52	2.34	27.62	chromosome 13 C2orf78 homolog
+LOC101272035	BFSP2	-7.65	1.26	8.67	beaded filament structural protein 2
+LOC101273696	CAMK4	-6.18	1.52	11.31	calcium/calmodulin dependent protein kinase IV
+LOC101279596	CCDC196	-6.66	1	7.22	coiled-coil domain containing 196
+LOC101273627	FOXI1	-8.12	1.71	10.96	forkhead box I1
+LOC101276548	PTPRQ	-3.69	3.32	34.27	protein tyrosine phosphatase receptor type Q
+LOC101282766	ITK	-6.31	1.11	7.31	IL2 inducible T cell kinase
+LOC101277119	TRIML1	-7.04	1.69	10.95	tripartite motif family like 1
+LOC101283296	EPHA7	-4.91	2.25	18.48	EPH receptor A7
+PCARE	PCARE	-4.71	2.31	22.69	photoreceptor cilium actin regulator
+CFAP299	CFAP299	-5.51	1.35	11.2	cilia and flagella associated protein 299
+LOC101289803	OOEP	-5.18	2.98	26.85	oocyte expressed protein
+LOC101287534	SPEF2	-5.74	2.4	20.77	sperm flagellar 2
+LOC101273750	LY6D	3.75	7.16	430.44	lymphocyte antigen 6 family member D
+LOC101282605	CHRND	-6.03	1.27	8.8	cholinergic receptor nicotinic delta subunit
+LOC101275770	TAT	-6.69	1.38	8.4	tyrosine aminotransferase
+LOC101270755	TIMP4	2.07	4.85	85.77	TIMP metallopeptidase inhibitor 4
+LOC101274237	ADAD1	-6.39	0.84	7.8	adenosine deaminase domain containing 1
+LOC101276647	HECW1	-5.18	1.7	13.17	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1
+LOC101288594	RIMBP3B	-6.28	1.14	7.68	RIMS-binding protein 3C
+LOC125962980	LOC125962980	-6.35	1.46	12.78	ankyrin repeat and SOCS box containing 12
+LOC101273429	BVES	-4.25	2.2	15.98	blood vessel epicardial substance
+LOC101279274	SLC18A2	-5.78	1.5	10.81	solute carrier family 18 member A2
+LOC101289728	LOC101289728	-7.34	1	8.17	inosine-5'-monophosphate dehydrogenase 2-like
+LOC101278815	PADI2	-6.21	1.71	14.47	peptidyl arginine deiminase 2
+LOC101288907	TAS2R5	-4.65	1.36	9.27	taste receptor type 2 member 5
+LOC101278740	TACR1	-6.82	1.51	11.02	tachykinin receptor 1
+LOC101289033	MDH1B	-6.21	1.29	9.45	malate dehydrogenase 1B
+C2H10orf67	C2H10orf67	-7.63	1.6	10.92	chromosome 2 C10orf67 homolog
+LOC101279897	OTOGL	-4.87	3.48	38.33	otogelin like
+LOC101281486	IL21R	-4.47	2.68	28.55	interleukin 21 receptor
+LOC125960843	LOC125960843	-8.26	4.74	113.57	uncharacterized LOC125960843
+LOC101271942	PAK5	-7.66	1.19	9.72	p21 (RAC1) activated kinase 5
+LOC101277296	GPR174	-5.07	2.8	25.74	G protein-coupled receptor 174
+LOC125961024	LOC125961024	-4.68	2.07	17.13	NOP protein chaperone 1-like
+LOC101283540	LOC101283540	-6.78	1.09	8.09	aromatase
+LOC101285779	CCDC185	-8.06	1.5	11.38	coiled-coil domain containing 185
+LOC101285557	SLC35F3	-7.7	1.2	9.24	solute carrier family 35 member F3
+LOC101286934	CELF4	-6	1.49	12.05	CUGBP Elav-like family member 4
+LOC101269789	TEKT5	-7.34	0.96	7.24	tektin 5
+LOC101275185	SLC6A11	-4.55	2.46	18.72	solute carrier family 6 member 11
+LOC101281387	PCDH10	-4.72	2.05	14.98	protocadherin 10
+LOC101285869	PRDM14	-7.58	1.31	8.65	PR/SET domain 14
+LOC105748497	LOC105748497	-3.65	2	14	uncharacterized LOC105748497
+LOC125963897	LOC125963897	-8.35	2.01	14.94	putative POM121-like protein 1
+LOC101272077	PPEF1	-6.1	1.16	8.27	protein phosphatase with EF-hand domain 1
+LOC101289141	ZCCHC18	-7.43	1.17	8.66	zinc finger CCHC-type containing 18
+LOC101284361	HMGCS2	-7.53	1.22	8.12	3-hydroxy-3-methylglutaryl-CoA synthase 2
+LOC101277325	IL17F	-4.45	3.24	32.99	interleukin 17F
+LOC101288658	XKR6	-6.84	1.2	8.17	XK-related protein 6
+LOC101269363	IL36B	-6.68	2.4	18.57	interleukin 36 beta
+LOC101290227	LAMP3	-5.65	1.7	11.58	lysosomal associated membrane protein 3
+LOC101275648	SLC1A2	-3.06	3.18	35.97	solute carrier family 1 member 2
+LOC101270332	FCMR	-6.28	1.44	10.93	Fc mu receptor
+LOC101284077	TDRD5	-3.67	2.32	15.71	tudor domain containing 5
+LOC101275061	GRIK3	-3.86	3.29	29.7	glutamate ionotropic receptor kainate type subunit 3
+LOC101277958	PCLO	-3.78	4.25	61.89	protein piccolo
+LOC101282894	ZNF488	-6.4	2.35	18.5	zinc finger protein 488
+LOC101279126	GABRG1	-3.71	1.81	12.7	gamma-aminobutyric acid type A receptor subunit gamma1
+LOC101280409	CNTN6	-6.29	2.06	59.26	contactin 6
+LOC101270990	LOC101270990	-5.8	1.14	7.87	olfactory receptor 10J3-like
+LOC101274895	CD244	-7.55	0.99	8.91	CD244 molecule
+LOC101270367	TFAP2D	-7.87	1.52	10.08	transcription factor AP-2 delta
+LOC101289024	GDAP1	-4.85	1.89	13.73	ganglioside induced differentiation associated protein 1
+LOC101281744	DSCAML1	-5.86	2.27	19.17	DS cell adhesion molecule like 1
+LOC101288835	CCDC116	-7.45	1.12	7.76	coiled-coil domain containing 116
+LOC101282006	KCNA6	-4.13	3.3	41.39	potassium voltage-gated channel subfamily A member 6
+LOC101285711	APOBEC4	-5.73	2.14	15.67	apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4
+LOC101270748	BCAS1	-4.99	3.57	33.56	brain enriched myelin associated protein 1
+LOC101283564	SYT4	-8.1	1.59	10.93	synaptotagmin 4
+LOC105748909	ZSCAN23	-6.34	2.44	22.63	zinc finger and SCAN domain containing 23
+LOC101289768	MS4A2	-5.65	2.19	16.89	membrane spanning 4-domains A2
+LOC101270793	ABCG4	-5.5	2.02	15.07	ATP binding cassette subfamily G member 4
+LOC101280406	HOXC12	-5.15	2.8	24.77	homeobox C12
+LOC101289002	NKAIN3	-6.77	1.53	11.2	sodium/potassium transporting ATPase interacting 3
+LOC101284770	GPR31	-6.99	1.05	7.71	G protein-coupled receptor 31
+LOC101275057	IL7R	-7.4	1.01	7.27	interleukin 7 receptor
+LOC101288273	WT1	-7.24	0.82	6.04	WT1 transcription factor
+LOC101272403	POLR3G	-4.21	3.19	31.52	RNA polymerase III subunit G
+LOC101283191	OLIG2	-7.93	1.48	9.92	oligodendrocyte transcription factor 2
+LOC101281400	ABCC6	-6.32	2.49	25.71	ATP binding cassette subfamily C member 6
+LOC101275794	MYLK4	-4.38	1.75	15.75	myosin light chain kinase family member 4
+LOC101275885	CSMD1	-4.74	3.48	42.94	CUB and Sushi multiple domains 1
+LOC101277474	FGB	-6.16	1.08	7.43	fibrinogen beta chain
+GARIN3	GARIN3	-5.96	1.02	6.84	golgi associated RAB2B interactor family member 3
+LOC125960760	LOC125960760	-2.95	5.9	282.38	uncharacterized LOC125960760
+LOC101289903	C8B	-5.76	1.61	10.79	complement C8 beta chain
+LOC101275424	CD33	-5.44	1.99	14.9	myeloid cell surface antigen CD33-like
+SHOC1	SHOC1	-5.95	1.57	16.81	shortage in chiasmata 1
+PPDPFL	PPDPFL	-7.73	2.26	16.07	pancreatic progenitor cell differentiation and proliferation factor like
+LOC101286135	CDH9	-6.56	0.91	6.94	cadherin 9
+LOC105748533	LOC105748533	-4.34	1.7	16.92	non-histone chromosomal protein HMG-14-like
+LOC101269441	COL22A1	-3.8	2.8	27.73	collagen type XXII alpha 1 chain
+LOC101276875	SLCO6A1	-4.48	1.55	9.6	solute carrier organic anion transporter family member 6A1
+LOC101278551	GABRA2	-6.81	1.33	10.9	gamma-aminobutyric acid type A receptor subunit alpha2
+LOC101270940	DRD5	-5.4	1.85	20.35	dopamine receptor D5
+LOC125965241	LOC125965241	-5.91	2.96	33.35	endogenous retrovirus group K member 7 Env polyprotein-like
+LOC125961671	LOC125961671	-5.62	2.27	30.17	putative POM121-like protein 1
+LOC101277127	HTR4	-4.36	2	14.73	5-hydroxytryptamine receptor 4
+LOC101272724	SHISA7	-5.54	2.2	18.05	shisa family member 7
+LOC101274122	GCGR	-7.12	1.12	7.39	glucagon receptor
+LOC101278513	MCOLN2	-6.62	1.31	8.79	mucolipin TRP cation channel 2
+LOC101288425	ELAVL3	-4.7	1.45	10.81	ELAV like RNA binding protein 3
+LOC101270565	MEI1	-4.65	2.56	20.49	meiotic double-stranded break formation protein 1
+LOC125962188	LOC125962188	-7.15	3.14	52	leucine-rich repeat-containing protein 37B-like
+LOC101289297	NRXN1	-3.1	3.41	29.54	neurexin 1
+LOC101276178	TEX101	-7.31	1.51	10.6	testis expressed 101
+LOC101278389	PRTN3	-6.96	1.51	9.81	myeloblastin
+LOC101272221	LOC101272221	2.42	7.35	489.43	CD36 molecule
+LOC101288156	LOC101288156	-2.97	2.31	19.55	translationally-controlled tumor protein-like
+LOC101277623	LOC101277623	-7.35	0.84	7.14	2'-5'-oligoadenylate synthase 1-like
+LOC101285977	LHX8	-5.47	1	6.9	LIM homeobox 8
+LOC101283152	EGF	-5.36	1.47	15.72	epidermal growth factor
+LOC101273060	LOC101273060	-3.74	3	46.79	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101287470	LRRC38	-7.99	1.58	10.13	leucine rich repeat containing 38
+LOC101273930	STPG3	-7.93	2.01	15.01	sperm-tail PG-rich repeat containing 3
+LOC101273057	NOS1	-8.63	2.25	17.57	nitric oxide synthase 1
+LOC101273101	CABS1	-7	0.72	5.38	calcium binding protein, spermatid associated 1
+LOC101280941	LRRIQ1	-4.4	3.77	42.5	leucine rich repeats and IQ motif containing 1
+LOC101276477	LOC101276477	-6.27	0.74	6.29	cytoplasmic protein NCK1-like
+LOC101285165	CD8A	-6.57	2.12	15.49	CD8a molecule
+LOC101273854	JAKMIP1	-6.89	1.64	10.34	janus kinase and microtubule-interacting protein 1
+LOC101274386	SEMA3E	-3.61	2.52	19.3	semaphorin 3E
+LOC125960854	LOC125960854	-7.41	2.55	23.25	metabotropic glutamate receptor 7-like
+LOC101270994	AGBL1	-7.08	2.37	22.27	AGBL carboxypeptidase 1
+LOC101284271	LOC101284271	-5.83	1.26	8.35	negative elongation factor D-like
+LOC101287882	Oror-DOB	-3.83	2.35	18.69	HLA class II histocompatibility antigen, DO beta chain
+LOC101278508	CDX2	-6.78	1.04	9.42	caudal type homeobox 2
+RIPOR2	RIPOR2	-3.13	3.15	31.36	RHO family interacting cell polarization regulator 2
+LOC101277135	PAX3	-4.58	3.39	36.64	paired box 3
+LOC101285023	LOC101285023	-7.59	1.35	10.9	craniofacial development protein 1-like
+LOC101286185	LBX1	-6.78	0.91	7.92	ladybird homeobox 1
+LOC101289447	NLRP9	-5.21	1.79	13.08	NLR family pyrin domain containing 9
+LOC101271552	RD3L	-6.99	0.62	5.55	RD3 like
+LOC101273113	LOC101273113	-6.42	1.23	9.63	high affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A-like
+LOC101275679	SEC14L5	-4.86	2.38	18.01	SEC14 like lipid binding 5
+LOC117197541	FCRLA	-5.99	1.11	7.47	Fc receptor like A
+LOC101287731	EXD1	-4.06	1.92	13.9	exonuclease 3'-5' domain containing 1
+LOC101281112	LOC101281112	-5.8	1.9	13.6	52 kDa repressor of the inhibitor of the protein kinase-like
+LOC101278772	SPDYC	-6.15	1.93	18.02	speedy/RINGO cell cycle regulator family member C
+LOC125963653	LOC125963653	-4.34	2.2	50.91	uncharacterized LOC125963653
+LOC101283615	SLC25A48	-4.28	3.55	42.75	solute carrier family 25 member 48
+LOC101278659	PENK	-5.2	0.74	5.84	proenkephalin
+LOC101282404	TLE7	-5.59	1.19	8.84	TLE family member 7
+LOC101275256	NUGGC	-5.3	1.91	13.38	nuclear GTPase, germinal center associated
+LOC101283187	KCNA10	-6.84	0.58	5.57	potassium voltage-gated channel subfamily A member 10
+LOC101282896	LOC101282896	-5.09	1.41	9.44	heterogeneous nuclear ribonucleoprotein H3-like
+LOC101273543	DNAH5	-2.79	4.84	91.63	dynein axonemal heavy chain 5
+LOC101278247	SDR9C7	-6.63	1.47	10.03	short chain dehydrogenase/reductase family 9C member 7
+LOC101285212	ATP13A5	-8.6	2.25	17.37	ATPase 13A5
+LOC101288822	GABRB2	-3.54	2.42	17.68	gamma-aminobutyric acid type A receptor subunit beta2
+LOC101283738	ACE2	-2.64	3.2	30.23	angiotensin converting enzyme 2
+LOC101284402	CNFN	3.81	4.94	87.51	cornifelin
+LOC125965573	LOC125965573	-4.71	3.9	79.4	uncharacterized LOC125965573
+LOC101290007	MS4A1	-6.47	1.41	12	B-lymphocyte antigen CD20
+LOC101281900	IGFBPL1	-6.63	1.05	8.46	insulin like growth factor binding protein like 1
+LOC101278737	LOC101278737	-7.32	0.86	7.03	solute carrier family 7 member 13-like
+LOC101279068	NOX5	-6.25	1.79	13.71	NADPH oxidase 5
+LOC101273578	TBX21	-7.33	1.02	7.38	T-box transcription factor 21
+LOC101281028	SPATA31D1	-2.49	3.45	35.67	spermatogenesis-associated protein 31D4
+LOC101283258	AHSG	-5.5	1.38	9.64	alpha 2-HS glycoprotein
+JHY	JHY	-5.85	0.83	7.48	junctional cadherin complex regulator
+LOC101275959	LOC101275959	-6.06	0.96	7.22	60S ribosomal protein L32-like
+LOC101277203	LOC101277203	-3.57	3.13	36.64	protein-lysine methyltransferase METTL21E
+LOC101278488	PSKH2	-7.08	0.71	5.98	protein serine kinase H2
+LOC101278771	GPR149	-6.8	1.41	10.12	G protein-coupled receptor 149
+LOC101288295	LOC101288295	-6.1	1.1	7.85	phosphorylase b kinase regulatory subunit beta-like
+LOC101282051	DCC	-4.7	2	14.12	netrin receptor DCC
+LOC101282519	DNAH11	-2.64	4.27	71.8	dynein axonemal heavy chain 11
+LOC101286105	ADGRD2	-5.87	1.3	8.5	adhesion G protein-coupled receptor D2
+LOC101269443	ARX	-5.05	1.93	17.07	aristaless related homeobox
+CIROP	CIROP	-6.44	1.13	10.14	ciliated left-right organizer metallopeptidase
+LOC101288988	SAMD7	-7.27	1.28	8.57	sterile alpha motif domain containing 7
+LOC101275381	LOC101275381	-6.86	1.25	12.23	rho GTPase-activating protein 12-like
+LOC101271998	ALPK2	-2.47	3.27	31.96	alpha kinase 2
+LOC101272041	LOC101272041	-6.89	1.45	12.26	lysine-rich nucleolar protein 1-like
+LOC101277572	PACSIN1	-5.23	1.71	12.82	protein kinase C and casein kinase substrate in neurons 1
+LOC101290143	CHRM5	-6.38	1.43	9.6	cholinergic receptor muscarinic 5
+LOC101275086	GLIPR2	-2.45	3.43	36.09	GLI pathogenesis related 2
+LOC101270907	ATP12A	-4.48	2.11	15.25	ATPase H+/K+ transporting non-gastric alpha2 subunit
+LOC101285701	SYNPO2L	-2.32	3.66	39.1	synaptopodin 2 like
+LOC101282595	LOC101282595	-6.54	0.62	6.33	RNA-binding motif protein, X-linked 2-like
+LOC101287286	MYLK3	-3.26	2.96	27.69	myosin light chain kinase 3
+LOC125960637	LOC125960637	-7.01	0.77	5.46	uncharacterized LOC125960637
+LOC101281536	LOC101281536	-4.74	0.88	7.46	aldo-keto reductase family 1 member C3-like
+LOC101274491	BAI1	-3.18	2.41	17.78	adhesion G protein-coupled receptor B1
+LOC101284715	IKZF3	-5.07	2.25	25.09	IKAROS family zinc finger 3
+LOC101276666	LCNL1	-6.25	1.1	8.57	lipocalin like 1
+LOC101279805	GPA33	-7.52	1.23	7.54	glycoprotein A33
+CCDC198	CCDC198	-6.84	2	18.17	coiled-coil domain containing 198
+LOC101284915	B3GNT8	3.55	4.01	46.22	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8
+LOC101271366	LOC101271366	-3.71	1.51	10.48	olfactory receptor 1509
+LOC101278750	NLRP10	-7.47	1.1	8.06	NLR family pyrin domain containing 10
+LOC101288495	PDHA2	-7.56	1.12	8.29	pyruvate dehydrogenase E1 subunit alpha 2
+LOC101285910	LOC101285910	-4.95	0.92	6.59	AT-rich interactive domain-containing protein 1A-like
+LOC101273737	ABCA4	-3.08	3.22	31.63	ATP binding cassette subfamily A member 4
+LOC101289735	CHGB	-5.03	1.19	8.48	chromogranin B
+LOC101284777	LOC101284777	-6.21	1.24	10.21	inositol polyphosphate 5-phosphatase OCRL-like
+LOC101286756	GRM1	-4.39	2.42	15.45	glutamate metabotropic receptor 1
+LOC101271327	LOC101271327	-5.74	2.21	25.96	NF-kappa-B-repressing factor-like
+LOC101269905	CNPY1	-6.58	1.64	11.38	canopy FGF signaling regulator 1
+LOC101286904	LCTL	-5.77	2	14.72	lactase like
+LOC101274437	ATP2B2	-2.99	3.5	36.53	ATPase plasma membrane Ca2+ transporting 2
+LOC101270449	PIGQ	1.67	5.12	102.71	phosphatidylinositol glycan anchor biosynthesis class Q
+LOC101277401	PDE6B	-6.24	1.17	10	phosphodiesterase 6B
+TAFA2	TAFA2	-5.62	1.77	12	TAFA chemokine like family member 2
+LOC101277502	GABRB1	-4.1	2.42	20.51	gamma-aminobutyric acid type A receptor subunit beta1
+LOC101273074	SLC4A10	-8.37	1.77	21.43	solute carrier family 4 member 10
+LOC101286776	LOC101286776	-5.81	0.67	5.42	histone deacetylase 2-like
+LOC101283183	IL26	-8.08	1.57	10.98	interleukin 26
+LOC101286593	LOC101286593	-6.06	1.29	9.55	E3 ubiquitin-protein ligase RLIM-like
+LOC101273457	NKPD1	2.29	5.43	131.04	NTPase KAP family P-loop domain containing 1
+LOC101279290	TTBK1	-5.69	2.31	22.88	tau tubulin kinase 1
+LOC101281458	FHL5	-4.15	1.57	10.52	four and a half LIM domains 5
+LOC101287836	HNF4G	-6.98	1.15	8.22	hepatocyte nuclear factor 4 gamma
+LOC101271109	ALDOB	-5.33	2.01	14.17	aldolase, fructose-bisphosphate B
+LOC101274097	SULT1E1	-7.03	1.09	8.11	sulfotransferase family 1E member 1
+LOC101286432	MYBPC2	-2.72	3.2	30.71	myosin binding protein C2
+LOC101286389	CDH10	-6.86	1.24	10.35	cadherin-10
+LOC101283016	LOC101283016	-5.84	0.77	6.04	putative zinc finger protein 487
+LOC101282231	TMEM74B	-6.9	2.19	15.58	transmembrane protein 74B
+C1H1orf54	C1H1orf54	-4.52	2.31	18.18	chromosome 1 C1orf54 homolog
+LOC101276400	LOC101276400	-3.52	4.02	54.03	coiled-coil domain-containing protein 162-like
+LOC101283230	FAT3	-2.24	4.48	70.04	FAT atypical cadherin 3
+LOC101287885	TLL2	-3.85	2.38	18.16	tolloid like 2
+LOC101270980	MMP1	-6.38	1.19	9.52	matrix metallopeptidase 1
+LOC101288994	DCDC2	-4.53	1.68	13.1	doublecortin domain containing 2
+C16H20orf173	C16H20orf173	-4.5	2.25	17.46	chromosome 16 C20orf173 homolog
+LOC101276691	ZBED2	-7.24	1.44	8.69	zinc finger BED-type containing 2
+LOC101280170	LOC101280170	-6.99	1.69	11.55	protein FAM50A-like
+LOC101287292	EIF4E1B	-7.29	1.03	6.52	eukaryotic translation initiation factor 4E family member 1B
+LOC101286216	RLBP1	-6.94	1.95	19.75	retinaldehyde binding protein 1
+LOC101282384	GDF2	-6.99	0.89	6.31	growth differentiation factor 2
+LOC101287201	THEM5	-6.94	3	29.81	thioesterase superfamily member 5
+LOC101278958	MOG	-5.88	1.22	9.98	myelin oligodendrocyte glycoprotein
+LOC101278591	JAKMIP2	-4.57	2.14	15.83	janus kinase and microtubule interacting protein 2
+LOC101281936	HAPLN1	-4.96	0.87	6.98	hyaluronan and proteoglycan link protein 1
+LOC101269656	LIPI	-4.89	2.92	25.92	lipase I
+LOC101275183	EDDM3B	-5.25	1.01	7.76	epididymal protein 3B
+LOC101281852	LOC101281852	-5.72	1.22	7.98	40S ribosomal protein S2-like
+LOC101282656	SLC2A7	-5.87	1.2	8.23	solute carrier family 2 member 7
+LOC101278036	UMODL1	-3.47	1.77	11.67	uromodulin like 1
+LOC101279872	ABCG5	-4.88	1.73	11.44	ATP binding cassette subfamily G member 5
+LOC101284858	SCN3B	-4.8	2.54	20.03	sodium voltage-gated channel beta subunit 3
+LOC101274887	NKAIN2	-7.15	1.3	8.09	sodium/potassium transporting ATPase interacting 2
+LOC117201273	LOC117201273	-6.59	0.96	6.96	riboflavin kinase-like
+LOC101282508	LOC101282508	-7.01	1.78	11.88	protein PIP-1-like
+LOC101273010	ADAM7	-8.33	1.92	13.98	ADAM metallopeptidase domain 7
+LOC117199107	LOC117199107	-3.64	3.03	27.6	peroxisomal membrane protein 11A-like
+LOC101279770	LOC101279770	-5.23	1.48	10.43	vomeronasal type-2 receptor 1-like
+LOC101271283	SERPIND1	-6.02	0.84	6.4	serpin family D member 1
+LOC101272309	SLC26A7	-4.88	1.56	12.66	solute carrier family 26 member 7
+LOC101282652	ALDH1B1	-5.29	1.91	15.35	aldehyde dehydrogenase 1 family member B1
+LOC101282573	ATP6V0A4	-5.32	1.98	15.15	ATPase H+ transporting V0 subunit a4
+LOC101273693	ADAM11	-5.2	1.59	11.14	ADAM metallopeptidase domain 11
+LOC101280181	CD2	-7.08	1.67	9.96	CD2 molecule
+LOC101282848	SALL3	-5.73	1.42	10.44	spalt like transcription factor 3
+C8H11orf65	C8H11orf65	-5.6	0.89	6.17	chromosome 8 C11orf65 homolog
+LOC101274395	INPP5J	-6.57	1.7	14.98	inositol polyphosphate-5-phosphatase J
+LOC117196471	LOC117196471	-7.75	1.22	8.76	small integral membrane protein 45
+LOC101278282	LRRC4C	-3.31	3.51	32.27	leucine rich repeat containing 4C
+LOC101270034	NKX2-1	-7.53	1.61	12.75	NK2 homeobox 1
+LOC101289590	GADL1	-4.4	1.6	11.44	glutamate decarboxylase like 1
+LOC101289104	SLC8A3	-3.7	2.9	27.29	solute carrier family 8 member A3
+LOC101276211	LOC101276211	-6.66	0.84	8.22	T-cell receptor gamma chain C region C10.5
+LOC101280972	FOXB2	-7.02	0.6	5.49	forkhead box B2
+LOC101275752	TXNDC8	-3	3.28	36.35	thioredoxin domain-containing protein 8
+LOC101287325	EMR1	-5.25	2.08	15.88	adhesion G protein-coupled receptor E1
+LOC101270311	ZIC4	-4.73	2.17	20.14	Zic family member 4
+LOC117198764	TMEM275	-8.46	1.96	15.12	transmembrane protein 275
+LOC125963975	LOC125963975	-3.17	3.31	34.12	translation initiation factor IF-2-like
+LOC101270056	RIMS2	-2.9	3.41	34.96	regulating synaptic membrane exocytosis 2
+LOC101278549	CDH7	-4.84	2.16	15.42	cadherin 7
+LOC101272455	ANKEF1	-4.45	1.62	13.65	ankyrin repeat and EF-hand domain containing 1
+LOC101276888	LOC101276888	-4.94	0.95	6.9	dnaJ homolog subfamily A member 1-like
+LOC101269787	EEPD1	2.84	6.44	278.47	endonuclease/exonuclease/phosphatase family domain containing 1
+LOC101290471	KRT84	-5.37	1.87	14.23	keratin 84
+LOC101282678	GRXCR2	-6.65	1.1	8.08	glutaredoxin and cysteine rich domain containing 2
+LOC101278498	CDR1	-7.16	2.45	27.9	cerebellar degeneration-related antigen 1
+LOC101282398	HRH2	-6.67	2.98	27.19	histamine receptor H2
+LOC101273510	TPH1	-4.49	1.64	11.71	tryptophan hydroxylase 1
+LOC101288814	SLCO1B3	-7.47	1.12	7.7	solute carrier organic anion transporter family member 1B3
+LOC101270092	GJD3	-4.95	1.98	14.02	gap junction protein delta 3
+LOC101288327	ARHGAP11A	-2.04	4.67	84.45	Rho GTPase activating protein 11A
+LOC101272762	LOC101272762	-6.08	1.33	8.36	translocon-associated protein subunit gamma-like
+LOC101277228	GPR61	-6.44	1.49	10.77	G protein-coupled receptor 61
+LOC101289667	INSC	-4.07	1.22	8	INSC spindle orientation adaptor protein
+LOC101284191	ENTHD1	-6.72	0.9	6.86	ENTH domain containing 1
+LOC101288928	KCNJ3	-5.07	2.03	14.81	potassium inwardly rectifying channel subfamily J member 3
+LOC117202511	LOC117202511	-5.25	1.4	11.87	uncharacterized LOC117202511
+LOC101272737	ERMAP	-5.92	1.99	14.74	erythroblast membrane associated protein (Scianna blood group)
+LOC101272436	FASLG	-6.33	1.5	9.79	Fas ligand
+LOC125965398	LOC125965398	-4.78	3.68	66.16	uncharacterized LOC125965398
+LOC101272746	OTOA	-3.72	2.83	24.16	otoancorin
+LOC101283754	NT5C1B	-6.75	1.01	10.26	5'-nucleotidase, cytosolic IB
+LOC101274107	LOC101274107	-3.8	3.98	54.5	olfactory receptor 2C1
+LOC101279856	SLC26A4	-6.22	1.34	9.16	solute carrier family 26 member 4
+LOC117197330	LOC117197330	-5.43	2.78	23.96	actin-related protein 2/3 complex subunit 1A-like
+LOC101276415	USP26	-7.6	1.11	10.27	ubiquitin specific peptidase 26
+LOC101275758	SLC30A10	-3.74	2.87	27.18	solute carrier family 30 member 10
+LOC117200095	LOC117200095	-5.64	0.87	5.42	succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial-like
+LOC117196809	SPINK14	-5.11	2.12	15.81	serine protease inhibitor Kazal-type 14
+LOC101284311	HSPA1L	-4.18	1.38	9.59	heat shock protein family A (Hsp70) member 1 like
+LOC101288250	CACNG2	-6.24	0.97	6.96	calcium voltage-gated channel auxiliary subunit gamma 2
+LOC101274827	STK32B	-5.93	1.44	8.82	serine/threonine kinase 32B
+LOC101275909	SORCS3	-3.14	2.93	24.95	sortilin related VPS10 domain containing receptor 3
+LOC101284739	TRIM50	-6.42	1.21	7.39	E3 ubiquitin-protein ligase TRIM50
+LOC101277736	SLC34A1	-7.5	1.11	6.93	solute carrier family 34 member 1
+LOC101271809	LOC101271809	-5.19	1.7	12.37	heterogeneous nuclear ribonucleoprotein A1-like
+LOC101284118	NEUROG1	-7.53	1.04	8.77	neurogenin 1
+LOC101277946	SULT4A1	-6.29	0.93	6.51	sulfotransferase family 4A member 1
+LOC101287634	CACNA1E	-2.87	4.24	60.23	calcium voltage-gated channel subunit alpha1 E
+LOC101276960	IL1R2	-2.9	3.06	40.72	interleukin 1 receptor type 2
+LOC101269951	CXXC4	-7.04	1.81	12.98	CXXC finger protein 4
+LOC101277142	SYCP1	-4.25	1.58	10.54	synaptonemal complex protein 1
+LOC101290245	SLC24A4	-3.52	5.37	135.34	solute carrier family 24 member 4
+LOC101282562	HMCN2	3.2	7.67	593.64	hemicentin 2
+LOC101283283	ECEL1	-5.92	1.51	9.86	endothelin converting enzyme like 1
+LOC105748200	LOC105748200	-6.35	1.74	11.73	heterogeneous nuclear ribonucleoprotein A1-like
+LOC101276847	GABRR3	-6.05	1.01	10	gamma-aminobutyric acid type A receptor subunit rho3
+LOC101284671	SLC17A1	-7.88	1.29	12.91	solute carrier family 17 member 1
+LOC101287227	LOC101287227	-7.67	1.3	10.45	PRAME family member 12-like
+LOC101273387	LOC101273387	-5.39	1.08	8.25	kelch-like protein 8
+LOC125965600	LOC125965600	-5.58	1.05	8.57	transportin-1-like
+LOC101290369	TCEAL5	-5.29	1.34	9.13	transcription elongation factor A protein-like 5
+LOC101273242	INSRR	-3.58	2.27	15.58	insulin receptor related receptor
+LOC101270281	ATF7IP2	-2.63	5.88	1197.31	activating transcription factor 7 interacting protein 2
+LOC101281000	LOC101281000	-7.44	1.08	6.9	histone H2A type 1-A-like
+LOC101277014	ZNF334	-3.62	2.32	16.34	zinc finger protein 334
+ARSL	ARSL	-2.78	6.88	384.53	arylsulfatase L
+LOC101269213	CADPS	-3.48	3.82	47.08	calcium dependent secretion activator
+LOC125965575	LOC125965575	-3.5	5.62	2821.34	polypeptide N-acetylgalactosaminyltransferase 1-like
+LOC101274292	FAM47E	-2.66	3.41	25.52	family with sequence similarity 47 member E
+LOC101280342	LOC101280342	-6.98	0.97	9.51	G/T mismatch-specific thymine DNA glycosylase-like
+LOC125962107	LOC125962107	-3.18	5.19	131.95	uncharacterized LOC125962107
+LOC101282490	LAMA1	-2.84	4.06	59.6	laminin subunit alpha 1
+LOC101285186	TOX2	-4.4	1.3	8.83	TOX high mobility group box family member 2
+LOC101282045	UNC5D	-4	2.49	19.21	unc-5 netrin receptor D
+LOC101278363	CASQ2	-6.04	1.15	7.86	calsequestrin 2
+LOC125965234	LOC125965234	-7.28	0.91	6.98	tripartite motif-containing protein 64C-like
+LOC101277700	SEMA4F	-6.79	1.07	11.18	ssemaphorin 4F
+LOC101273580	SALL4	-3.94	4.16	62.39	spalt like transcription factor 4
+LOC101279054	HTR1A	-7.8	1.17	10.9	5-hydroxytryptamine receptor 1A
+LOC101269666	RTP5	-6.77	1.36	12.74	receptor transporter protein 5 (putative)
+LOC117199632	LOC117199632	-3.04	4.28	85.1	uncharacterized LOC117199632
+LOC101288023	MPEG1	-3.97	1.97	16.15	macrophage expressed 1
+LOC101275889	GPR55	-7.51	1.13	7.4	G protein-coupled receptor 55
+LOC101277436	GALNT15	3.2	6.9	355.36	polypeptide N-acetylgalactosaminyltransferase 15
+LOC101283689	BSX	-4.65	2.24	20.4	brain specific homeobox
+LOC101272017	DNMT3B	-2.86	3.37	33.86	DNA methyltransferase 3 beta
+LOC101284283	LOC101284283	-5.71	1.23	8.08	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+LOC101275070	CDH20	-5.76	1.94	17.2	cadherin 20
+LOC101270417	FNDC7	-3.95	2.86	29.96	fibronectin type III domain containing 7
+LOC101285743	SLC23A3	-4.46	1.67	13.11	solute carrier family 23 member 3
+LOC101279692	POU3F2	-5.15	2.22	17.08	POU class 3 homeobox 2
+LOC101272024	LOC101272024	-4.74	1	8.39	zinc finger protein 131-like
+LOC101287807	ANKRD31	-3.64	3.41	38.11	ankyrin repeat domain 31
+LOC101271539	F9	-5.09	0.55	5.48	coagulation factor IX
+LOC101289870	KCNJ10	-4.78	1.95	14.88	potassium inwardly rectifying channel subfamily J member 10
+LOC101282271	TCF21	-6.31	0.66	4.84	transcription factor 21
+LOC101279374	PRSS57	-4.62	1.97	19.79	serine protease 57
+LOC101279597	CABP1	-6.73	0.5	4.79	calcium binding protein 1
+LOC101271575	NDNF	-2.8	3.36	32.52	neuron derived neurotrophic factor
+LOC101276079	RUNX2	-2.5	3.24	30.81	RUNX family transcription factor 2
+LOC101289512	ZNF396	-7.2	0.97	7.46	zinc finger protein 396
+LOC101278256	TH	-6.96	0.61	5.48	tyrosine hydroxylase
+LOC101280891	THEG	-5.62	1.13	8.54	theg spermatid protein
+LOC101282328	LOC101282328	-6.41	0.32	4.06	protein FAM161A-like
+LOC101280646	LAMC3	-2.98	2.33	19.21	laminin subunit gamma 3
+LOC101283452	ZNF831	-3.59	3.5	44.1	zinc finger protein 831
+NKY04_mgp13	ND1	-2.19	11.86	10703.84	NA
+LOC101277552	LRRTM4	-3.35	2.33	18.8	leucine rich repeat transmembrane neuronal 4
+LOC101277062	OPRM1	-6.71	0.74	5.32	opioid receptor mu 1
+LOC101279088	IL12A	-5.28	1.62	11.22	interleukin 12A
+LOC101273856	QSOX1	2.48	5.99	187.93	quiescin sulfhydryl oxidase 1
+LOC101277234	LOC101277234	-6.81	0.5	4.37	olfactory receptor 4B1-like
+LOC101277275	RGS9	-5.13	1.71	11.48	regulator of G protein signaling 9
+LOC101281770	GPR137C	-5.54	1.66	11.22	G protein-coupled receptor 137C
+LOC101289821	GH1	-8.08	2.49	19.7	somatotropin
+LOC101277570	TRIM40	-6.6	0.87	6.19	tripartite motif containing 40
+LOC125964388	LOC125964388	-4.43	6.1	23775.71	uncharacterized LOC125964388
+LOC101286505	SYVN1	1.87	6.31	245.86	synoviolin 1
+LOC125961808	LOC125961808	-4.28	2.91	33.55	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+C6H9orf131	C6H9orf131	-7.17	0.87	5.49	chromosome 6 C9orf131 homolog
+LOC101272227	CNTN1	-3.34	2.42	18.6	contactin 1
+LOC101270579	PTPN22	-5.27	1.54	14.37	protein tyrosine phosphatase non-receptor type 22
+LOC101289465	CNR2	-4.68	2.32	19.58	cannabinoid receptor 2
+LOC101289023	ART3	-5.54	1.97	18.88	ADP-ribosyltransferase 3 (inactive)
+LOC101275892	VSTM2A	-7.26	0.8	7.02	V-set and transmembrane domain containing 2A
+LOC117196710	SMIM28	-4.59	1.65	10.4	small integral membrane protein 28
+LOC101274346	SLC8A2	-2.72	4.05	44.59	solute carrier family 8 member A2
+LOC101280756	KCNH1	-2.27	3.55	39.86	potassium voltage-gated channel subfamily H member 1
+LOC101278622	GRIN1	-4.85	2.14	16.16	glutamate ionotropic receptor NMDA type subunit 1
+LOC101288636	PDZK1	-3.5	3.99	53.7	PDZ domain containing 1
+LOC125961827	LOC125961827	-5.67	2.01	19.85	calmodulin-1-like
+LOC101277889	MAG	-5.47	1.45	9.44	myelin associated glycoprotein
+LOC101271989	EPHA10	-5.42	1.68	14.68	EPH receptor A10
+LOC101281165	PMFBP1	-4.74	1.79	15.82	polyamine modulated factor 1 binding protein 1
+LOC101277491	LOC101277491	-6.65	0.52	4.42	actin-like protein 7A
+LOC101277382	SPHKAP	-4.01	3.25	31.13	SPHK1 interactor, AKAP domain containing
+LOC101275678	NEUROD6	-7.1	0.69	6.29	neuronal differentiation 6
+LOC117198515	LOC117198515	-5.96	2.05	15.78	late cornified envelope protein 7A-like
+LOC101282636	RASD2	-4.63	1.62	11.87	RASD family member 2
+LOC101275604	ZYG11A	-4.52	1.99	13.27	zyg-11 family member A, cell cycle regulator
+LOC101274583	CALN1	-3.75	3.66	68.17	calneuron 1
+LOC101283293	DRP2	-3.77	2.8	25.72	dystrophin related protein 2
+LOC101290235	LOC101290235	-5.74	1.59	11.69	phosphatidylethanolamine-binding protein 1-like
+LOC101281981	RAD21L1	-6.06	0.65	6.7	RAD21 cohesin complex component like 1
+LOC101279796	AQP8	-5.15	1.66	11.29	aquaporin 8
+LOC101272886	XKR9	-5.55	0.59	5.77	XK related 9
+LOC101272898	MLPH	-3.43	5.48	153.22	melanophilin
+LOC101279028	QRFPR	-4.67	1.77	11.61	pyroglutamylated RFamide peptide receptor
+LOC101283768	KNG1	-4.89	1.24	8.38	kininogen 1
+LOC101269739	LOC101269739	-4.42	0.89	6.72	telomere attrition and p53 response 1 protein
+LOC125964589	LOC125964589	-7.36	0.91	7.18	Fc receptor-like protein 2
+LOC101284726	TEX36	-3.01	4.35	66.88	testis expressed 36
+LOC101271403	CNKSR2	-3	2.6	20.47	connector enhancer of kinase suppressor of Ras 2
+LOC101287893	FGF17	-3.66	2.74	30.57	fibroblast growth factor 17
+LOC117197193	TRDN	-4.23	1.57	10.99	triadin
+LOC117200624	LOC117200624	-4.14	2.42	25.03	probable E3 ubiquitin-protein ligase makorin-1
+LOC125965625	LOC125965625	-4.66	1.18	7.72	putative POM121-like protein 1
+LOC101286123	RGR	-5.94	0.99	6.53	retinal G protein coupled receptor
+LOC101287219	MMP25	-5.15	1.7	11.25	matrix metallopeptidase 25
+LOC101286243	SLC22A6	-7.54	2.41	18.73	solute carrier family 22 member 6
+LOC101270382	LOC101270382	-4.31	2.22	17.67	heterogeneous nuclear ribonucleoproteins A2/B1-like
+LOC101287981	GPR15	-7.15	0.76	6.73	G protein-coupled receptor 15
+LOC101285475	NMUR2	-5.62	1.52	13.33	neuromedin U receptor 2
+LOC101282664	CXCR3	-6.54	2.13	17.22	C-X-C motif chemokine receptor 3
+LOC101283108	ADAMTS19	-3.81	2.54	19.82	ADAM metallopeptidase with thrombospondin type 1 motif 19
+LOC117197518	LOC117197518	-4.14	1.94	12.95	G antigen 10
+LOC101272435	BEND2	-6.57	0.94	9.89	BEN domain containing 2
+LOC101284429	LOC101284429	-4.06	2.65	22.86	ultra-long-chain fatty acid omega-hydroxylase
+LOC101280968	LOC101280968	-6.47	1.19	10.87	myomegalin
+LOC101286308	LOC101286308	-6.38	0.66	6.16	keratin, type II cytoskeletal 8-like
+LOC101281903	DRD1	-4.29	1.81	13.25	dopamine receptor D1
+LOC101278329	LOC101278329	-4.85	2.07	20.25	zinc finger FYVE domain-containing protein 1-like
+LOC101287013	CCDC190	-5.31	2.16	15.49	coiled-coil domain containing 190
+LOC101287928	LOC101287928	-7.28	0.79	8.04	ruvB-like 1
+LOC101287306	EXOC1L	-6.64	0.57	4.88	exocyst complex component 1 like
+LOC125960291	LOC125960291	-4.91	2.46	23.25	RAD52 motif-containing protein 1-like
+LOC101277193	LIPE	3.12	6.21	221.06	lipase E, hormone sensitive type
+DGLUCY	DGLUCY	-5.65	1.41	8.45	D-glutamate cyclase
+LOC101285010	CCDC70	-6.43	1.86	12.23	coiled-coil domain containing 70
+LOC101287153	RBFOX3	-4.95	1.55	11.46	RNA binding fox-1 homolog 3
+LOC117197264	LOC117197264	-6.5	0.26	3.94	olfactory receptor 4P4-like
+LOC101288277	SCN2A	-3.16	4.34	203.23	sodium voltage-gated channel alpha subunit 2
+LOC101286431	DIRAS1	-7.78	1.41	8.76	DIRAS family GTPase 1
+OCM	OCM	-5.14	1.11	6.98	oncomodulin 2
+LOC101273931	CFAP58	-2.51	3.51	38.51	cilia and flagella associated protein 58
+LOC101275603	HSPB11	-3.73	6.12	292.19	heat shock protein family B (small) member 11
+LOC101288095	GLRX	2.38	4.9	99.23	glutaredoxin
+LOC101276047	LOC101276047	-6.28	0.69	6.66	glycerol kinase-like
+LOC101275088	ADGRG7	-3.57	3.01	33.59	adhesion G protein-coupled receptor G7
+LOC101289346	TRPM1	-4.79	8.22	961.13	transient receptor potential cation channel subfamily M member 1
+LOC101280573	SCP2D1	-2.73	4.05	55.55	SCP2 sterol binding domain containing 1
+LOC101286938	TYROBP	-3.57	2.25	15.43	transmembrane immune signaling adaptor TYROBP
+LOC101281106	FGF5	-6.31	0.67	5.58	fibroblast growth factor 5
+G6PC1	G6PC1	-5.72	2.56	21.89	glucose-6-phosphatase catalytic subunit 1
+LOC101280949	GPR12	-6.53	1.27	9.17	G protein-coupled receptor 12
+TEX47	TEX47	-6.88	0.37	5.44	testis expressed 47
+LOC101272653	SALL1	-7.81	1.14	15.5	spalt like transcription factor 1
+LOC125960987	LOC125960987	-4.16	2.2	16.62	zonadhesin-like
+LOC101271935	KRT7	-5.29	1.41	9.02	keratin 7
+LOC101279728	FOXB1	-6.48	1.25	9.54	forkhead box B1
+LOC101288434	ROBO3	-3.43	2.68	22.04	roundabout guidance receptor 3
+LOC101278113	COL4A4	-4.55	2.14	18.54	collagen type IV alpha 4 chain
+LOC101289356	BTBD8	-2.29	4.66	82.59	BTB domain containing 8
+LOC101286874	LOC101286874	-7.42	1	7.18	olfactory receptor 5C1
+LOC101278112	FLT3	-4.08	2.41	18.74	fms related receptor tyrosine kinase 3
+LOC101277971	TSPAN1	-6.48	1.18	11.44	tetraspanin 1
+LOC101281734	DIRAS2	-6.24	2.27	17.44	DIRAS family GTPase 2
+MARCHF1	MARCHF1	-3.21	2.74	22.25	membrane associated ring-CH-type finger 1
+LOC101269315	SLC5A9	-6.91	2	15.71	solute carrier family 5 member 9
+LOC101272939	TNFSF4	-4.43	3.84	166.66	TNF superfamily member 4
+LOC101285939	SLC2A2	-7.9	1.51	10.83	solute carrier family 2 member 2
+LOC101282614	LOC101282614	-7.05	1.15	7.99	uncharacterized LOC101282614
+LOC101287197	LYNX1	2.28	4.95	97.44	Ly6/neurotoxin 1
+LOC101270059	HAO1	-5.71	0.77	6.01	hydroxyacid oxidase 1
+LOC125960876	LOC125960876	-4.93	1.64	17.66	uncharacterized LOC125960876
+LOC101279608	TMEM74	-5.8	2.18	15.44	transmembrane protein 74
+LOC101284687	PGLYRP2	-5.83	0.95	7.02	peptidoglycan recognition protein 2
+LOC101275447	RNASE6	-3.41	2.02	14.95	ribonuclease A family member k6
+LOC101279870	MCHR2	-6.59	1.3	8.99	melanin concentrating hormone receptor 2
+LOC101277540	DNAJB3	-7.41	1.56	12.04	dnaJ homolog subfamily B member 3
+LOC101284767	ZNRF4	-4.37	2.55	20.06	zinc and ring finger 4
+LOC101279410	SLC1A6	-4.55	1.67	11.38	solute carrier family 1 member 6
+LOC117202275	LOC117202275	-6.29	0.64	5.64	taste receptor type 2 member 143-like
+LOC101290074	LOC101290074	-7.34	0.91	8.46	calcitonin related polypeptide beta
+LOC101278447	P2RX3	-4.41	1.57	9.62	purinergic receptor P2X 3
+LOC101277431	ESRRG	-4.66	1.51	10.9	estrogen related receptor gamma
+LOC101284129	KCNA4	-4.38	2.07	19.3	potassium voltage-gated channel subfamily A member 4
+LOC101271377	CALR3	-4.41	1.32	8.1	calreticulin 3
+LOC117195697	LOC117195697	-7.75	1.36	8.99	phospholipid phosphatase 1-like
+LOC101285248	MROH2B	-4.38	3.08	30.3	maestro heat like repeat family member 2B
+LOC101282577	EYA2	-4.11	1.73	11.91	EYA transcriptional coactivator and phosphatase 2
+LOC101288377	MYH14	1.94	7.29	469.72	myosin heavy chain 14
+LOC101270963	HMGA2	-6.02	1.4	9.6	high mobility group AT-hook 2
+LOC101288039	RXFP3	-4.76	2.22	16.26	relaxin family peptide receptor 3
+LOC101289600	NTNG1	-4.9	2.41	20.14	netrin G1
+LOC101277664	TMEM151B	-3.86	2.46	16.49	transmembrane protein 151B
+LOC101286300	XIRP1	-3.34	2.6	22.1	xin actin binding repeat containing 1
+LOC101286735	TNNI3K	-4.12	2.28	16.71	TNNI3 interacting kinase
+LOC117203171	LOC117203171	-4.64	1.51	9.51	uncharacterized LOC117203171
+LOC101277084	SERINC2	2.37	5.32	119.12	serine incorporator 2
+LOC101275488	DGAT1	1.97	6.8	339.37	diacylglycerol O-acyltransferase 1
+LOC101284509	ASIC1	-4.27	1.64	10.47	acid sensing ion channel subunit 1
+LOC101273102	VGF	-4.35	1.28	8.53	VGF nerve growth factor inducible
+LOC101279242	CLDN18	-6.06	0.95	6.38	claudin 18
+LOC117199441	LOC117199441	-5.63	1.81	12.79	uncharacterized LOC117199441
+LOC101286728	BCL6	1.62	6.5	304.3	BCL6 transcription repressor
+LOC101282583	TMEM117	-3	3.34	37.52	transmembrane protein 117
+CATSPERE	CATSPERE	-5.64	0.89	8.48	catsper channel auxiliary subunit epsilon
+LOC101288890	CHAT	-6.26	0.79	5.63	choline O-acetyltransferase
+LOC101288941	AGRP	-4.8	1.4	9.04	agouti related neuropeptide
+SEPTIN14	SEPTIN14	-3.36	2.89	25.47	septin 14
+LOC101273148	MYO1H	-5.6	2.16	17.01	myosin IH
+LOC101279021	LOC101279021	-4.59	1.3	10.49	SIN3-HDAC complex-associated factor
+LOC101272397	RBM44	-4.06	1.74	11.42	RNA binding motif protein 44
+LOC101269205	BCL9	1.56	5.47	132.89	BCL9 transcription coactivator
+LOC101272042	B3GAT1	-4.12	2.31	23.94	beta-1,3-glucuronyltransferase 1
+LOC101276081	CNGA1	-4.78	1.23	9.01	cyclic nucleotide gated channel subunit alpha 1
+LOC101285524	LOC101285524	-6.37	0.66	5.88	enolase-phosphatase E1-like
+LOC101288075	CPLX3	-6.19	0.76	5.65	complexin 3
+LOC101281392	PLPP2	1.98	5.09	95.04	phospholipid phosphatase 2
+LOC101269594	LOC101269594	-4.05	1.37	14.66	amidophosphoribosyltransferase-like
+LOC101281717	SPOCD1	-5.4	1.54	11.8	SPOC domain containing 1
+LOC101283494	KCNA7	-6.59	1.7	11.33	potassium voltage-gated channel subfamily A member 7
+LOC101284069	GALNT14	-5.07	1.67	14.23	polypeptide N-acetylgalactosaminyltransferase 14
+LOC101287192	LOC101287192	-6.92	0.5	6.06	E3 ubiquitin-protein ligase RNF113A-like
+LOC101273870	TMEM61	-4.88	1.66	16.12	transmembrane protein 61
+LOC125963899	LOC125963899	-6.28	1.96	20.12	metabotropic glutamate receptor 7-like
+LOC101269585	HAVCR1	-4.83	2.25	17.68	hepatitis A virus cellular receptor 1
+LOC101283619	ERBB2	1.63	5.99	191.99	erb-b2 receptor tyrosine kinase 2
+LOC101279986	CD3E	-6.31	0.72	5.98	T-cell surface glycoprotein CD3 epsilon chain
+LOC101279575	FASN	2.76	10.52	4470.25	fatty acid synthase
+TEX45	TEX45	-4.11	2.12	16.21	testis expressed 45
+LOC101279532	LOC101279532	-6.45	1.3	12.94	elongin-A-like
+LOC101270895	HRG	-7.34	0.95	11.04	histidine rich glycoprotein
+LOC101270615	TINAG	-5.95	0.74	5.4	tubulointerstitial nephritis antigen
+LOC101274741	SCUBE3	-5.74	1.93	15.11	signal peptide, CUB domain and EGF like domain containing 3
+LOC101271303	LOC101271303	-4.02	2.43	27.17	alpha-2-macroglobulin
+LOC101278829	ACAA1	2.4	5.91	163.3	acetyl-CoA acyltransferase 1
+LOC101270858	LOC101270858	-3.9	0.77	6.9	40S ribosomal protein SA-like
+LOC101270222	LOC101270222	-7.96	1.46	15.48	sodium/glucose cotransporter 1-like
+LOC101271654	VIT	-3.8	1.93	13.53	vitrin
+LOC101284413	SLC17A3	-4.74	2.47	20.72	solute carrier family 17 member 3
+LOC101283951	KCNA3	-3.52	2.94	25.52	potassium voltage-gated channel subfamily A member 3
+LOC101282804	SLC13A5	-3.97	2.55	20.13	solute carrier family 13 member 5
+LOC101287835	PCDHAC1	-4.59	1.34	7.49	protocadherin alpha subfamily C, 1
+LOC101274477	FAM72A	-3.38	2.12	16.24	family with sequence similarity 72 member A
+LOC101287364	SPRY3	-4.18	2.13	19.78	sprouty RTK signaling antagonist 3
+LOC117198983	LOC117198983	-5.77	1.07	6.7	transmembrane protein 202-like
+LOC105748877	LOC105748877	-4.9	2.02	14.44	small proline-rich protein 2E-like
+LOC101289207	ZSCAN5B	-7.07	1.2	11.37	zinc finger and SCAN domain containing 5B
+LOC101276217	FAM180B	-1.99	5.34	137.79	family with sequence similarity 180 member B
+LOC101279529	VAX1	-5.77	1.44	10.48	ventral anterior homeobox 1
+LOC101278727	DUPD1	-4.75	1.64	11.67	dual specificity phosphatase 29
+LOC101282729	WDR52	-2.03	4.34	67.61	cilia and flagella associated protein 44
+LOC101269838	MYO5C	-2.94	3.78	42.93	myosin VC
+LOC101282959	KLK5	-4.89	0.9	7.44	kallikrein related peptidase 5
+LOC101287280	NXF5	-5.08	2.63	24.09	nuclear RNA export factor 2
+LOC101276965	KCNA1	-6.28	2.2	20.45	potassium voltage-gated channel subfamily A member 1
+LOC101270339	NCR1	-6.04	2.32	19.05	natural cytotoxicity triggering receptor 1
+LOC117198211	LOC117198211	-3.95	1.72	11.21	corepressor interacting with RBPJ 1-like
+LOC101286620	CAMK2N1	-4.04	1.62	14.65	calcium/calmodulin dependent protein kinase II inhibitor 1
+LOC101283319	LOC101283319	-5.92	1.83	13.2	male-specific lethal 3 homolog
+LOC101283810	LOC101283810	-7.38	0.88	9.06	mitochondrial genome maintenance exonuclease 1-like
+LOC105748914	KLK11	-4.62	1.54	13.28	kallikrein related peptidase 11
+LOC101270322	IRF4	-3.37	4.77	100.46	interferon regulatory factor 4
+BPNT2	BPNT2	1.83	7.06	419.34	3'(2'), 5'-bisphosphate nucleotidase 2
+LOC101285581	CHRNA9	-5.66	3.01	59.47	cholinergic receptor nicotinic alpha 9 subunit
+C16H20orf96	C16H20orf96	-3.26	2.48	20.45	chromosome 16 C20orf96 homolog
+LOC101284521	PLIN4	3.88	9.12	1662.75	perilipin 4
+LOC101280957	CCDC34	-2.02	5.21	89.03	coiled-coil domain containing 34
+NEXMIF	NEXMIF	-4.52	1.91	15.44	neurite extension and migration factor
+LOC101270141	LOC101270141	-4.74	1.64	12.37	dnaJ homolog subfamily A member 1-like
+LOC101282751	CFAP161	-6.23	0.52	5.69	cilia and flagella associated protein 161
+LOC101286425	C6	-4.6	1.78	12.63	complement C6
+LOC101269274	SLC38A11	-6.11	0.74	6.85	solute carrier family 38 member 11
+LOC101290447	AIF1	-3.62	2.65	21.34	allograft inflammatory factor 1
+LOC101281638	INA	-3.68	1.59	10.82	internexin neuronal intermediate filament protein alpha
+LOC101285783	MORC1	-5.15	1.85	13.95	MORC family CW-type zinc finger 1
+LOC101288548	LOC101288548	-5.83	0.6	5.15	tetratricopeptide repeat protein 9C-like
+SLAMF1	SLAMF1	-6.81	0.65	4.87	signaling lymphocytic activation molecule family member 1
+LOC101289472	LYRM1	-1.98	6.45	334.76	LYR motif containing 1
+LOC101274536	LOC101274536	-4.75	1.9	14.12	RE1-silencing transcription factor-like
+LOC101285107	GJB1	-4.99	0.93	6.64	gap junction protein beta 1
+LOC101288433	STK32A	-5.98	2	14.74	serine/threonine kinase 32A
+LOC101287546	TRIM72	-3.83	2.56	33.83	tripartite motif containing 72
+LOC101284037	REN	-6.27	0.92	6.39	renin
+LOC101274810	TBR1	-4.82	2.11	16.78	T-box brain transcription factor 1
+LOC101275115	SERPINA3	-6.92	0.61	6.8	serpin family A member 3
+LOC101277251	LOC101277251	-4.06	1.15	8.06	neuroligin-2-like
+LOC101276837	CFAP77	-4.63	1.35	8.15	cilia and flagella associated protein 77
+LOC101271811	PDZRN4	-3.95	2.67	20.8	PDZ domain containing ring finger 4
+LOC101288169	TM4SF4	-7.04	0.51	5.96	transmembrane 4 L six family member 4
+LOC101285268	DPPA2	-8.07	1.63	11.77	developmental pluripotency associated 2
+LOC117195732	LOC117195732	-3.23	2.28	25.07	zinc finger protein 709-like
+LOC101273146	CDH16	-8.01	2.49	19.76	cadherin 16
+LOC101287246	ANKUB1	-5.61	0.76	6.25	ankyrin repeat and ubiquitin domain containing 1
+LOC101275369	LOC101275369	-5.73	0.45	5.37	prorelaxin
+LOC101287186	TTC29	-2.94	1.91	12.86	tetratricopeptide repeat domain 29
+LOC101287380	CRAT	2.45	8.06	909.23	carnitine O-acetyltransferase
+LOC125964420	LOC125964420	-4.66	1.34	8.51	uncharacterized LOC125964420
+LOC101288368	LOC101288368	-6.52	0.2	4.08	MAGE family member B16
+LOC101285813	HDC	-5.12	0.89	6.6	histidine decarboxylase
+LOC117201200	LOC117201200	-4.03	3.13	38.58	uncharacterized LOC117201200
+LOC101279774	CCER1	-6.17	0.82	7.11	coiled-coil glutamate rich protein 1
+C8H11orf1	C8H11orf1	-3.57	2.34	17.04	chromosome 8 C11orf1 homolog
+LOC101277712	EFCAB6	-3.71	2.68	21	EF-hand calcium binding domain 6
+LOC101271669	ARHGEF38	-4.27	1.24	9.56	Rho guanine nucleotide exchange factor 38
+LOC101273368	TMEM114	-6.83	1.24	14.16	transmembrane protein 114
+LOC101277205	NFE2	-5.43	3.54	39.33	nuclear factor, erythroid 2
+LOC101280191	CLIC6	-4.33	1.57	10.8	chloride intracellular channel 6
+LOC101277292	LOC101277292	-2.97	2.55	18.38	cytochrome P450 26C1
+LOC101276250	PCSK2	-7.63	1.17	11.9	proprotein convertase subtilisin/kexin type 2
+LOC101289651	FMN1	-2.49	5.92	193.42	formin 1
+LOC101279396	DPEP3	-5.7	1.09	8.03	dipeptidase 3
+LOC101274767	ANKRD33	-5.67	0.86	5.97	ankyrin repeat domain 33
+LOC101282715	SORBS1	2.75	8.24	939.11	sorbin and SH3 domain containing 1
+LOC101287323	ZSWIM2	-6.63	0.56	3.9	zinc finger SWIM-type containing 2
+LOC101279048	MAEL	-4.09	2.35	19.75	maelstrom spermatogenic transposon silencer
+LOC101287141	NXPE4	-3.85	1.19	7.7	NXPE family member 4
+LOC101272219	LOC101272219	-3.92	3.04	46.23	leucine-rich repeat-containing protein 37A3-like
+LOC105748261	LOC105748261	-4.71	3.73	359.93	HMG domain-containing protein 4-like
+LOC101274111	CCDC89	-2.59	4.28	63.95	coiled-coil domain containing 89
+LOC101283502	SCRT2	-5.54	1.62	12.58	scratch family transcriptional repressor 2
+LOC101271718	MMP20	-5.97	0.82	6.24	matrix metallopeptidase 20
+LOC101277067	BEST1	-4.84	1.52	10.26	bestrophin 1
+LOC117195364	AIFM3	-4.4	1.74	11.5	apoptosis inducing factor mitochondria associated 3
+LOC101271533	MFSD6	1.54	5.3	117.52	major facilitator superfamily domain containing 6
+LOC101271570	LOC101271570	-4.04	1.55	11.04	nephrocan-like
+LOC101281796	SCRT1	-4.74	1.67	11.18	scratch family transcriptional repressor 1
+LOC125961296	LOC125961296	-3.44	2.08	15.69	heterogeneous nuclear ribonucleoprotein A1-like
+LOC101276732	ELMOD1	-3.74	2.2	15.12	ELMO domain containing 1
+LOC101270360	CLEC19A	-4.18	2.12	17.53	C-type lectin domain containing 19A
+LOC101271824	HS6ST2	-2.53	2.61	19.71	heparan sulfate 6-O-sulfotransferase 2
+LOC101270683	EML6	-2.87	3.95	50.8	EMAP like 6
+LOC101283171	JAK3	-3.93	2.03	14.3	Janus kinase 3
+LOC101271440	FBXO43	-3.8	1.84	11.34	F-box protein 43
+LOC101275391	SLC44A3	-4.38	1.61	15.45	solute carrier family 44 member 3
+LOC101290059	TUBA3E	-5.38	0.69	5.55	tubulin alpha-3 chain
+LOC101289409	CAPN3	-3.7	2.38	18.09	calpain 3
+LOC125961083	LOC125961083	-4.1	2.23	22.29	NOP protein chaperone 1-like
+LOC101272036	C3AR1	-2.14	3.96	36.87	complement C3a receptor 1
+LOC101288402	LRGUK	-1.99	3.92	41.46	leucine rich repeats and guanylate kinase domain containing
+LOC101286140	PCDHB5	-3.31	3.52	34.66	protocadherin beta-5
+LOC101289130	PCYT1B	-3.46	2.2	17.24	phosphate cytidylyltransferase 1B, choline
+LOC101274663	LOC101274663	-3.13	3.38	34.28	24-hydroxycholesterol 7-alpha-hydroxylase
+LOC101289310	ASIC2	-4.45	1.79	15.15	acid sensing ion channel subunit 2
+LOC101282043	LMOD2	-6.61	0.86	7.28	leiomodin 2
+LOC101272107	TMBIM6	1.61	7.08	407.14	transmembrane BAX inhibitor motif containing 6
+LOC101275924	ADCYAP1R1	-3.25	3.17	33.42	ADCYAP receptor type I
+LOC101290429	SUSD3	-3.29	2.95	26.72	sushi domain containing 3
+LOC101282512	FNDC9	-5.32	1.02	7.11	fibronectin type III domain containing 9
+LOC101285775	LHX4	-6.34	0.72	6.82	LIM homeobox 4
+LOC101269401	ANGPTL4	3.31	6.65	303.33	angiopoietin like 4
+LOC101283053	AGPAT2	2.13	6.58	334.4	1-acylglycerol-3-phosphate O-acyltransferase 2
+LOC105748709	IL25	-4.85	1.67	10.88	interleukin 25
+LOC101269216	TMEM130	-6.53	0.98	7.39	transmembrane protein 130
+LOC101277085	SLC25A39	1.37	6.13	223.69	solute carrier family 25 member 39
+LOC101282503	CNGA4	-6.28	1.28	8.56	cyclic nucleotide gated channel subunit alpha 4
+LOC101286313	FAXDC2	2.42	7.29	490.77	fatty acid hydroxylase domain containing 2
+LOC101275231	DPF1	-5.89	1.99	13.12	double PHD fingers 1
+LOC101277373	LOC101277373	-6.96	0.57	5.56	melanoma-associated antigen B10-like
+LOC101282359	GPAT3	2.91	5.22	116.34	glycerol-3-phosphate acyltransferase 3
+LOC101281511	AKAIN1	-3.22	4.34	67.93	A-kinase anchor inhibitor 1
+LOC101277678	GABRA5	-5.97	1.43	9.74	gamma-aminobutyric acid type A receptor subunit alpha5
+LOC101287156	CNGB3	-5.51	1.58	10.5	cyclic nucleotide gated channel subunit beta 3
+LOC101286629	AQP3	3.09	5.14	107.85	aquaporin 3 (Gill blood group)
+LOC101284516	PIEZO2	-1.81	5.64	158.03	piezo type mechanosensitive ion channel component 2
+LOC101278059	LOC101278059	-4.82	2.48	18.89	U3 small nucleolar RNA-associated protein 14 homolog A-like
+LOC101271775	CLDN10	-6.41	0.53	4.66	claudin 10
+LOC101284725	DLX6	-5.02	1.76	11.96	distal-less homeobox 6
+LOC101279174	LOC101279174	-3.05	2.66	20.24	cytochrome b-245 heavy chain
+LOC101273945	LOC101273945	-4.05	1.89	13.25	serine/threonine-protein phosphatase 4 regulatory subunit 3A-like
+LOC101275401	PCK2	3.03	5.92	179.81	phosphoenolpyruvate carboxykinase 2, mitochondrial
+LOC101280655	TYR	-3.77	3.18	26.33	tyrosinase
+LOC117199280	LOC117199280	-3.78	2.29	17.34	uncharacterized LOC117199280
+LOC101271258	ASCL4	-6.5	1.49	9.71	achaete-scute family bHLH transcription factor 4
+LOC101289099	CD86	-5.2	1.19	7.8	CD86 molecule
+LOC125962773	LOC125962773	-3.78	2.31	17.16	uncharacterized LOC125962773
+LOC101271845	TTC6	-3.69	2.71	22.12	tetratricopeptide repeat domain 6
+LOC101287442	SLC22A10	-6.79	0.86	5.95	solute carrier family 22 member 10
+LOC101285231	B4GALNT2	-4.11	2.35	22.7	beta-1,4-N-acetyl-galactosaminyltransferase 2
+LOC117195828	LOC117195828	-2.87	3.44	46.2	zinc finger protein 501
+LOC101277689	CCDC168	-2.11	4.15	56.51	leucine-rich repeat transmembrane protein CCDC168
+LOC101284542	LRP10	1.82	6.53	277.25	LDL receptor related protein 10
+LOC101283538	LOC101283538	1.98	4.73	71.28	histone H2A.J
+LOC101277992	LBP	-6.45	1.41	9.86	lipopolysaccharide binding protein
+LOC101284916	CYLC2	-7.89	3.2	28.36	cylicin 2
+LOC101287116	SP5	-3.11	3.44	36.46	Sp5 transcription factor
+LOC101290010	FSHR	-7.71	1.42	9.59	follicle stimulating hormone receptor
+LOC101276781	LOC101276781	-3.34	1.96	13.86	protein enabled homolog
+LOC101276094	KLF4	1.83	7.19	409.74	KLF transcription factor 4
+LOC125961809	LOC125961809	-4.07	3.03	29.02	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101287646	MEP1B	-2.84	2.52	18.04	meprin A subunit beta
+LOC101279630	LOC101279630	-4.25	1.7	10.61	cationic amino acid transporter 3-like
+LOC101272642	GPR33	-5.96	0.79	6.16	G protein-coupled receptor 33
+LOC101275031	SPOCK3	-4.18	1.39	9.07	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3
+LOC101279772	TCERG1L	-4.64	1.47	9.39	transcription elongation regulator 1 like
+LOC101290327	LIPF	-6.14	0.85	6.43	gastric triacylglycerol lipase
+LOC101282306	PHOX2B	-6.49	1.08	10.51	paired like homeobox 2B
+LOC101273141	CCR6	-3.54	2	24.22	C-C motif chemokine receptor 6
+LOC101273697	GUCA1A	-6.7	0.68	5.21	guanylate cyclase activator 1A
+LOC101282938	LOC101282938	-4.5	1.09	7.01	chymosin-like
+SHLD1	SHLD1	-2.15	6.11	230.9	shieldin complex subunit 1
+LOC101270205	SLC9B1	-3.54	1.32	8.28	solute carrier family 9 member B1
+LOC101278804	ILDR2	-2.92	2.54	20.62	immunoglobulin like domain containing receptor 2
+LOC101282472	HRC	-3.1	2.32	14.65	histidine rich calcium binding protein
+TBXT	TBXT	-7.24	0.88	8.58	T-box transcription factor T
+LOC101287160	GALNT5	-2.8	2.38	15.05	polypeptide N-acetylgalactosaminyltransferase 5
+CDIN1	CDIN1	-2.84	10.79	26413.97	CDAN1 interacting nuclease 1
+LOC101274390	PTPN5	-3.63	1.53	8.65	protein tyrosine phosphatase non-receptor type 5
+LOC101276249	LRFN5	-5.82	1.5	10.15	leucine rich repeat and fibronectin type III domain containing 5
+LOC101273579	LOC101273579	-5.65	0.96	8.06	transcription factor CP2-like protein 1
+LOC101279658	FER1L5	-5.41	2.39	23.23	fer-1 like family member 5
+LOC101271671	LOC101271671	-5.49	0.72	5.94	uroporphyrinogen-III synthase-like
+LOC105747834	OXCT2	-4.37	1.05	9	succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial
+LOC101273301	TRIM6	-4.02	1.6	12.71	tripartite motif-containing protein 6
+LOC125962029	LOC125962029	-6.11	0.37	3.67	small integral membrane protein 36
+LOC101276471	FBXL13	-3.7	1.56	11.52	F-box and leucine rich repeat protein 13
+LOC101275230	IRX6	-7.28	0.94	7.8	iroquois homeobox 6
+LOC101277285	LSAMP	-2.14	3.59	40.73	limbic system associated membrane protein
+LOC101279140	LOC101279140	-6.6	0.69	5.51	chromodomain Y-like protein
+LOC101273018	PTPRT	-2.63	3.85	45.12	protein tyrosine phosphatase receptor type T
+LOC101273430	FRK	-3.77	1.58	10.99	fyn related Src family tyrosine kinase
+LOC101283936	GMNC	-4.13	1.72	11.27	geminin coiled-coil domain containing
+LOC101282725	LOC101282725	-5.84	0.54	5.58	hypoxanthine-guanine phosphoribosyltransferase-like
+LOC101284367	LOC101284367	-4.29	1.4	10.77	transmembrane protein 168-like
+LOC101280450	CEBPE	-5.6	0.41	4.26	CCAAT enhancer binding protein epsilon
+LOC101284397	RRH	-2.51	1.86	19.6	retinal pigment epithelium-derived rhodopsin homolog
+LOC101276671	PCSK4	-3.78	1.39	8.47	proprotein convertase subtilisin/kexin type 4
+LOC117196874	TEX13D	-5.92	0.88	9.59	TEX13 family member D
+LOC101279077	TAPBPL	1.69	4.48	73.24	TAP binding protein like
+LOC101285439	LOC101285439	-6.05	0.52	5.14	probable ATP-dependent RNA helicase DDX27
+LOC125963148	LOC125963148	-3.89	2.44	27.91	protein NYNRIN-like
+LOC101284013	PIWIL1	-3.26	2.31	15.22	piwi like RNA-mediated gene silencing 1
+LOC101278088	GUCD1	1.8	4.48	90.95	guanylyl cyclase domain containing 1
+LOC101279676	MYOT	-4.82	0.95	6.31	myotilin
+LOC101286127	EPB42	-4.38	1.36	9.42	erythrocyte membrane protein band 4.2
+LOC117197074	LOC117197074	2.52	6.63	295.3	leukocyte elastase inhibitor-like
+LOC101280568	LOC101280568	-3.12	2.52	19.13	small integral membrane protein 7-like
+LOC117201496	LOC117201496	-3.93	2.18	19.32	uncharacterized LOC117201496
+LOC125961093	LOC125961093	-5.46	1.68	11.64	uncharacterized LOC125961093
+LOC101282880	LY9	-3.53	2.13	14.29	lymphocyte antigen 9
+PGAP4	PGAP4	-2.98	2.57	21.57	post-GPI attachment to proteins GalNAc transferase 4
+NKY04_mgp11	COI	-2.3	14.49	76606.12	NA
+LOC101284193	AK5	-3.24	6.39	912.01	adenylate kinase 5
+LOC101274488	LOC101274488	-4.65	1.63	17.75	heterogeneous nuclear ribonucleoprotein A1 like 3
+LOC101273170	CD1B	-3.91	1.45	11.96	T-cell surface glycoprotein CD1b-2
+LOC101284544	BTBD18	-3.72	2.73	22.38	BTB domain containing 18
+SSPOP	SSPOP	-2.04	4.99	130.48	SCO-spondin
+LOC101275133	JUP	2.18	8.85	1437.54	junction plakoglobin
+ZSWIM9	ZSWIM9	-2.16	4.18	50.88	zinc finger SWIM-type containing 9
+LOC101288385	Oror-DOA	-5.01	1.48	9.37	HLA class II histocompatibility antigen, DO alpha chain
+LOC101285190	TGM5	-3.82	2.53	27.21	uncharacterized LOC101285190
+LOC101286166	ADRB1	-3.54	2.32	17.37	adrenoceptor beta 1
+LOC101274629	SCG2	-3.91	3.51	45.9	secretogranin II
+LOC101285391	FERD3L	-4.36	2.07	15.28	Fer3 like bHLH transcription factor
+LOC101281928	GDPD5	2.08	4.82	79.4	glycerophosphodiester phosphodiesterase domain containing 5
+LOC101275660	SYCE1	-4.59	1.69	11.09	synaptonemal complex central element protein 1
+LOC117202316	SMKR1	-3.62	2.67	20.87	small lysine rich protein 1
+LOC101278865	WNT7A	-5.2	1.26	12.48	Wnt family member 7A
+LOC101282502	TNFRSF1A	1.79	5.32	134.27	TNF receptor superfamily member 1A
+LOC101271265	GNG4	-3.51	2.37	17.91	G protein subunit gamma 4
+LOC101272067	LOC101272067	-3.73	1.48	10.38	lysine-specific demethylase 4D-like
+LOC101280319	TMEM253	-2.48	4.83	95.78	transmembrane protein 253
+LOC101289189	LOC101289189	-5.64	1.35	11.59	zinc finger protein 239-like
+LOC101274055	RNF166	1.45	4.94	100.75	ring finger protein 166
+LOC101278474	TNR	-3.7	2.76	22.93	tenascin R
+LOC101273067	TXLNB	-4.24	1.98	16.26	taxilin beta
+LOC125963848	LOC125963848	-3.63	2.78	55.75	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101275482	DAG1	1.67	6.89	348.57	dystroglycan 1
+LOC101284906	LOC101284906	-5.51	1.31	7.42	transcriptional enhancer factor TEF-4-like
+LOC101287493	LOC101287493	-3.29	1.93	13.52	2-iminobutanoate/2-iminopropanoate deaminase-like
+LOC101283244	GDF6	-4.27	1.92	12.76	growth differentiation factor 6
+LOC101275952	KY	-4.06	1.89	12.9	kyphoscoliosis peptidase
+LOC101270228	MSTN	-7.06	0.63	5.78	myostatin
+LOC101274949	PSD2	-2.48	3.52	40.59	pleckstrin and Sec7 domain containing 2
+LOC117203566	LOC117203566	-5.59	1.51	9.86	cytochrome c oxidase subunit NDUFA4-like
+C6H9orf85	C6H9orf85	-2.69	3.49	38.25	chromosome 6 C9orf85 homolog
+LOC101276629	LOC101276629	-4.79	2.5	21.35	AN1-type zinc finger protein 1-like
+LOC101287537	SHBG	-3.3	1.44	10.01	sex hormone binding globulin
+LOC101277405	CFAP69	-3.2	2.73	19.44	cilia and flagella associated protein 69
+LOC101276962	AP3B2	-2.22	3.9	53.19	adaptor related protein complex 3 subunit beta 2
+TASL	TASL	-4.57	0.49	4.77	TLR adaptor interacting with endolysosomal SLC15A4
+LOC101274976	FAM83H	1.98	6.98	322.16	family with sequence similarity 83 member H
+LOC101281190	ALX1	-4.8	1.16	6.64	ALX homeobox 1
+LOC101287127	CCDC181	-3.41	2.16	13.5	coiled-coil domain containing 181
+LOC101270219	RAB3C	-3.75	2.29	29.14	RAB3C, member RAS oncogene family
+LOC101287051	LOC101287051	-6.19	1.53	12.03	sal-like protein 4
+LOC117197709	FAM200B	-3.2	2.04	13.58	family with sequence similarity 200 member B
+LOC101272945	SPDL1	-2.64	3.22	29.45	spindle apparatus coiled-coil protein 1
+LOC125961810	LOC125961810	-4.77	2.72	32.08	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101279621	SPATC1	-3.59	1.1	7.14	spermatogenesis and centriole associated 1
+LOC101280860	CMTM2	-3.49	1.97	13.36	CKLF like MARVEL transmembrane domain containing 2
+LOC101275871	SLC7A5	1.82	6.17	219.68	solute carrier family 7 member 5
+LOC101280888	GTDC1	-1.83	4.87	93.39	glycosyltransferase like domain containing 1
+LOC101286458	LOC101286458	-7.22	0.92	6.67	PRAME family member 15-like
+LOC101281973	BHMT2	-4.49	2.07	15.2	betaine--homocysteine S-methyltransferase 2
+LOC101284309	CES5A	-3.78	2.25	15.75	carboxylesterase 5A
+LOC101276490	LOC101276490	-3.64	3.64	695.56	protein Abitram-like
+LOC101276243	ERN2	-5.14	2.16	16.99	endoplasmic reticulum to nucleus signaling 2
+LOC101288856	LMX1A	-3.93	2.59	21.54	LIM homeobox transcription factor 1 alpha
+LOC101279821	SLC38A4	-4	1.69	11.01	solute carrier family 38 member 4
+LOC101272821	DPP4	-1.76	4.77	89.69	dipeptidyl peptidase 4
+LOC101288162	DGCR2	1.72	6.82	401.78	DiGeorge syndrome critical region gene 2
+LOC101269522	TFPI2	-3.05	2.24	15.24	tissue factor pathway inhibitor 2
+LOC101272805	BCAR3	2.49	6.51	272.59	BCAR3 adaptor protein, NSP family member
+LOC101277875	KLHDC8A	-3.64	1.67	10.95	kelch domain containing 8A
+LOC105748188	LOC105748188	-3.4	1.81	12.67	probable ATP-dependent RNA helicase DDX5
+LOC101275891	SRCIN1	-2.08	5.09	96.48	SRC kinase signaling inhibitor 1
+LOC101279572	BASP1	-2.63	3.07	29.4	brain abundant membrane attached signal protein 1
+LOC101272369	EPB41L3	-3.47	2.82	24.13	erythrocyte membrane protein band 4.1 like 3
+LOC101277533	LOC101277533	-5	0.94	6.29	cytochrome P450 26A1
+RTL10	RTL10	1.67	4.18	61.95	retrotransposon Gag like 10
+LOC101285909	RAB13	-1.74	6.13	209.34	RAB13, member RAS oncogene family
+LOC117197693	LOC117197693	-4.69	2.53	20.14	39S ribosomal protein L32, mitochondrial-like
+LOC101287445	OGN	-1.93	5.22	128.52	osteoglycin
+LOC101287859	SDCCAG8	-1.73	4.58	76.51	SHH signaling and ciliogenesis regulator SDCCAG8
+LOC125961455	LOC125961455	-4.42	0.86	6.54	uncharacterized LOC125961455
+LOC117195363	SPTSSB	-3.66	2.38	17.89	serine palmitoyltransferase small subunit B
+LOC101285471	NEK10	-2.62	2.94	26.56	NIMA related kinase 10
+LOC101283473	PAX8	-3.09	2.73	22.8	paired box 8
+LOC101287176	GPR68	-3.13	4.21	61.36	G protein-coupled receptor 68
+LOC101277055	RFC3	-2.41	4.3	64.07	replication factor C subunit 3
+LOC101276354	ESF1	-1.56	5.15	106.85	ESF1 nucleolar pre-rRNA processing protein homolog
+LOC101289336	VPREB3	-4.46	2.58	20.93	V-set pre-B cell surrogate light chain 3
+LOC101279483	INHBB	2.71	4.84	96.04	inhibin subunit beta B
+C11H12orf56	C11H12orf56	-4.07	2.19	15.15	chromosome 11 C12orf56 homolog
+LOC101279435	DDX53	-6	0.69	5.62	DEAD-box helicase 53
+LOC101290465	DRD2	-3.94	1.87	12.77	dopamine receptor D2
+LOC101276098	LOC101276098	-2.8	4.02	53.81	calreticulin-like
+LOC125964565	LOC125964565	-6.72	0.34	5.88	olfactory receptor 10T2-like
+LOC101274509	TMEM212	-3.52	3.85	49.56	transmembrane protein 212
+LOC101284786	BST1	-2.2	4.89	96.85	bone marrow stromal cell antigen 1
+LOC101289365	NRL	-5.65	0.94	7	neural retina leucine zipper
+LOC101286812	C1QL2	-6.85	0.56	5.5	complement C1q like 2
+LOC101269417	TMCO6	1.47	5.4	117.71	transmembrane and coiled-coil domains 6
+LOC101283637	FRMD7	-4.23	2.34	18.19	FERM domain containing 7
+LOC101273887	POMGNT2	2.07	3.73	41.56	protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)
+LOC101281850	RIBC2	-4.92	0.47	4.5	RIB43A domain with coiled-coils 2
+LOC101284556	MAVS	1.36	4.94	97.55	mitochondrial antiviral signaling protein
+LOC101282087	RPGRIP1	-2.18	3.46	28.18	RPGR interacting protein 1
+LOC101283672	TMEM215	-3.85	3.01	29.39	transmembrane protein 215
+LOC101287516	LOC101287516	-4.76	1.36	8.52	nuclear RNA export factor 2-like
+LOC125961695	LOC125961695	-6.31	2.75	26.35	dipeptidase 2-like
+LOC101279380	ABCC2	-3.47	2.94	26.64	ATP binding cassette subfamily C member 2
+LOC101269950	IGF1	-2.05	5.96	141.05	insulin like growth factor 1
+LOC101269194	KCNK9	-4.37	3.6	42.84	potassium two pore domain channel subfamily K member 9
+LOC101272772	BHLHE22	-3.5	1.95	13.23	basic helix-loop-helix family member e22
+LOC125965456	LOC125965456	-5.84	1	7.35	protein pitchfork-like
+LOC101281938	SHISA2	-4.97	0.79	6.44	shisa family member 2
+SNORC	SNORC	-3.47	3.65	451.48	secondary ossification center associated regulator of chondrocyte maturation
+LOC101278702	A1CF	-5.4	0.92	6.54	APOBEC1 complementation factor
+LOC101287996	MOBP	-7.36	3.94	52.88	myelin associated oligodendrocyte basic protein
+LOC125965108	LOC125965108	-6.36	0.14	3.44	collagen alpha-1(III) chain-like
+LOC101276241	LOC101276241	-2.81	2.56	19.35	zinc finger matrin-type protein 2-like
+LOC101284507	STMND1	-5.93	0.78	5.71	stathmin domain containing 1
+LOC105748108	SMIM23	-6.27	0.54	5.67	small integral membrane protein 23
+TRMT9B	TRMT9B	-3.44	3.79	38.04	tRNA methyltransferase 9B (putative)
+LOC101283136	LOC101283136	-3.99	1.37	8.74	T-lymphocyte surface antigen Ly-9-like
+LOC101289596	CCDC111	-1.9	3.43	29.72	primase and DNA directed polymerase
+LOC101286850	CCDC96	-2.11	3.14	25.91	coiled-coil domain containing 96
+LOC105748014	MEI4	-5.72	0.64	7	meiotic double-stranded break formation protein 4
+LOC101285311	SLC3A2	1.53	7.29	437.84	solute carrier family 3 member 2
+LOC101289943	KCNIP4	-5.76	1.48	10.88	potassium voltage-gated channel interacting protein 4
+LOC101274645	LOC101274645	-2.45	2.69	29.63	amine sulfotransferase-like
+LOC105748936	ANTXRL	-5.5	1.57	10.93	ANTXR like
+LOC101280945	SLC28A2	-2.3	2.96	25.97	solute carrier family 28 member 2
+LOC101282297	GUCY2D	-2.59	2.57	17.26	guanylate cyclase 2D, retinal
+LOC117202427	CSNKA2IP	-4.46	2.2	17.3	casein kinase 2 subunit alpha' interacting protein
+LOC101284491	FAM163A	-4.65	2.03	14.89	family with sequence similarity 163 member A
+LOC117198667	LOC117198667	-2.79	6.66	1139	uncharacterized LOC117198667
+LOC101285479	TMEM116	-2.07	4.83	73.48	transmembrane protein 116
+LOC101282407	CTNND2	-2.72	3.55	33.63	catenin delta 2
+LOC101288935	ADIPOR2	2.23	7.88	897.74	adiponectin receptor 2
+LOC101270923	RTN4	1.42	7.35	515.44	reticulon 4
+LOC101278509	SAG	-3.25	2.74	23.99	S-antigen visual arrestin
+LOC101290019	UBOX5	1.51	4.93	96.06	U-box domain containing 5
+LOC101272274	FABP4	2.43	7.27	427.71	fatty acid-binding protein, adipocyte
+LOC117201784	LOC117201784	-2.11	4.42	80.56	zinc finger protein 689-like
+NKY04_mgp10	COII	-2.06	11.77	11483.56	NA
+LOC101277002	PRKCB	-3.03	3.05	25.62	protein kinase C beta
+LOC101277655	PRLHR	-4.01	2.25	16.72	prolactin releasing hormone receptor
+LOC101275695	RNASE1	1.88	5.64	145.61	ribonuclease A family member 1, pancreatic
+LOC101286256	HOXA5	1.64	4.28	51.65	homeobox A5
+LOC101287089	LOC101287089	-3.23	1.64	20.57	zinc finger and SCAN domain-containing protein 2
+LOC101278794	SLC29A1	1.92	5.99	183.63	solute carrier family 29 member 1 (Augustine blood group)
+LOC101279257	IGF2BP3	-4.48	1.04	5.82	insulin like growth factor 2 mRNA binding protein 3
+LOC101282245	L3MBTL4	-3.01	2.27	15.77	L3MBTL histone methyl-lysine binding protein 4
+LOC125965244	LOC125965244	-4.22	3.3	28.42	leucine-rich repeat-containing protein 37A-like
+LOC101274647	FAM229B	-2.76	3.32	33.63	family with sequence similarity 229 member B
+LOC101287294	HOXA9	1.6	4.92	85.11	homeobox A9
+LOC101288283	OMD	-2.68	3.16	31.26	osteomodulin
+LOC101273411	PPP4R4	-3.97	1.81	13.08	protein phosphatase 4 regulatory subunit 4
+LOC101276884	CDC25C	-3.52	2.55	19.67	cell division cycle 25C
+LOC101289505	MUC13	-3.52	2.47	21.33	mucin 13, cell surface associated
+LOC101281040	PLPPR4	-3.45	2.39	18.41	phospholipid phosphatase related 4
+LOC101276929	SLC17A8	-2.05	4.28	63.44	solute carrier family 17 member 8
+LOC101289650	OMA1	-2.34	4.71	175.43	OMA1 zinc metallopeptidase
+LOC105748413	LOC105748413	-2.77	5.27	150.23	putative UPF0607 protein ENSP00000382826
+LOC101275528	LIPC	-3.9	1.81	14.27	lipase C, hepatic type
+LOC101282878	WDR87	-2.19	3.63	39.92	WD repeat domain 87
+LOC101287671	TMEM134	1.83	3.96	42.2	transmembrane protein 134
+LOC101278152	TREM2	-3.05	9	5259.13	triggering receptor expressed on myeloid cells 2
+LOC101280763	GALNT9	-5.37	1.27	8.8	polypeptide N-acetylgalactosaminyltransferase 9
+LOC101281063	HES7	-6.66	0.38	6.21	hes family bHLH transcription factor 7
+LOC101285554	GRIN2B	-3.73	2.46	18.1	glutamate ionotropic receptor NMDA type subunit 2B
+LOC101287491	RBMXL2	-2.94	2.75	22.41	RBMX like 2
+TAFA3	TAFA3	-2.88	2.78	23.06	TAFA chemokine like family member 3
+LOC101274847	ALDH1A2	-3.74	2	13.05	aldehyde dehydrogenase 1 family member A2
+LOC101281087	PAX7	-3.05	2.36	20.65	paired box 7
+LOC125961752	LOC125961752	-4.81	0.5	4.76	XK related 4
+LOC101283519	ARPP21	-2.95	2.87	24.74	cAMP regulated phosphoprotein 21
+NKY04_mgp03	ND5	-1.95	12.68	13565.84	NA
+LOC101278050	LY75	-1.95	3.88	46.16	CD302 antigen
+LOC101290030	DPYSL5	-3.38	2.14	13.74	dihydropyrimidinase like 5
+LOC117196860	VSIG10L2	-4.77	1.59	10.32	V-set and immunoglobulin domain containing 10 like 2
+LOC101286799	LOC101286799	-4.13	1.69	15.12	centrosomal protein of 78 kDa-like
+LOC101280988	CAV2	2.04	5.65	142.83	caveolin 2
+LOC101279119	CACNG7	-6.35	0.29	3.23	calcium voltage-gated channel auxiliary subunit gamma 7
+LOC101286121	LOC101286121	-4.12	1.06	6.84	frataxin, mitochondrial-like
+LOC101271495	ARTN	-3.71	2.12	14.39	artemin
+LOC101271875	LOC101271875	-3.44	2.2	15.92	short transient receptor potential channel 2-like
+LOC101281322	GJC3	-3	1.22	7.36	gap junction protein gamma 3
+LOC101287377	NLRC4	-2.67	5.36	270.88	NLR family CARD domain containing 4
+LOC101286880	VSX1	-5.44	0.78	6.34	visual system homeobox 1
+LOC101284093	DSC1	-3.4	1.65	9.03	desmocollin-1
+LOC101285395	DCDC1	-3.82	1.86	12.77	doublecortin domain-containing protein 1
+LOC101270925	LOC101270925	-7.31	0.81	7.89	melanoma-associated antigen B18-like
+LOC125960891	LOC125960891	-3.96	2.62	102.12	uncharacterized LOC125960891
+LOC101278404	RAB19	-3.73	1.08	6.31	RAB19, member RAS oncogene family
+LOC101270299	PTGS2	-3.25	2.21	15.08	prostaglandin-endoperoxide synthase 2
+LOC101277018	BIN2	-3.32	2.38	17.25	bridging integrator 2
+LOC101284627	ZFAND4	-2.79	2.99	18.47	zinc finger AN1-type containing 4
+LOC101289367	SCN3A	-3.31	3.08	28.91	sodium channel protein type 3 subunit alpha
+LOC101280228	CLEC2L	-3.56	2.68	22.39	C-type lectin domain family 2 member L
+LOC101271971	KRT222	-6.17	1.34	8.85	keratin 222
+LOC101283683	PNPLA2	2.28	8.71	1226.81	patatin like phospholipase domain containing 2
+LOC101277224	FNTB	-3.4	11.09	34023.69	farnesyltransferase, CAAX box, beta
+LOC101287169	LOC101287169	-4.64	0.39	5.18	60S ribosomal protein L13-like
+LOC101289103	GRIA1	-3.19	3.15	25.65	glutamate ionotropic receptor AMPA type subunit 1
+LOC101286138	CNGA3	-3.41	2.57	17.28	cyclic nucleotide gated channel subunit alpha 3
+LOC105748753	LOC105748753	-3.21	2.09	15.84	pre-mRNA-splicing factor 38B-like
+LOC101280875	ANO5	-2.33	3.2	27.57	anoctamin 5
+LOC101272048	CXCR1	-4.99	0.47	4.48	C-X-C chemokine receptor type 2
+LOC117197549	LOC117197549	-4.47	1.47	10.15	uncharacterized LOC117197549
+LOC101285202	CCDC148	-2.86	2.16	16.42	coiled-coil domain containing 148
+LOC101282290	CELF3	-3.42	2.05	13.79	CUGBP Elav-like family member 3
+LOC101279375	ZNF391	-3.12	3.1	29.95	zinc finger protein 391
+LOC117197594	LOC117197594	-5.23	0.69	5	uncharacterized LOC117197594
+LOC101285778	LOC101285778	-2.88	3.84	47.59	WD repeat, SAM and U-box domain-containing protein 1-like
+LOC101286469	LOC101286469	-4.81	1.04	8.37	germ cell-less protein-like 1
+LOC101279841	CBY1	-2.35	3.9	49.75	chibby family member 1, beta catenin antagonist
+LOC101270766	CD164L2	3.31	3.8	39.69	CD164 molecule like 2
+LOC101276488	LOC101276488	-6.14	-0.01	4.02	melanoma-associated antigen B4-like
+LOC101287578	PDCD1LG2	-2.17	5.82	206.5	programmed cell death 1 ligand 2
+LOC101275785	NPAS4	-5.31	1.36	9.56	neuronal PAS domain protein 4
+LOC101270159	PHYHIPL	-5.97	3.43	38.28	phytanoyl-CoA 2-hydroxylase interacting protein like
+LOC101269982	RAB11B	1.4	4.75	78.01	RAB11B, member RAS oncogene family
+LOC101277029	GLI1	-3.12	2.66	20.88	GLI family zinc finger 1
+LOC101279288	HOXD10	-2.82	3.24	31.89	homeobox D10
+LOC101286479	UTS2B	-5.67	1.75	12.62	urotensin 2B
+LOC101274075	FITM1	-4.33	0.49	4.28	fat storage inducing transmembrane protein 1
+LOC101272965	SUN2	1.76	8.34	873.4	Sad1 and UNC84 domain containing 2
+LOC101284418	CMBL	-2.57	2.66	20.43	carboxymethylenebutenolidase homolog
+C10H6orf132	C10H6orf132	2.02	5.96	172.77	chromosome 10 C6orf132 homolog
+LOC101276472	KLHL10	-4.22	1.39	9.05	kelch like family member 10
+LOC101272697	SNAP25	-4.12	2.14	13.6	synaptosome associated protein 25
+LOC101284821	TNFSF8	-4.71	1.78	13.04	TNF superfamily member 8
+LOC101278294	LOC101278294	-4.08	2.25	19.22	rho GTPase-activating protein 20-like
+LOC117202641	CCDC153	-5.11	1.09	8.42	coiled-coil domain containing 153
+LOC101272213	SYT16	-2.5	3.53	46.25	synaptotagmin 16
+LOC101278170	SMUG1	1.6	5.04	102.36	single-strand-selective monofunctional uracil-DNA glycosylase 1
+LOC101288067	KIAA0319	-3.02	2.4	17.08	KIAA0319 ortholog
+LOC101285497	LOC101285497	-4.09	1.86	12.98	nucleosome assembly protein 1-like 2
+LOC101278160	FAM205A	-3	3.58	40.54	protein FAM205A
+LOC101284263	FZD10	-3.57	1.31	9.12	frizzled class receptor 10
+LOC101278925	KDELR3	-1.83	6.15	215.08	KDEL endoplasmic reticulum protein retention receptor 3
+LOC101278870	ZNF804B	-4.92	2.21	16.12	zinc finger protein 804B
+LOC101288393	PLXNC1	-2.17	3.75	41.2	plexin C1
+LOC101284419	MCIDAS	-6.74	0.59	4.46	multiciliate differentiation and DNA synthesis associated cell cycle protein
+LOC101275008	UNC5B	1.77	5.73	160.29	unc-5 netrin receptor B
+LOC101276506	EPHB4	1.85	6.62	312.37	EPH receptor B4
+LOC101277423	CACNG3	-5.71	2.08	14.28	calcium voltage-gated channel auxiliary subunit gamma 3
+LOC105748649	LOC105748649	-3.29	2.88	26.87	olfactory receptor 2J3-like
+LOC101273940	LOC101273940	-4.68	1.01	10.5	high mobility group protein B1-like
+LOC101273257	SLC2A4	3.11	4.02	48.99	solute carrier family 2 member 4
+LOC101274920	STRIP2	-1.85	4.05	42.85	striatin interacting protein 2
+LOC117195675	LOC117195675	-5.54	0.74	5.62	cytochrome P450 4F2-like
+LOC101278220	LHX9	-5.17	1.58	10.65	LIM homeobox 9
+LOC101271842	LHX2	-3.46	1.22	7.8	LIM homeobox 2
+LOC101283129	LOC101283129	-5.03	1.47	11.67	acidic leucine-rich nuclear phosphoprotein 32 family member B-like
+LOC125961447	LOC125961447	-3.51	1.3	7.59	uncharacterized LOC125961447
+LOC101283944	SAMD15	-3.87	2.37	17.54	sterile alpha motif domain containing 15
+LOC101282390	LOC101282390	-3.79	1.32	8.46	40S ribosomal protein S26-like
+LOC101280291	AP3S1	-1.85	7.95	486.77	adaptor related protein complex 3 subunit sigma 1
+LOC101277448	NOTUM	-2.99	2.19	14.4	notum, palmitoleoyl-protein carboxylesterase
+LOC101279002	CHRDL2	-5.6	1.36	12.92	chordin like 2
+LOC101278428	IGSF11	-3.05	2.16	14.06	immunoglobulin superfamily member 11
+LOC117203915	LOC117203915	-2.66	1.94	12.8	glycoprotein Xg-like
+LOC101288476	OTOR	-2.73	3.93	52.18	otoraplin
+LOC101274418	ATP6AP1	1.37	4.94	88.4	ATPase H+ transporting accessory protein 1
+SEPTIN3	SEPTIN3	-3.56	2.22	16.32	septin 3
+LOC101287633	SELL	-4.05	1.72	13.33	selectin L
+LOC101281710	LOC101281710	-2.32	2.94	24.35	hyaluronan synthase 2
+LOC101279713	MDGA2	-2.77	2.44	17.7	MAM domain containing glycosylphosphatidylinositol anchor 2
+LOC101274651	GPR83	-3.72	2.08	16.77	G protein-coupled receptor 83
+LOC101286351	FKBP7	-1.6	4.61	70.04	FKBP prolyl isomerase 7
+LOC101280733	LRFN2	-4.54	1.38	9.77	leucine rich repeat and fibronectin type III domain containing 2
+LOC101276198	AKAP3	-3	2.13	13.87	A-kinase anchoring protein 3
+LOC105748807	CD22	-3.88	2.25	13.23	CD22 molecule
+LOC101290107	FBXL6	1.63	4.56	64.67	F-box and leucine rich repeat protein 6
+LOC117198242	DMKN	2.4	6.58	260.93	dermokine
+NKY04_mgp04	ND4	-1.77	12.15	12577.98	NA
+LOC101271144	AKNAD1	-2.71	2.22	14.66	AKNA domain containing 1
+LOC101286596	F8A3	5.05	2.19	11.12	40-kDa huntingtin-associated protein
+LOC117203972	LOC117203972	-2.22	3.18	30.13	uncharacterized LOC117203972
+LOC101283803	RAB25	4.34	4.3	49.1	RAB25, member RAS oncogene family
+LOC101284529	USP50	-2.95	1.46	9.8	ubiquitin specific peptidase 50
+LOC101285352	ST8SIA2	-4.17	1.73	15.93	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2
+LOC101289131	LOC101289131	-2.92	3.9	51.12	60S ribosomal protein L7-like 1
+LOC101289487	NRSN1	-5.28	0.75	6.68	neurensin 1
+LOC101286590	ASB4	-2.84	4.41	64.16	ankyrin repeat and SOCS box containing 4
+LOC101269556	ANKK1	2.52	4.22	55.91	ankyrin repeat and kinase domain containing 1
+LOC101279826	NKAP	1.43	4.38	55.93	NFKB activating protein
+LOC101284435	GRAP2	-3.16	1.91	14.47	GRB2 related adaptor protein 2
+LOC101276790	TSPO	1.54	6.42	252.16	translocator protein
+LOC101275460	MUC5B	-2.5	4.11	62.56	mucin 5B, oligomeric mucus/gel-forming
+LOC101279648	RNASE8	-2.67	2.05	13.91	ribonuclease 8
+LOC101275213	UBA1	1.37	7.53	526.85	ubiquitin like modifier activating enzyme 1
+LOC101282000	NLRP3	-2.94	2.78	20.8	NLR family pyrin domain containing 3
+LOC101279675	CPS1	-2.67	3.79	45.09	carbamoyl-phosphate synthase 1
+ODAPH	ODAPH	-4.13	0.86	6.06	odontogenesis associated phosphoprotein
+LOC101277262	LOC101277262	-2.51	2.83	24.23	protein tyrosine phosphatase type IVA 1-like
+LOC101290083	CEP152	-2.02	4.97	89.23	centrosomal protein 152
+LOC101277772	CD81	1.34	7.02	380.88	CD81 molecule
+LOC101281285	DIRAS3	-2.23	2.42	15.04	DIRAS family GTPase 3
+LOC101269835	LOC101269835	-3.91	0.53	4.37	non-histone chromosomal protein HMG-14-like
+LOC101284515	COMT	1.66	4.49	62.75	catechol-O-methyltransferase
+LOC101284229	SHANK1	-3.05	3.31	32.7	SH3 and multiple ankyrin repeat domains 1
+LOC101282628	NXPH2	-6.04	0.35	3.61	neurexophilin 2
+LOC105747740	LOC105747740	-4.35	1.38	20.83	zinc finger protein 836-like
+LOC101274030	CD200	-4.06	1.81	13.54	CD200 molecule
+LOC101275931	PXMP4	1.68	5.05	107.76	peroxisomal membrane protein 4
+LOC101282550	LOC101282550	-3.17	1.89	11.26	zinc finger protein 594
+LOC101269581	NTM	-3.25	1.63	10.52	neurotrimin
+LOC101273942	CAMKV	-3.61	1.67	10.34	CaM kinase like vesicle associated
+LOC101280375	HCN1	-3.6	2.08	14.26	hyperpolarization activated cyclic nucleotide gated potassium channel 1
+LOC101278441	FAM184B	-2.54	2.93	24.95	family with sequence similarity 184 member B
+LOC101269332	LOC101269332	1.56	5.35	122.14	AFG3-like protein 1
+GARIN5A	GARIN5A	-3.72	1.5	11.07	golgi associated RAB2 interactor 5A
+LOC101279765	TRIM17	-5.61	0.99	6.65	tripartite motif containing 17
+LOC101273683	TMEM129	1.71	4.92	87.93	transmembrane protein 129, E3 ubiquitin ligase
+LOC101287610	PIAS3	1.55	5.14	110.81	protein inhibitor of activated STAT 3
+LOC101278120	NRCAM	-1.93	4.01	45.96	neuronal cell adhesion molecule
+LOC117201633	LOC117201633	-2.01	4.33	66.17	alpha/beta hydrolase domain-containing protein 17B-like
+LOC101272648	CCR9	-5.41	0.48	6.39	C-C motif chemokine receptor 9
+CRACD	CRACD	-2.16	3.98	58.03	capping protein inhibiting regulator of actin dynamics
+LOC101285487	CNPPD1	1.6	4.77	92.05	cyclin Pas1/PHO80 domain containing 1
+LOC101274403	ADAM15	1.6	6.93	356.45	ADAM metallopeptidase domain 15
+LOC101271628	CHRNA10	-3.08	2.05	17.83	cholinergic receptor nicotinic alpha 10 subunit
+LOC101285882	LOC101285882	-3.32	1.44	8.56	protocadherin beta-17-like
+LOC101285941	LOC101285941	-3.28	2.01	13.45	nucleolar and coiled-body phosphoprotein 1-like
+LOC101280516	LOC101280516	-5.88	1.43	10.01	NADH-cytochrome b5 reductase 2
+LOC101279334	TPPP3	1.75	5.5	133.59	zinc finger DHHC-type containing 1
+LOC117199727	ZBED1	1.42	4.78	78.44	zinc finger BED-type containing 1
+LOC101273469	LOC101273469	-2.46	2.13	19.38	60S acidic ribosomal protein P1-like
+LOC101281783	IL6	-4.74	0.71	5.38	interleukin 6
+LOC101284099	SYNGR2	1.4	6.55	258.21	synaptogyrin 2
+LOC101287667	BMPR1B	-1.89	3.8	38.53	bone morphogenetic protein receptor type 1B
+LOC101289283	DAW1	-2.91	2.26	18.38	dynein assembly factor with WD repeats 1
+LOC101282535	LOC101282535	-4.23	1.42	9.04	alcohol dehydrogenase class-3-like
+LOC101285857	VASP	1.55	6.1	200.17	vasodilator stimulated phosphoprotein
+LOC101273347	RANBP3L	-2.83	1.78	11.12	RAN binding protein 3 like
+LOC101286248	LOC101286248	1.38	6.33	234.71	cytochrome b-c1 complex subunit 1, mitochondrial
+LOC101270104	VSIG8	2.65	5.63	140	V-set and immunoglobulin domain containing 8
+LOC101286035	TPTE2	-2.96	3.69	43.39	phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2
+LOC105748582	LOC105748582	-4.62	0.94	7.03	putative protein FAM90A2P
+LOC101276792	PKD1L2	-3.26	5.32	255.49	polycystin 1 like 2
+LOC101273371	EHD2	1.81	7.86	677.02	EH domain containing 2
+LOC125963465	LOC125963465	-5.13	0.43	3.5	cholinergic receptor nicotinic beta 4 subunit
+LOC101281370	WFS1	1.66	5.97	181.51	wolframin ER transmembrane glycoprotein
+LOC101272544	CDX1	-3.58	0.8	5.19	caudal type homeobox 1
+LOC101280846	LOC101280846	-3.48	2.12	14.36	elongation factor 1-alpha 1-like
+LOC101288054	ANKDD1B	-3.28	1.5	9.79	ankyrin repeat and death domain containing 1B
+LOC101277143	MFSD4A	1.51	4.66	71.88	major facilitator superfamily domain containing 4A
+LOC101272824	CEBPA	1.92	6.76	332.12	CCAAT enhancer binding protein alpha
+LOC101269604	EFCAB2	-2.25	4.9	99.46	EF-hand calcium binding domain 2
+LOC101278964	HMGA1	2.17	5.3	112.07	high mobility group AT-hook 1
+LOC101279859	TRHR	-2.35	2.91	29.43	thyrotropin releasing hormone receptor
+LOC101289137	AFF2	-2.36	4.52	68.8	ALF transcription elongation factor 2
+PRXL2A	PRXL2A	1.7	6.29	228.24	peroxiredoxin like 2A
+LOC101275657	ZBTB7B	1.64	6.56	311.14	zinc finger and BTB domain containing 7B
+LOC101269908	IRF2BPL	1.62	6.66	293.33	interferon regulatory factor 2 binding protein like
+LOC101270129	MROH9	-6.08	1.33	8.55	maestro heat like repeat family member 9
+LOC101285338	SLC26A8	-3.24	2.38	19.01	solute carrier family 26 member 8
+LOC101274090	LOC101274090	-2.46	3.64	42.59	protein tyrosine phosphatase type IVA 1-like
+LOC101278335	SLC12A5	-4.27	2.69	24.74	solute carrier family 12 member 5
+LOC101287042	LY6G6D	-4.84	1.32	8.59	lymphocyte antigen 6 family member G6D
+SLC66A2	SLC66A2	1.63	5.35	124.99	solute carrier family 66 member 2
+LOC101282396	CCDC180	-3.01	2.84	24.77	coiled-coil domain containing 180
+LOC101279840	LGI1	-3.44	1.93	13.13	leucine rich glioma inactivated 1
+LOC101282509	LOC101282509	-2.51	2.3	16.63	protein FAM204A
+LOC101272078	PIPOX	-5	2.08	19.28	pipecolic acid and sarcosine oxidase
+LOC117201724	LOC117201724	-3.08	1.9	13.78	uncharacterized LOC117201724
+LOC101271609	DDIT4	1.57	5.5	134.97	DNA damage inducible transcript 4
+LOC101285601	HEMGN	-2.23	3.57	30.41	hemogen
+LOC101271606	MEST	-1.48	5.89	189.81	mesoderm specific transcript
+LOC101288390	SUN1	1.31	7.02	356.83	Sad1 and UNC84 domain containing 1
+LOC101282223	BHMT	-4.21	1.31	8.96	betaine--homocysteine S-methyltransferase
+LOC101285712	SLC9A3R1	2.32	5.14	99.29	SLC9A3 regulator 1
+LOC101287729	TMPRSS5	-2.78	2.25	12.57	transmembrane serine protease 5
+LOC101279147	RNASE13	-4.13	1.33	9.42	ribonuclease A family member 13 (inactive)
+LOC101276105	CACNG5	-4.65	1.53	12.62	calcium voltage-gated channel auxiliary subunit gamma 5
+LOC101279592	PLEKHG4	-3.19	2.27	16.12	pleckstrin homology and RhoGEF domain containing G4
+LOC101271954	IL2RB	-3.4	1.52	8.63	interleukin 2 receptor subunit beta
+LOC101282647	FOXP2	-2.25	3.45	34.51	forkhead box P2
+LOC101269357	S100A14	2.36	6.42	260.64	S100 calcium binding protein A14
+PRXL2B	PRXL2B	2.64	4.97	91.31	peroxiredoxin like 2B
+LOC101271097	TCF23	-4.7	0.47	4.29	transcription factor 23
+PALS2	PALS2	-1.7	4.2	51.83	protein associated with LIN7 2, MAGUK p55 family member
+LOC101286715	CEBPD	1.59	5.34	116.42	CCAAT enhancer binding protein delta
+EZHIP	EZHIP	-3.93	3.67	56.28	EZH inhibitory protein
+LOC101271709	TRADD	1.95	3.87	40.42	TNFRSF1A associated via death domain
+LOC101281968	DBC1	-5.59	1.71	12.02	BMP/retinoic acid inducible neural specific 1
+LOC101287662	CSK	1.52	5.42	124.38	C-terminal Src kinase
+LOC101276687	ZFP36	1.44	5.08	97.03	ZFP36 ring finger protein
+LOC101272612	ITM2B	1.5	7.94	709.72	integral membrane protein 2B
+LOC125965172	LOC125965172	-2.87	2.47	19.04	uncharacterized LOC125965172
+LOC101290034	WDR31	-2.47	2.31	16.33	WD repeat domain 31
+LOC101284613	CCDC120	1.77	4	54.52	coiled-coil domain containing 120
+LOC101271072	LENG9	1.88	4.96	88.76	leukocyte receptor cluster member 9
+LOC101286081	GAS2L1	1.53	6.16	202.45	growth arrest specific 2 like 1
+LOC101284453	STK16	1.42	4.65	80.17	serine/threonine kinase 16
+LOC101274242	KLHL13	-2.41	2.71	21.27	kelch like family member 13
+LOC101290073	LOC101290073	-3.52	1.94	13.57	exportin-6-like
+LOC101282430	PLP2	1.47	5.59	138.64	proteolipid protein 2
+LOC101278856	PKD1L1	-3.89	1.66	11.32	polycystin 1 like 1, transient receptor potential channel interacting
+LOC101285086	FBXO16	-3.42	1.67	15.41	F-box protein 16
+LOC101269555	RNF26	1.98	4.8	78.27	ring finger protein 26
+LOC101276597	SIK2	1.59	6.99	383.57	salt inducible kinase 2
+LOC101272225	CAT	2.38	5.44	115.76	catalase
+LOC101288191	HOXB8	-3.41	0.77	5	homeobox B8
+LOC101288540	ATP1A4	-2.95	3.19	31.14	ATPase Na+/K+ transporting subunit alpha 4
+LOC117199989	TTC23L	-2.74	2.67	24.27	tetratricopeptide repeat domain 23 like
+LOC101287466	PPP1R13L	1.67	6.75	311.97	protein phosphatase 1 regulatory subunit 13 like
+LOC101278197	CDK15	-2.64	4.35	99.96	cyclin dependent kinase 15
+LOC101287727	HNF4A	-4.08	1.81	11.91	hepatocyte nuclear factor 4 alpha
+LOC101282260	NAP1L3	-3.77	2.12	12.35	nucleosome assembly protein 1 like 3
+LOC101287649	ACTC1	-2.09	3.59	34.71	actin alpha cardiac muscle 1
+LOC101278767	LOC101278767	2.19	7.39	500.26	amine oxidase copper containing 3
+LOC117200941	MUC3A	-4.42	2.73	24.68	mucin-3B
+LOC101277966	HERPUD1	1.16	5.87	169.9	homocysteine inducible ER protein with ubiquitin like domain 1
+LOC101287601	TLR8	-3.88	1.83	12.92	toll like receptor 8
+LOC101283287	SP8	-3.6	1.54	10.79	Sp8 transcription factor
+LOC101290188	SOX6	-1.69	4.73	75.5	SRY-box transcription factor 6
+LOC117203000	SMIM41	-2.34	3.99	53.11	small integral membrane protein 41
+LOC101282992	TLN2	2.05	7.81	657.53	talin 2
+LOC101286454	PLEKHA4	-1.4	5.68	147.62	pleckstrin homology domain containing A4
+LOC101283232	AKR1D1	-1.95	3.71	55.39	aldo-keto reductase family 1 member D1
+LOC101281720	ALOX15B	-3.83	1.56	10.39	polyunsaturated fatty acid lipoxygenase ALOX15B
+LOC101272763	CHST3	1.36	4.93	110.41	carbohydrate sulfotransferase 3
+LOC101287446	NPHS1	-7.9	2.08	18.64	NPHS1 adhesion molecule, nephrin
+LOC101283500	SLC9C1	-8.07	1.62	13.17	solute carrier family 9 member C1
+LOC101281859	CFAP65	-7.68	2.47	28.47	cilia and flagella associated protein 65
+LOC101287528	TRO	-9.08	2.63	34.77	trophinin
+LOC101276370	NEGR1	-6.52	1.76	10.82	neuronal growth regulator 1
+LOC101280673	CFAP221	-6.05	1.85	13.68	cilia and flagella associated protein 221
+LOC101282433	GCNT7	-6.96	1.56	13.2	beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase 7
+LOC101270975	IL1RAPL1	-7.21	1.28	10.52	interleukin 1 receptor accessory protein like 1
+LOC101290167	CR1	-6.35	1.94	16.69	complement C3b/C4b receptor 1 (Knops blood group)
+LOC101274223	LRRTM2	-6.8	1.83	17.93	leucine rich repeat transmembrane neuronal 2
+LOC101274375	SERPINA11	-7.51	1.05	9	serpin family A member 11
+LOC101273676	PPP1R32	-7.47	1	8.85	protein phosphatase 1 regulatory subunit 32
+LOC101277527	FSD2	-7.87	1.36	10.11	fibronectin type III and SPRY domain containing 2
+LOC101273053	LOC101273053	-7.14	0.82	6.37	peptidyl-prolyl cis-trans isomerase A-like
+LOC125961663	LOC125961663	-7.17	2.21	15.58	uncharacterized LOC125961663
+LOC101287627	DNTT	-6.42	0.87	7.99	DNA nucleotidylexotransferase
+LOC105748106	LOC105748106	-7.45	1.29	11.28	serine-threonine kinase receptor-associated protein-like
+LOC101269932	VWDE	-6.29	1.21	7.39	von Willebrand factor D and EGF domains
+LOC101270318	SLC35F4	-5.96	1.83	18.33	solute carrier family 35 member F4
+LOC101282289	PNLIP	-6.84	1.22	10.74	pancreatic lipase
+LOC101287435	PCSK1	-6.29	1.43	13.03	proprotein convertase subtilisin/kexin type 1
+LOC101288313	LOC101288313	-6.19	1.29	10.58	cytochrome P450 2F5
+LOC125964683	LOC125964683	-6.41	1.23	8.14	leucine rich repeat and Ig domain containing 2
+LOC101272722	MAB21L2	-7.02	1.77	18.66	mab-21 like 2
+LOC101273661	GPHB5	-6.91	2.1	18.99	glycoprotein hormone subunit beta 5
+LOC101281130	GC	-6.8	1.16	10.54	GC vitamin D binding protein
+LOC117196603	CCDC192	-7.85	1.48	9.95	coiled-coil domain containing 192
+LOC101276860	SEL1L2	-6.42	1.17	11.68	SEL1L2 adaptor subunit of ERAD E3 ligase
+LOC101290337	LOC101290337	-6.23	0.69	4.94	signal peptidase complex subunit 2-like
+LOC101269885	PADI4	-7.2	1.56	14.24	peptidyl arginine deiminase 4
+LOC101290134	SVOPL	-6.85	1.58	16.48	SVOP like
+LOC101286428	UMOD	-4.45	1.52	11.7	uromodulin
+LOC101288510	SLC44A5	-5.06	1.38	11.8	solute carrier family 44 member 5
+LOC101287423	CCDC177	-7.7	1.3	8.76	coiled-coil domain containing 177
+LOC101290121	ZP2	-5.8	1.22	11.41	zona pellucida glycoprotein 2
+LOC101290296	RIMS1	-3.41	3.2	25.9	regulating synaptic membrane exocytosis 1
+ITPRID1	ITPRID1	-5.48	1.46	12.07	ITPR interacting domain containing 1
+LOC101277434	ACTL7A	-7.46	1.03	8.51	actin like 7A
+LOC101281227	CRLF2	-7.26	0.67	7.2	cytokine receptor like factor 2
+LOC125964911	LOC125964911	-5.62	2.06	47.63	guanine nucleotide exchange factor subunit RIC1-like
+LOC101284598	LOC101284598	-7.66	1.19	11.26	cholesterol side-chain cleavage enzyme, mitochondrial
+LOC101284800	FEZF1	-7.63	1.22	8.77	FEZ family zinc finger 1
+LOC101288319	ATP10B	-3.48	3.42	31.23	ATPase phospholipid transporting 10B (putative)
+LOC125964532	LOC125964532	-5.97	1.06	8.98	heterogeneous nuclear ribonucleoprotein D-like
+LOC101279134	RPL3L	-5.15	0.71	6.26	ribosomal protein L3 like
+LOC101279763	CATSPER1	-7.12	1.19	11.45	cation channel sperm associated 1
+LOC101270659	LOC101270659	-5.88	1.12	9.41	aromatase-like
+LOC101280325	CCDC33	-5.24	1.92	18.1	coiled-coil domain containing 33
+LOC125961449	LOC125961449	-7.21	0.96	7.22	cornifin-B-like
+LOC101271624	SUN3	-6.94	0.47	5.35	Sad1 and UNC84 domain containing 3
+LOC101278122	FGG	-4.91	1.63	12.65	fibrinogen gamma chain
+LOC101284329	LOC101284329	-4.96	1.25	7.37	growth factor receptor-bound protein 10-like
+LOC101290133	MPO	-4.99	1.18	9.13	myeloperoxidase
+LOC101280505	LOC101280505	-6.33	1.75	17.84	kelch domain-containing protein 10-like
+LOC101280046	PROK2	-2.94	3.73	38.72	prokineticin 2
+LOC101286280	LOC101286280	-6.58	0.34	3.64	T-cell receptor-associated transmembrane adapter 1
+LOC105748583	LOC105748583	-6.94	1.35	8.4	zinc finger protein 239-like
+LOC101283972	SMPDL3B	-4.93	1.26	10.87	sphingomyelin phosphodiesterase acid like 3B
+LOC101280469	UBTFL1	-7.21	0.81	6.39	upstream binding transcription factor like 1
+LOC101287039	LOC101287039	-7.63	1.18	10.37	POM121-like protein 2
+LOC101283093	CCDC178	-5.76	1.36	12.88	coiled-coil domain containing 178
+LOC101272851	TACR3	-5.59	0.77	6.23	tachykinin receptor 3
+LOC101289245	HTR3A	-6.98	0.62	7.09	5-hydroxytryptamine receptor 3A
+LOC101281068	LOC101281068	-7.03	0.63	9.24	signal peptidase complex catalytic subunit SEC11C-like
+LOC117200580	MYMX	-5.95	1.38	11	myomixer, myoblast fusion factor
+LOC101277768	IL5RA	-6.3	1.04	9.38	interleukin 5 receptor subunit alpha
+LOC101282434	SLC16A4	-6.45	1.08	9.55	solute carrier family 16 member 4
+LOC101287587	TUBB1	-7	0.84	8.85	tubulin beta 1 class VI
+LOC125961021	LOC125961021	-6.28	1.14	8.97	endogenous retrovirus group K member 6 Env polyprotein-like
+LOC101283163	GZMK	-7.07	0.75	6.22	granzyme K
+LOC101273586	NECAB1	-5.83	1.77	13.57	N-terminal EF-hand calcium binding protein 1
+LOC101275393	LOC101275393	-6.16	1.37	13.16	protein LTO1 homolog
+LOC101271080	LOC101271080	-4.86	0.75	7.06	tetratricopeptide repeat protein 19, mitochondrial-like
+LOC101280939	TBX22	-7.73	1.08	15.24	T-box transcription factor 22
+LOC101285747	FBP2	-5.3	1.44	10.57	fructose-bisphosphatase 2
+LOC125964912	LOC125964912	-5.11	1.2	9.44	uncharacterized LOC125964912
+LOC101284518	TMEM132D	-4.11	3.15	33.05	transmembrane protein 132D
+LOC101282639	LOC101282639	-7.12	0.8	6.05	NUT family member 2G-like
+LOC101279034	CATSPER4	-6.67	0.97	8.55	cation channel sperm associated 4
+LOC125964821	LOC125964821	-3.96	2.98	20.26	uncharacterized LOC125964821
+LOC101284653	IQCF6	-5.95	0.52	6.25	IQ motif containing F6
+LOC101274350	PRSS58	-6.84	0.95	6.76	serine protease 58
+NSG2	NSG2	-5.67	0.61	5.47	neuronal vesicle trafficking associated 2
+LOC101278786	TDO2	-6.26	0.84	7.38	tryptophan 2,3-dioxygenase
+LOC101288675	LOC101288675	-7.54	1.02	8.24	Golgi associated RAB2 interactor protein 4-like
+LOC101276773	LOC101276773	-7.54	1.14	7.81	AN1-type zinc finger protein 6-like
+LOC101276841	DPPA5	-7.43	0.92	7.64	developmental pluripotency associated 5
+LOC101280159	LOC101280159	-6.64	0.54	5.34	olfactory receptor 7D2-like
+LOC101280660	NQO1	-6.99	1.1	11.28	NAD(P)H quinone dehydrogenase 1
+LOC101275272	AQP9	-6.12	0.63	4.82	aquaporin 9
+LOC101283626	LOC101283626	-6.09	0.52	5.09	fructose-2,6-bisphosphatase TIGAR-like
+LOC101280578	IGSF21	-7.4	0.95	8.95	immunoglobin superfamily member 21
+LOC101283065	EVI2A	-4.23	1.73	14.46	ecotropic viral integration site 2A
+LOC117198459	LOC117198459	-3.44	3.31	107.4	guanine nucleotide exchange factor subunit RIC1-like
+LOC101283879	DCDC5	-8.04	1.58	13.59	doublecortin domain-containing protein 1
+LOC101278564	LYPD4	-6.27	0.44	4.74	LY6/PLAUR domain containing 4
+LOC101279383	C5	-3.89	3.05	24.95	complement C5
+LOC101275911	GPR25	-6.25	1.12	9.67	G protein-coupled receptor 25
+LOC125961686	LOC125961686	-4.64	2.21	31.65	endogenous retrovirus group K member 7 Pro protein-like
+LOC101278390	SLC4A1	-3.71	1.94	10.89	solute carrier family 4 member 1 (Diego blood group)
+LOC101281564	B3GALT1	-4.62	2.49	18.69	beta-1,3-galactosyltransferase 1
+LOC101273197	OVCH1	-5.23	1.54	12.92	ovochymase 1
+LOC101269628	LOC101269628	-2.35	4.62	71.9	uncharacterized LOC101269628
+LOC117200614	LOC117200614	-4.13	1.22	10.23	restin homolog
+LOC101278049	SKOR2	-5.57	0.6	5.18	SKI family transcriptional corepressor 2
+LOC101270352	MAP3K19	-5.25	1.91	14.12	mitogen-activated protein kinase kinase kinase 19
+LOC101289159	LRRTM1	-5.72	0.72	5.82	leucine rich repeat transmembrane neuronal 1
+LOC101288481	PLET1	-3.74	1.14	9.07	placenta expressed transcript 1
+LOC101274117	LOC101274117	-6.32	0.07	3.23	olfactory receptor 8S1
+LOC101283181	CRTAM	-6.99	0.68	5.93	cytotoxic and regulatory T cell molecule
+LOC101276873	GJD4	-6.84	0.93	5.48	gap junction protein delta 4
+LOC101289205	SAMD3	-5.47	0.59	5.37	sterile alpha motif domain containing 3
+LOC101282540	SLC28A3	-5.34	1.35	11.48	solute carrier family 28 member 3
+LOC101279350	EMC2	-4.32	12.38	11886.25	ER membrane protein complex subunit 2
+LOC101274264	KCNIP1	-6.8	0.5	5.22	potassium voltage-gated channel interacting protein 1
+LOC101278261	SLC22A2	-5.21	1.48	10.4	solute carrier family 22 member 2
+LOC125960373	LOC125960373	-4.92	0.76	6.5	dual specificity tyrosine phosphorylation regulated kinase 4
+LOC117196134	LOC117196134	-6.47	0.96	5.89	60S ribosomal protein L15-like
+LOC101269191	LOC101269191	-6.78	0.77	9.41	olfactory receptor 2T11-like
+LOC101274866	LOC101274866	-5.64	0.45	5.59	DNA topoisomerase I, mitochondrial-like
+LOC101269648	LOC101269648	-5.73	1.43	11.98	5-hydroxytryptamine receptor 3C-like
+LOC101274959	ASB18	-6.56	0.48	3.54	ankyrin repeat and SOCS box containing 18
+CAVIN4	CAVIN4	-4.34	1.01	9.77	caveolae associated protein 4
+RTL6	RTL6	1.39	5.77	169.26	retrotransposon Gag like 6
+LOC101277628	SLC19A3	-6.22	0.85	7.12	thiamine transporter 2
+LOC101273164	RFX6	-4.76	1.6	25.08	regulatory factor X6
+LOC101282974	NLRC3	-3.65	0.97	7.17	NLR family CARD domain containing 3
+LOC101280432	SLC15A5	-4.58	1.34	9.76	solute carrier family 15 member 5
+LOC101281841	TEX11	-4.16	1.33	11.41	testis expressed 11
+LOC101288561	OTOF	-2.77	3.36	29.66	otoferlin
+LOC101278554	MUC12	-4.3	0.99	7.67	mucin-12
+FYB1	FYB1	-2.69	3.05	27.13	FYN binding protein 1
+LOC101276651	CCDC88B	-2.64	3.03	25.51	coiled-coil domain containing 88B
+LOC101283935	GATA4	-5.82	0.33	5.7	GATA binding protein 4
+LOC101285559	LOC101285559	-5.01	1.12	8.42	microtubule-associated protein RP/EB family member 1-like
+LOC125961708	LOC125961708	-4.17	2.79	78.8	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101282482	ERICH6B	-5.97	1.52	12.11	glutamate rich 6B
+LOC101287170	PCDHA2	-2.33	4.56	89.3	protocadherin alpha-C2
+LOC101285584	SLC47A2	-2.84	4.22	53.07	solute carrier family 47 member 2
+LOC101273575	LOC101273575	-3.7	2.29	14.71	dihydrodiol dehydrogenase 3
+LOC101275069	KHDRBS2	-4.75	0.93	8.91	KH RNA binding domain containing, signal transduction associated 2
+LOC125964209	LOC125964209	-4.3	1.05	9.27	single-stranded DNA-binding protein, mitochondrial
+LOC101281192	PTPRO	-2.47	2.79	18.95	protein tyrosine phosphatase receptor type O
+LOC101275647	CPNE6	-6.21	0.72	7.5	copine 6
+LOC101281845	TRIML2	-3.8	0.85	5.93	tripartite motif family like 2
+LOC117199968	LOC117199968	-5.16	0.74	9.85	endogenous retrovirus group S71 member 1 Env polyprotein-like
+LOC101272961	LOC101272961	-4.89	1.44	11	zinc finger protein 14-like
+RTL9	RTL9	-5.35	1.61	12.73	retrotransposon Gag like 9
+LOC101282381	LOC101282381	-4.61	0.45	NA	T-complex protein 1 subunit zeta-like
+LOC101282602	TRIM67	-6.23	2.44	23.8	tripartite motif containing 67
+LOC101276850	AGBL4	-5.43	1.77	15.84	AGBL carboxypeptidase 4
+LOC101286990	PIGZ	-3.39	2.95	23.38	phosphatidylinositol glycan anchor biosynthesis class Z
+LOC101279478	MATN3	-4.47	0.72	5.11	matrilin 3
+LOC101285698	AADACL4	-4.89	1.15	7.44	arylacetamide deacetylase-like 4
+LOC101287296	UGT3A1	-2.28	6.45	208.43	UDP glycosyltransferase family 3 member A2
+LOC101280114	PRDM13	-5.88	0.18	2.96	PR/SET domain 13
+LOC101278487	UPB1	-6.09	1.64	16.65	beta-ureidopropionase 1
+LOC117200137	LOC117200137	-6.3	1.02	8.41	uncharacterized protein C2orf66-like
+LOC125960328	LOC125960328	-3.88	2.6	26.08	uncharacterized LOC125960328
+LOC101277612	PLG	-6.01	1.19	12.77	plasminogen
+LOC117199428	LOC117199428	-2.71	4.03	55.92	UPF0547 protein C16orf87-like
+LOC101279871	PRODH2	-7.27	1.31	9.88	proline dehydrogenase 2
+LOC101275888	GLIPR1L2	-4.14	0.89	6.71	GLIPR1 like 2
+LOC101287953	SYT13	-4.84	1.39	10.19	synaptotagmin 13
+LOC101289573	SLC16A5	1.68	4.33	77.73	solute carrier family 16 member 5
+LOC101278285	SLC22A11	-5.22	0.78	7.21	solute carrier family 22 member 11
+LOC101288069	GJD2	-6.32	0.74	6.11	gap junction protein delta 2
+LOC125965449	LOC125965449	-4.5	1.28	9.38	transmembrane and immunoglobulin domain containing 3
+LOC101280475	CACNA2D2	-2.52	2.85	18.99	calcium voltage-gated channel auxiliary subunit alpha2delta 2
+LOC101274845	CCDC184	-6.83	0.85	8.09	coiled-coil domain containing 184
+LOC101279715	OTP	-4.87	1.05	7.29	orthopedia homeobox
+LOC101289244	MYLK2	-2.87	1.96	11.2	myosin light chain kinase 2
+LOC101275859	CACNG4	-6.43	0.26	3.89	calcium voltage-gated channel auxiliary subunit gamma 4
+LOC101286762	ZP4	-5.03	1.03	8.86	zona pellucida glycoprotein 4
+LOC101290345	SKAP1	-4.77	0.98	8.45	src kinase associated phosphoprotein 1
+LOC101276335	DDX43	-2.96	2.17	13.46	DEAD-box helicase 43
+LOC101277794	LOC101277794	-5.2	1.01	9.59	protein Tob1-like
+LOC101284938	ATOH1	-7.02	0.69	5.46	atonal bHLH transcription factor 1
+LOC101276170	KLK12	-4.41	1.48	12.94	kallikrein-12
+LOC101272147	LOC101272147	-4.31	0.92	7.7	transcription factor BTF3-like
+LOC105748820	TSPYL6	-4.45	1.34	9.18	TSPY like 6
+LOC101276297	KL	-3.33	2.26	15.84	klotho
+LOC101283767	MED12L	-1.89	4.12	50.32	mediator complex subunit 12L
+LOC101282845	MAP6	-5.6	1.08	7.42	microtubule associated protein 6
+LOC101274644	CCRL2	-3.55	0.71	6.89	C-C motif chemokine receptor like 2
+LOC101282924	CUBN	-1.86	4.99	96.43	cubilin
+LOC101284398	SFT2D2	1.39	6.36	251.59	SFT2 domain containing 2
+LOC101269967	LCP1	-2.12	3.85	43.62	lymphocyte cytosolic protein 1
+LOC101281840	RP1	-3.03	3.23	29.86	RP1 axonemal microtubule associated
+LOC125963493	LOC125963493	-3.18	4	2170.15	WAS/WASL-interacting protein family member 3-like
+LOC105747738	LOC105747738	-2.53	2.7	19.36	ATP-binding cassette sub-family C member 2-like
+LOC101272337	OPN5	-4.64	0.8	6.01	opsin 5
+LOC101280198	STK31	-5.68	0.95	10.6	serine/threonine kinase 31
+LOC101271320	GPC5	-4.26	1.34	10.07	glypican 5
+LOC101271219	MMP8	-6.1	0.85	9.4	matrix metallopeptidase 8
+LOC101279513	MME	-3.14	2.59	17.81	membrane metalloendopeptidase
+LOC125965465	LOC125965465	-4.41	1.43	10.48	DBH-like monooxygenase protein 2
+LOC117198660	LOC117198660	-4.34	0.9	6.11	protein FAM136A-like
+LOC101281023	HAND2	-5.61	0.27	3.07	heart and neural crest derivatives expressed 2
+LOC101285818	GBP5	-2.26	3.89	46.54	guanylate-binding protein 5
+LOC101285967	LOC101285967	-5.6	0.69	10.36	5-beta-cholestane-3-alpha,7-alpha-diol 12-alpha-hydroxylase
+LOC101275148	HEPHL1	-2.36	3.27	27.36	hephaestin like 1
+LOC101272542	P2RY6	-2.56	3.94	49.35	pyrimidinergic receptor P2Y6
+LOC125961636	LOC125961636	-2.9	2.33	16.22	uncharacterized LOC125961636
+LOC101288906	CTNNA2	-4.13	2.5	17.25	catenin alpha 2
+LOC101276274	NUTM2F	-2.51	1.85	14.19	NUT family member 2F
+LOC101279322	CCDC60	-2.41	4.44	52.37	coiled-coil domain containing 60
+LOC125961828	LOC125961828	-3.19	2.92	33.7	calmodulin-1-like
+LOC105748762	LOC105748762	-5.3	0.8	7.14	60S ribosomal protein L39-like
+LOC101283913	PP2D1	-5.12	2.24	22.3	protein phosphatase 2C like domain containing 1
+LOC101287183	SLC26A5	-2.63	3.13	26.48	solute carrier family 26 member 5
+LOC101289510	APLP2	1.19	8.23	825.37	amyloid beta precursor like protein 2
+LOC101269809	PDC	-5.05	0.74	6.19	phosducin
+LOC125965092	LOC125965092	-4.89	0.96	6.58	serum amyloid A-2 protein
+LOC101289180	CP	-2.41	3.12	25.59	ceruloplasmin
+LOC117196010	CTXND1	-6.33	2.85	28.12	cortexin domain containing 1
+LOC101288979	DOLK	1.95	3.52	32.54	dolichol kinase
+LOC101270517	LHFPL5	-6.41	2.48	25.13	LHFPL tetraspan subfamily member 5
+LOC101272031	GAL	-6.41	0.17	4.23	galanin and GMAP prepropeptide
+LOC117199772	LOC117199772	-5.89	0.59	5.01	mitochondrial import receptor subunit TOM5 homolog
+LOC101278040	MAP4K1	-2.4	2.92	21.78	mitogen-activated protein kinase kinase kinase kinase 1
+LOC117203444	LOC117203444	-4.12	0.59	5.47	reactive oxygen species modulator 1-like
+LOC101280121	FGFR4	-3.75	2.49	16.36	fibroblast growth factor receptor 4
+LOC125963841	LOC125963841	-3.09	3.13	84.55	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC101278483	LOC101278483	-6.17	0.22	5.41	tumor protein D52-like
+LOC101277738	C1QTNF3	-3.36	1.11	8.71	C1q and TNF related 3
+LOC101283128	KIF18A	-2.99	2.34	16.46	kinesin family member 18A
+LOC125961575	LOC125961575	-3.35	3.66	36.55	uncharacterized LOC125961575
+LOC101269605	S100A16	1.97	5.96	210.42	S100 calcium binding protein A16
+LOC101271517	CLCN1	-3.28	3.18	26.59	chloride voltage-gated channel 1
+LOC101274150	LOC101274150	-6.61	0.63	6.37	josephin-1-like
+LOC101275093	LOC101275093	-4.36	2.05	19.97	optineurin
+LOC101289389	LOC101289389	-3.98	1.47	12.2	2-iminobutanoate/2-iminopropanoate deaminase-like
+LOC101280598	TPBGL	2.81	4.74	109.84	trophoblast glycoprotein like
+ELAPOR2	ELAPOR2	-2.06	2.53	58.09	endosome-lysosome associated apoptosis and autophagy regulator family member 2
+LOC101272299	CXCR2	-3.54	2.19	14.52	C-X-C motif chemokine receptor 2
+LOC105748455	LOC105748455	-4.83	0.98	8.87	60S ribosomal protein L17-like
+LOC101269647	APBA2	-2.3	2.57	19.88	amyloid beta precursor protein binding family A member 2
+LOC101290255	LOC101290255	-4.23	1.4	7.66	putative RNA-binding protein Luc7-like 2
+LOC101287010	GJB2	3.13	6.69	274.53	gap junction protein beta 2
+LOC101289781	ACADSB	-2.54	2.82	27.51	acyl-CoA dehydrogenase short/branched chain
+LOC101269938	SPEM1	-4.66	1.53	10.36	spermatid maturation 1
+LOC105747838	CROCC2	-2.14	3.4	28.75	ciliary rootlet coiled-coil, rootletin family member 2
+LOC101281831	NOBOX	-5.5	0.93	7.06	NOBOX oogenesis homeobox
+LOC101289111	LOC101289111	-5.8	0.4	11.11	protein BEX4-like
+LOC101279952	NUP210	-2.29	4.09	50.29	nucleoporin 210
+LOC101283000	NCKAP5	-1.34	NA	81.08	NCK associated protein 5
+LOC101270483	NDST1	1.4	6.36	320.75	N-deacetylase and N-sulfotransferase 1
+LOC101275622	ZCWPW2	-1.72	4.98	99.88	zinc finger CW-type and PWWP domain containing 2
+LOC101281312	CFB	-4.77	1.77	22.14	complement factor B
+LOC101270236	ELFN2	-3.22	4.17	61.54	extracellular leucine rich repeat and fibronectin type III domain containing 2
+LOC101278885	ITGAL	-3.44	2.95	24.12	integrin subunit alpha L
+LOC101286770	NLGN4X	-2.68	2.92	23.29	neuroligin 4 X-linked
+LOC101273174	NOXA1	2.39	3.78	33.88	NADPH oxidase activator 1
+LOC101271434	PSMA8	-3.13	1.26	6.38	proteasome 20S subunit alpha 8
+LOC101278612	RASSF6	-2.89	2	14.81	Ras association domain family member 6
+LOC101285822	LIX1	-2.18	4.62	58.02	limb and CNS expressed 1
+LOC101280381	TRIM63	-4.19	1.95	13	tripartite motif containing 63
+LOC101276615	KIF15	-1.98	4.13	51.26	kinesin family member 15
+LOC101282185	CLCA4	-5.24	1.65	11.08	chloride channel accessory 4
+LOC101280986	SPDYA	-3.64	0.86	7.86	speedy/RINGO cell cycle regulator family member A
+LOC101282464	PDLIM1	1.56	6.16	208.71	PDZ and LIM domain 1
+LOC101274001	MUC1	-2.44	3.36	32.62	mucin 1, cell surface associated
+LOC101280160	ASTL	-4.83	0.87	6.97	astacin like metalloendopeptidase
+LOC101276484	TMEM71	-3.08	1.66	12.08	transmembrane protein 71
+LOC101289269	MPST	1.51	5.36	119.15	mercaptopyruvate sulfurtransferase
+LOC101280699	MC3R	-5.45	0.46	5.08	melanocortin 3 receptor
+LOC101282414	SNCA	-3.33	6.81	327.97	synuclein alpha
+LOC101276179	PLCXD2	-2.64	3.15	19.87	phosphatidylinositol specific phospholipase C X domain containing 2
+LOC101279412	CNNM3	1.61	6.07	196.9	cyclin and CBS domain divalent metal cation transport mediator 3
+GSDME	GSDME	-1.53	4.85	87.42	gasdermin E
+LOC101283518	ZFR2	-2.57	2.91	21.93	zinc finger RNA binding protein 2
+LOC125964977	LOC125964977	-4.85	0.42	5.27	akirin-1-like
+DNAI4	DNAI4	-2.62	1.72	11.71	dynein axonemal intermediate chain 4
+LOC101282740	ESM1	-4.67	0.72	4.08	endothelial cell specific molecule 1
+LOC101277429	CCDC91	-1.6	6.72	275.29	coiled-coil domain containing 91
+LOC101286564	PTGDR	-2.88	2.59	20.03	prostaglandin D2 receptor
+LOC101272643	CHRNA4	-4.84	1.24	10.75	cholinergic receptor nicotinic alpha 4 subunit
+LOC101278030	CMTM5	-5.39	0.39	5.15	CKLF like MARVEL transmembrane domain containing 5
+LOC101286198	LOC101286198	-3.13	1.86	14.95	olfactory receptor 13C3-like
+LOC101274207	CRACR2A	-2.97	3.79	30.78	calcium release activated channel regulator 2A
+LOC101288744	LPIN2	1.52	6.62	318.17	lipin 2
+LOC101290386	NSUN3	-2.15	5.09	81.29	NOP2/Sun RNA methyltransferase 3
+LOC101287353	TLR7	-2.89	3.07	42.55	toll like receptor 7
+LOC125961947	LOC125961947	-2.58	3.69	38.14	leucine-rich repeat transmembrane protein CCDC168-like
+LOC101276301	KRT16	-3.2	1.53	775.05	keratin, type I cytoskeletal 16
+LOC101271678	RBPJL	-3.69	1.46	8.98	recombination signal binding protein for immunoglobulin kappa J region like
+LOC101275822	ADAM33	2.28	5.54	149.99	ADAM metallopeptidase domain 33
+LOC101282522	BTK	-3.64	2.03	13.5	Bruton tyrosine kinase
+LOC101273809	SLCO4C1	-5.25	0.49	4.74	solute carrier organic anion transporter family member 4C1
+LOC101276064	SPINT2	2.51	6.61	303.05	serine peptidase inhibitor, Kunitz type 2
+LOC101273289	TRPM3	-2.06	3.86	49.61	transient receptor potential cation channel subfamily M member 3
+LOC101282902	TNFSF10	1.64	5.99	237.44	TNF superfamily member 10
+LOC101271520	EPHA8	-3.14	2.2	14.91	EPH receptor A8
+LOC101277942	LOC101277942	-5.79	0.87	9.39	non-histone chromosomal protein HMG-14-like
+LOC101273261	SLC10A3	1.64	4.49	61.94	solute carrier family 10 member 3
+LOC101273352	CAMKK1	1.82	5.77	180.5	calcium/calmodulin dependent protein kinase kinase 1
+LOC101273476	SLC5A7	-5.32	0.94	8.03	solute carrier family 5 member 7
+LOC125964520	LOC125964520	-4.33	1.65	13.64	proline-rich protein 36-like
+LOC101288772	URAD	-6.41	0.22	3.7	ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase
+LOC101287744	PLIN1	3.71	8.83	1303.36	perilipin 1
+LOC101270860	LOC101270860	-3.12	2.35	16.3	zinc finger protein 396
+LOC101289195	ACSL1	1.35	5.96	189.08	acyl-CoA synthetase long chain family member 1
+LOC101288524	AMY2A	-1.6	6.85	2355.2	pancreatic alpha-amylase
+LOC101269954	ZNF541	-2.36	2.75	20.16	zinc finger protein 541
+LOC101279201	TEKT2	-3.68	1.91	10.68	tektin 2
+LOC101276307	RGS7	-3.01	4.04	59.6	regulator of G protein signaling 7
+LOC101271008	SYNPR	-3.17	4.26	50.55	synaptoporin
+LOC101272261	GSTK1	1.8	4.34	58.9	glutathione S-transferase kappa 1
+LOC101275195	SHANK2	-2.02	3.85	39.48	SH3 and multiple ankyrin repeat domains 2
+LOC101279194	GRM8	-3.67	1.74	11.36	glutamate metabotropic receptor 8
+LOC101269689	FKBP14	-1.7	3.76	31.93	FKBP prolyl isomerase 14
+LOC101278626	LOC101278626	-2.81	3.39	29.88	NACHT and WD repeat domain containing 2
+LOC101281222	CEP78	-1.46	4.92	126.57	centrosomal protein 78
+LOC101288749	FSD1	-5.02	1.17	8.75	fibronectin type III and SPRY domain containing 1
+LOC101274975	CTBP1	1.28	5.99	186.59	C-terminal binding protein 1
+LOC101285135	PERP	3.74	7.67	520.62	p53 apoptosis effector related to PMP22
+LOC101273273	ZNF283	-1.33	NA	53.53	zinc finger protein 283
+LOC101285626	PCDHB7	-3.07	1.46	10.38	protocadherin beta-7
+LOC101282810	TMEM265	2.1	2.94	22.57	transmembrane protein 265
+LOC101284160	GPR85	-3.31	1.46	9.38	G protein-coupled receptor 85
+LOC101272109	MNS1	-2.39	2.95	21.75	meiosis specific nuclear structural 1
+LOC101285625	GTF2E1	-1.62	4.1	54.25	general transcription factor IIE subunit 1
+LOC101277358	CHRNA3	-3.33	1.7	17.6	cholinergic receptor nicotinic alpha 3 subunit
+LOC105748719	LOC105748719	-3.88	2.41	19.4	60S ribosomal protein L32-like
+LOC101276457	EPS8L2	1.52	7.68	531.25	EPS8 like 2
+LOC117202104	LOC117202104	-2.46	2.16	15.48	sterile alpha motif domain-containing protein 1-like
+LOC101281297	DOK4	1.57	5.36	142.19	docking protein 4
+LOC105747734	LOC105747734	-1.51	5.79	166.72	zinc finger protein 677-like
+LOC125964848	LOC125964848	-5.07	2.78	66.41	60S ribosomal protein L22
+LOC101287936	SPZ1	-5.31	0.76	8.12	spermatogenic leucine zipper 1
+LOC101275198	FGF6	-2.36	3.48	36.34	fibroblast growth factor 6
+LOC101287551	GCNT4	-3.94	1.5	17.1	glucosaminyl (N-acetyl) transferase 4
+LOC101285599	SLC18A1	-3.26	2.65	17.46	solute carrier family 18 member A1
+LOC101271791	TMEM108	-5.02	0.86	5.8	transmembrane protein 108
+LOC101278444	FAM184A	-2.79	2.71	23.89	family with sequence similarity 184 member A
+LOC101279008	RHOU	-1.77	NA	44.77	ras homolog family member U
+LOC101282337	P2RY4	-3.93	1.87	13.54	pyrimidinergic receptor P2Y4
+LOC101284474	SNX10	-3.36	2.39	74.59	sorting nexin 10
+LOC101278988	LRRN4	-2.95	2.36	15.79	leucine rich repeat neuronal 4
+LOC101269296	ONECUT2	-2.94	2.63	20.68	one cut homeobox 2
+LOC101272526	LINGO1	-2.09	3.4	25.6	leucine rich repeat and Ig domain containing 1
+LOC101287790	BMP8A	-2.88	1.44	10.92	bone morphogenetic protein 8a
+LOC101288121	LOC101288121	-2.46	7.67	452.79	acetylcholine receptor subunit beta-like
+LOC101272579	NSUN7	-2.41	2.14	12.63	NOP2/Sun RNA methyltransferase family member 7
+LOC101280551	ASB16	2.6	2.88	23.02	ankyrin repeat and SOCS box containing 16
+LOC101283055	GFRA1	-3.02	2.56	14.36	GDNF family receptor alpha 1
+C19H17orf113	C19H17orf113	-3.14	3.21	32.49	chromosome 19 C17orf113 homolog
+LOC101278175	LOC101278175	-3.92	0.73	7.06	GTP-binding nuclear protein Ran-like
+LOC117203739	LOC117203739	-2.81	2.87	25.48	uncharacterized LOC117203739
+LOC101272262	KCP	1.95	7.04	476.15	kielin cysteine rich BMP regulator
+LOC101280962	LOC101280962	-5.39	0.03	3.75	mitochondrial dimethyladenosine transferase 1-like
+LOC101286902	SLC25A1	1.24	6.39	214.6	solute carrier family 25 member 1
+LOC101288194	ANAPC10	-2.58	3.36	32.23	anaphase promoting complex subunit 10
+LOC101277112	LOC101277112	-3.5	0.91	5.36	growth hormone-inducible transmembrane protein-like
+LOC101282168	GPRIN3	-3.12	3.07	20.42	GPRIN family member 3
+LOC101277413	ITGB6	-3.31	2.98	24.95	integrin subunit beta 6
+LOC101289714	INSM2	-3.99	1.04	7.6	INSM transcriptional repressor 2
+LOC101271686	ANKDD1A	-1.96	3.92	47.3	ankyrin repeat and death domain containing 1A
+LOC101288389	PIK3AP1	-1.82	4.27	53.01	phosphoinositide-3-kinase adaptor protein 1
+LOC101283998	SLC17A2	-3.76	1.1	8.33	solute carrier family 17 member 2
+LOC125963834	LOC125963834	-3.94	2.45	47.26	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit-like
+LOC117201276	LOC117201276	-2.3	4.49	111.49	peroxisomal trans-2-enoyl-CoA reductase
+LOC101277849	KNTC1	-3.2	4	48.49	kinetochore associated 1
+LOC101277173	KATNAL2	-2.91	1.91	11.01	katanin catalytic subunit A1 like 2
+LOC101272353	HSPG2	1.84	10.71	4777.31	heparan sulfate proteoglycan 2
+LOC101282402	CLEC18A	2.96	4.36	41.83	C-type lectin domain family 18 member A
+LOC101276940	LOC101276940	-3.51	1.65	909.86	transmembrane protein 25-like
+LOC101284377	MMP15	2.53	4.31	61.68	matrix metallopeptidase 15
+LOC101287396	ESYT1	1.27	7.12	383.91	extended synaptotagmin 1
+LOC101278644	PIGO	1.33	6.52	267.76	phosphatidylinositol glycan anchor biosynthesis class O
+LOC101277189	LOC101277189	-6.26	0.16	3.58	WD repeat-containing protein 82-like
+LOC101288125	DRC1	-2.54	2.46	16.04	dynein regulatory complex subunit 1
+LOC101270455	RARB	-2.71	2.88	20.86	retinoic acid receptor beta
+LOC101278647	FZD4	2.61	6.23	133.87	frizzled class receptor 4
+LOC105748477	LOC105748477	-5.46	0.98	9.41	forkhead box protein R1-like
+LOC105748907	ZNF311	-2.48	3.84	48.52	zinc finger protein 311
+ACP3	ACP3	-3.85	1.7	13.17	acid phosphatase 3
+LOC117200145	ZFP69B	-2.45	3.54	28.07	ZFP69 zinc finger protein B
+LOC101285968	ABHD2	1.28	6.76	434.54	abhydrolase domain containing 2, acylglycerol lipase
+LOC101276643	SLC45A3	-2.08	4.28	65.97	solute carrier family 45 member 3
+LOC101273574	ZBTB42	2.04	3.71	26.72	zinc finger and BTB domain containing 42
+LOC101280479	TEX35	-2.35	4.18	54.5	testis expressed 35
+LOC101284724	BACH2	-1.72	4.78	91.03	BTB domain and CNC homolog 2

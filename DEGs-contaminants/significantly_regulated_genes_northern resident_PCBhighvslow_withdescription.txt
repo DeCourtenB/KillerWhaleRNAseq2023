@@ -1,0 +1,71 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101281089	LOC101281089	-3.26	5.25	114.21	histone H2B type 1-C/E/F/G/I-like
+LOC101287825	SMAD6	3.35	6.25	211.48	SMAD family member 6
+LOC101290024	GJA5	3.1	4.7	84.37	gap junction protein alpha 5
+LOC101269981	SEMA6B	3.12	5.89	159.96	semaphorin 6B
+LOC101282578	LOC101282578	-3.01	7.19	480.83	histone H2A type 1-C
+LOC101282090	SOX17	3.54	5.43	122.65	SRY-box transcription factor 17
+LOC101279987	LOC101279987	-2.67	4.8	80.12	histone H2B type 1-C/E/F/G/I-like
+LOC101285278	CLDN5	3.3	6.67	230.37	claudin 5
+LOC101274555	CD44	-2.2	7.75	572.91	CD44 molecule (Indian blood group)
+LOC101289217	IGSF8	2.25	6.86	301.72	immunoglobulin superfamily member 8
+LOC101289090	PPM1F	2.64	6.46	244.73	protein phosphatase, Mg2+/Mn2+ dependent 1F
+LOC101279344	OBSL1	2.14	6.74	286.85	obscurin like cytoskeletal adaptor 1
+LOC101269665	EEF1B2	-2.36	6.61	295.38	eukaryotic translation elongation factor 1 beta 2
+LOC101270696	SEMA3G	2.52	5.65	101.04	semaphorin 3G
+LOC101284582	THBD	2.86	6.42	220.83	thrombomodulin
+LOC101280544	LUM	-2.47	6.11	157.18	lumican
+LOC101290294	FMO3	-2.39	7.13	393.72	flavin containing dimethylaniline monoxygenase 3
+LOC101286222	LRRC32	2.51	7.06	275.14	leucine rich repeat containing 32
+LOC101281538	TRAK2	-1.96	6.75	255.35	trafficking kinesin protein 2
+LOC101281464	LOC101281464	-2.43	5.28	107.81	histone H2B type 2-F
+LOC101273539	MMP28	2.71	5.45	142.2	matrix metallopeptidase 28
+LOC101276186	COL4A2	2.29	10.09	2689.79	collagen type IV alpha 2 chain
+LOC101289262	USHBP1	2.23	5.14	93.89	USH1 protein network component harmonin binding protein 1
+LOC101284865	SOX13	2.43	6.68	238.78	SRY-box transcription factor 13
+LOC101289855	NFATC2	-2.94	8.17	651.72	nuclear factor of activated T cells 2
+LOC101282946	CSTB	-2.21	5.4	119.61	cystatin B
+LOC101279922	PCDH1	2.58	6.75	237.78	protocadherin 1
+LOC101288873	SLC45A4	2.02	5.29	102.59	solute carrier family 45 member 4
+LOC101289274	PALD1	1.92	6.97	314.28	phosphatase domain containing paladin 1
+LOC101274563	NLRC5	2.37	4.79	69.06	NLR family CARD domain containing 5
+LOC101275066	NOTCH4	2.17	5.66	129.65	notch receptor 4
+LOC101285325	MGLL	2.13	8.85	810.26	monoglyceride lipase
+LOC125960237	LOC125960237	2.97	6.24	214.76	uncharacterized LOC125960237
+LOC101273039	TEAD4	2.41	6.99	365.27	TEA domain transcription factor 4
+LOC101283386	GATA2	2.92	5.56	135.13	GATA binding protein 2
+LOC101272316	CRIM1	2.17	NA	729.21	cysteine rich transmembrane BMP regulator 1
+LOC101282701	LOC101282701	-1.94	NA	400.4	histone H2B type 2-E
+LOC101281603	PDGFB	2.43	6.09	190.98	platelet derived growth factor subunit B
+LOC101276991	CECR2	2.04	5.9	163.98	cat eye syndrome critical region protein 2
+LOC101289879	WSCD1	2.46	6.78	286.29	WSC domain containing 1
+LOC101280155	RPL30	-2.15	NA	1094.28	ribosomal protein L30
+LOC101280233	COL4A1	2.1	NA	2486.16	collagen type IV alpha 1 chain
+LOC101282562	HMCN2	2.8	7.71	433.2	hemicentin 2
+LOC101272551	INF2	1.82	NA	595.05	inverted formin 2
+LOC101282157	EFNB2	2.32	5.85	168.24	ephrin B2
+LOC101282986	MMRN2	2.55	NA	563.93	multimerin 2
+LOC101270712	RPS24	-2.34	NA	573.44	ribosomal protein S24
+LOC101279725	LOC101279725	-2.53	4.8	65.69	histone H4
+LOC101280520	NOS3	2.17	6.06	201.38	nitric oxide synthase 3
+LOC101285209	ACAN	2.35	4.68	62.12	aggrecan
+LOC101272541	LGALS1	-2.06	NA	1879.32	galectin 1
+LOC101286939	SH3TC1	2.03	NA	122.9	SH3 domain and tetratricopeptide repeats 1
+LOC101271611	TAL1	2.39	5.75	110.6	TAL bHLH transcription factor 1, erythroid differentiation factor
+LOC101271452	TCIRG1	1.83	NA	156.21	T cell immune regulator 1, ATPase H+ transporting V0 subunit a3
+LOC101269233	SUMO2	-1.99	NA	108.4	small ubiquitin like modifier 2
+LOC101275507	LHX6	2.4	5.16	99.24	LIM homeobox 6
+LOC101273022	ITGA7	2.13	NA	1201.77	integrin subunit alpha 7
+LOC101269437	MAP3K11	1.69	NA	234.58	mitogen-activated protein kinase kinase kinase 11
+LOC101283178	ADCY5	2.01	6.44	164.88	adenylate cyclase 5
+LOC101277742	RPL26	-2.03	NA	276.47	ribosomal protein L26
+LOC101274338	LPAR1	-2.02	NA	290.53	lysophosphatidic acid receptor 1
+LOC101289917	TMEM44	2.25	5.03	60.92	transmembrane protein 44
+LOC101276197	TNK2	1.87	NA	453.31	tyrosine kinase non receptor 2
+LOC101272046	KIF26A	2.33	NA	226.66	kinesin family member 26A
+LOC101289964	P4HA1	-1.99	NA	146.39	prolyl 4-hydroxylase subunit alpha 1
+LOC101271831	SPNS2	2.15	NA	187.22	sphingolipid transporter 2
+LOC101284310	ATP2A3	2.04	4.88	74.06	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3
+LOC101277193	LIPE	2.51	NA	200.11	lipase E, hormone sensitive type
+TLNRD1	TLNRD1	1.97	5.18	87.06	talin rod domain containing 1
+LOC101269767	UBXN4	-1.78	NA	149.99	UBX domain protein 4

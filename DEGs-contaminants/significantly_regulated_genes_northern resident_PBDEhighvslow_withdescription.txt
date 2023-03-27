@@ -1,0 +1,78 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101290216	DSC2	5.5	5.99	234.65	desmocollin 2
+LOC101285135	PERP	7.06	7.49	681.45	p53 apoptosis effector related to PMP22
+LOC101284402	CNFN	5.33	4.74	96.62	cornifelin
+C20H19orf33	C20H19orf33	4.08	6.43	322.2	chromosome 20 C19orf33 homolog
+LOC117197074	LOC117197074	4.08	6.33	306.92	leukocyte elastase inhibitor-like
+LOC101277806	CRABP1	-3.15	5.27	164.98	cellular retinoic acid binding protein 1
+LOC125960407	LOC125960407	6.88	10.8	6223.96	keratin, type II cytoskeletal 6A-like
+LOC101270519	LOC101270519	5.84	6.47	298.61	serpin B3-like
+LOC101284138	LGALS7	5.84	6.6	359.25	galectin-7
+LOC101269553	FAM83C	4.3	4.44	79.34	family with sequence similarity 83 member C
+LOC101276064	SPINT2	4.2	6.25	258.9	serine peptidase inhibitor, Kunitz type 2
+LOC101287856	CPZ	-2.54	4.44	88.94	carboxypeptidase Z
+LOC101275781	FSIP2	-4.78	2.22	17.66	fibrous sheath interacting protein 2
+LOC101271110	WWC1	5.38	4.57	83.73	WW and C2 domain containing 1
+LOC101286629	AQP3	4.74	4.91	116.11	aquaporin 3 (Gill blood group)
+LOC101273234	KRT13	6.06	8.28	1156.95	keratin 13
+LOC101272714	KCNH5	-4.87	1.59	13.72	potassium voltage-gated channel subfamily H member 5
+LOC101290218	KRT82	6.34	11.26	9479.77	keratin, type II cytoskeletal 6A
+LOC101273750	LY6D	3.81	6.96	493.74	lymphocyte antigen 6 family member D
+LOC101279926	TRIM29	4.34	7.46	596.33	tripartite motif containing 29
+LOC101286687	MT	3.4	8.92	2058.27	metallothionein-2
+LOC101271950	PCSK6	2.83	5.44	162.47	proprotein convertase subtilisin/kexin type 6
+LOC101278167	SLC15A1	6.37	3.29	28.73	solute carrier family 15 member 1
+LOC101271806	ABCC3	4.32	4.76	97.79	ATP binding cassette subfamily C member 3
+LOC101281021	SPTBN2	3.72	6.25	280.96	spectrin beta, non-erythrocytic 2
+LOC101274324	SFN	5.78	7.59	888.82	stratifin
+LOC101282425	SH3RF2	3.63	5.2	143.63	SH3 domain containing ring finger 2
+LOC101270876	WNT4	3.51	5.45	215.53	Wnt family member 4
+LOC101289645	EPHA6	-6.24	1.45	12.76	EPH receptor A6
+LOC101271909	PKP1	5.31	8.33	1311.87	plakophilin 1
+LOC101277737	COL17A1	4.35	7.35	545.05	collagen type XVII alpha 1 chain
+LOC101288322	CDH1	4.36	5.17	133.19	cadherin 1
+LOC101289157	HR	3.87	6.89	399.45	HR lysine demethylase and nuclear receptor corepressor
+LOC101288371	TMEM54	4.06	3.74	41.05	transmembrane protein 54
+LOC117198242	DMKN	3.3	6.34	273.95	dermokine
+LOC101271438	GRHL1	4.84	3.71	47.32	grainyhead like transcription factor 1
+LOC101285702	ESRP2	4.62	4.04	60.21	epithelial splicing regulatory protein 2
+LOC101286179	MT4	7.41	8.9	1369.4	metallothionein 4
+LOC101273992	KRT14	5.62	12.61	23333.93	keratin, type I cytoskeletal 14
+LOC101270066	ZIC1	-2.76	2.98	29.57	Zic family member 1
+LOC101284384	IL1RN	7.07	4.31	100.85	interleukin 1 receptor antagonist
+LOC101280195	TMEM79	4.73	4.33	69.49	transmembrane protein 79
+LOC101277159	SIX2	4.98	3.73	58.7	SIX homeobox 2
+LOC101274655	LAD1	4.57	6.51	263.61	ladinin 1
+LOC101288863	TGM1	3.82	5.89	213.39	transglutaminase 1
+LOC101284151	LOC101284151	7.66	6.15	240.63	annexin A8
+LOC101276217	FAM180B	-2.85	5.84	250.09	family with sequence similarity 180 member B
+LOC101282198	SNCB	-4.38	0.97	7.03	synuclein beta
+LOC101269212	MAPK13	3.53	4.26	75.46	mitogen-activated protein kinase 13
+LOC101281389	FGF10	-2.63	4.1	63.18	fibroblast growth factor 10
+LOC101282952	LOC101282952	-2.79	8.28	1120.34	histone H2A type 2-C
+LOC101283353	ISLR2	3.72	4.99	112.11	immunoglobulin superfamily containing leucine rich repeat 2
+LOC101284691	LOC101284691	8.25	3.43	40.88	L-threonine 3-dehydrogenase, mitochondrial
+LOC101276523	GALNT6	4.55	4.61	81.64	polypeptide N-acetylgalactosaminyltransferase 6
+LOC101277037	SEMA4B	2.53	5.42	144	semaphorin 4B
+LOC101280703	FGFBP1	6.78	4.77	87.3	fibroblast growth factor binding protein 1
+LOC101287998	TP63	6.81	6.42	NA	tumor protein p63
+LOC101282054	KLK10	6.72	4.26	NA	kallikrein related peptidase 10
+LOC101279564	RAB38	4.05	5.22	146.39	RAB38, member RAS oncogene family
+LOC101288207	CSMD3	-6.41	2.46	21.67	CUB and Sushi multiple domains 3
+LOC101284427	GRID2	-8.48	1.73	16.48	glutamate ionotropic receptor delta type subunit 2
+LOC101283803	RAB25	5.75	4.02	47.38	RAB25, member RAS oncogene family
+LOC101281898	LGALS7B	4.89	6.89	368.27	galectin-7
+LOC101277552	LRRTM4	-3.55	2.25	20.85	leucine rich repeat transmembrane neuronal 4
+LOC101280846	LOC101280846	-4.67	2.81	28.73	elongation factor 1-alpha 1-like
+LOC101278377	ZNF185	3.15	4.42	71.06	zinc finger protein 185 with LIM domain
+LOC101271116	TTC22	4.4	4.28	74.11	tetratricopeptide repeat domain 22
+LOC101289727	DSG3	6.74	7.53	956.77	desmoglein 3
+LOC101275670	TRPV3	3.84	5.56	151.23	transient receptor potential cation channel subfamily V member 3
+LOC101270457	ESPN	-3.14	3.29	36.76	espin
+LOC101282547	KLK6	5.56	3.34	29.01	kallikrein-6
+LOC101289966	DSG1	6.2	6.19	280.93	desmoglein 1
+LOC101275398	EGFR	2.19	6.64	422.67	epidermal growth factor receptor
+LOC101286568	SPARC	-1.85	NA	16996.22	secreted protein acidic and cysteine rich
+LOC101289765	UGT8	5.36	3.3	38.32	UDP glycosyltransferase 8
+LOC101270104	VSIG8	3.92	5.33	158.43	V-set and immunoglobulin domain containing 8
+LOC101287010	GJB2	6.09	6.34	210.71	gap junction protein beta 2

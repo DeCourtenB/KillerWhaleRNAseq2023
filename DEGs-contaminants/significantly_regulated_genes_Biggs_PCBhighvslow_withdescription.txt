@@ -1,0 +1,4 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC125960328	LOC125960328	7	4.9	2884.68	uncharacterized LOC125960328
+LOC101281021	SPTBN2	-9.03	9.16	1051.77	spectrin beta, non-erythrocytic 2
+LOC101278377	ZNF185	-8.22	6.86	230.17	zinc finger protein 185 with LIM domain

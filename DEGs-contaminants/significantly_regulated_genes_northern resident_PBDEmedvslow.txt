@@ -1,0 +1,76 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101285584	SLC47A2	7.12	4.3	34.35	solute carrier family 47 member 2
+LOC101273282	DCT	7.12	4.7	40.38	dopachrome tautomerase
+LOC101287998	TP63	6.01	5.66	85.06	tumor protein p63
+LOC101289346	TRPM1	7.98	8.16	472.55	transient receptor potential cation channel subfamily M member 1
+LOC101289966	DSG1	4.45	4.21	31.17	desmoglein 1
+LOC101290216	DSC2	3.8	4.36	33.39	desmocollin 2
+LOC125960407	LOC125960407	3.95	7.94	437.76	keratin, type II cytoskeletal 6A-like
+LOC101281444	PAPLN	3.43	5.2	62.66	papilin, proteoglycan like sulfated glycoprotein
+LOC101284151	LOC101284151	5.51	4.35	33.66	annexin A8
+LOC101271438	GRHL1	4.65	3.72	21.39	grainyhead like transcription factor 1
+LOC101285018	GLT1D1	4.17	4.09	28.77	glycosyltransferase 1 domain containing 1
+LOC101285135	PERP	4	4.5	36.19	p53 apoptosis effector related to PMP22
+LOC101282745	TYRP1	5.72	4.53	33.32	tyrosinase related protein 1
+LOC101273332	EHF	5.34	4.11	33.46	ETS homologous factor
+LOC101290467	DSC3	4.38	4.99	53.24	desmocollin 3
+LOC101288322	CDH1	4.14	4.91	49.93	cadherin 1
+LOC101284691	LOC101284691	6.92	3.1	13.25	L-threonine 3-dehydrogenase, mitochondrial
+LOC101272068	FGFR2	4.06	5.12	61.09	fibroblast growth factor receptor 2
+LOC101282425	SH3RF2	3.21	4.79	48.48	SH3 domain containing ring finger 2
+LOC101284359	ABCA12	4.79	5.46	74.84	ATP binding cassette subfamily A member 12
+LOC101276275	OCA2	5.72	5.12	67.26	OCA2 melanosomal transmembrane protein
+LOC101290144	PMEL	4.13	5.5	74.03	premelanosome protein
+LOC101270533	TENM2	3.84	4.53	39.57	teneurin transmembrane protein 2
+LOC101278167	SLC15A1	4.94	3.56	18.58	solute carrier family 15 member 1
+LOC101270759	ASPM	3.24	4.69	43.75	assembly factor for spindle microtubules
+LOC101277737	COL17A1	3.17	6.2	120.73	collagen type XVII alpha 1 chain
+LOC101271806	ABCC3	3.95	4.36	33.54	ATP binding cassette subfamily C member 3
+LOC101274265	GCSAM	5.91	3.74	23.49	germinal center associated signaling and motility
+LOC101290245	SLC24A4	4.54	5.18	65.85	solute carrier family 24 member 4
+LOC101281021	SPTBN2	2.57	5.29	65.86	spectrin beta, non-erythrocytic 2
+LOC101289727	DSG3	3.94	5.03	51.3	desmoglein 3
+LOC101271110	WWC1	5.11	4.36	30.85	WW and C2 domain containing 1
+LOC101287226	TP73	4.18	3.92	23.67	tumor protein p73
+LOC101269214	KIT	3.37	4.27	29.89	KIT proto-oncogene, receptor tyrosine kinase
+LOC101270861	FAM83B	5.52	3.89	22	family with sequence similarity 83 member B
+LOC101275616	ARHGEF4	3.17	4.93	48.73	uncharacterized LOC101275616
+LOC101282661	LAMC2	3.22	4.24	30.63	laminin subunit gamma 2
+LOC101273089	PCDH20	7.3	2.57	12.28	protocadherin 20
+LOC101287000	FAT2	3.24	6.23	137.08	FAT atypical cadherin 2
+LOC101289157	HR	3.43	6.37	132.89	HR lysine demethylase and nuclear receptor corepressor
+LOC101271950	PCSK6	2.4	5.01	52.7	proprotein convertase subtilisin/kexin type 6
+LOC101289651	FMN1	3.1	5.71	92.82	formin 1
+LOC101273234	KRT13	2.94	5.12	62.74	keratin 13
+LOC101274772	GRHL2	5.18	4.19	27.98	grainyhead like transcription factor 2
+LOC101279564	RAB38	3.36	5.32	64.61	RAB38, member RAS oncogene family
+LOC101276523	GALNT6	3.5	3.76	21.44	polypeptide N-acetylgalactosaminyltransferase 6
+LOC101271692	KIF23	4.04	4.41	33.94	kinesin family member 23
+LOC101280420	PROM2	3.75	3.95	25.38	prominin 2
+LOC101269566	FERMT1	4.44	4.55	37.89	FERM domain containing kindlin 1
+LOC101286383	ESRP1	4.27	4.66	40.93	epithelial splicing regulatory protein 1
+LOC101287245	PKP3	3.27	4.75	46.49	plakophilin 3
+LOC101282260	NAP1L3	6.48	2.34	7.09	nucleosome assembly protein 1 like 3
+LOC101276434	CD177	5.29	2.28	7.63	CD177 molecule
+LOC101277558	SLC12A3	5.29	2.87	10.3	solute carrier family 12 member 3
+LOC101282286	LOC101282286	6.03	2.75	9.31	dnaJ homolog subfamily C member 14-like
+LOC101287634	CACNA1E	2.91	4.29	34.48	calcium voltage-gated channel subunit alpha1 E
+LOC101275670	TRPV3	3.98	4.47	36.41	transient receptor potential cation channel subfamily V member 3
+LOC101278059	LOC101278059	6.38	2.5	9.52	U3 small nucleolar RNA-associated protein 14 homolog A-like
+LOC101271370	CENPF	2.87	5.27	61.43	centromere protein F
+LOC101277912	OVOL2	3.68	3.38	18.57	ovo like zinc finger 2
+LOC101280547	LOC101280547	3.73	3.61	21.4	uncharacterized LOC101280547
+LOC101272723	ELF5	6.06	2.21	10.65	E74 like ETS transcription factor 5
+LOC101276036	TICRR	4.54	3.67	19.29	TOPBP1 interacting checkpoint and replication regulator
+LOC101288009	BARX2	4.39	2.51	8.55	BARX homeobox 2
+LOC101279938	GPNMB	3.39	6.03	111.96	glycoprotein nmb
+LOC101282446	LOC101282446	4.67	2.9	10.76	histone H3
+LOC101269549	ARHGEF5	3.33	4.55	36.21	Rho guanine nucleotide exchange factor 5
+LOC101277135	PAX3	4.88	3.56	17.75	paired box 3
+LOC101283631	GRM6	6.21	2.89	11.23	glutamate metabotropic receptor 6
+LOC101276162	KIF14	4.27	3.96	23.67	kinesin family member 14
+LOC101282594	SLC27A6	4.44	3.36	12.11	solute carrier family 27 member 6
+LOC125962107	LOC125962107	4.28	2.96	74.41	uncharacterized LOC125962107
+LOC101270110	BTBD16	4.98	3.7	19.55	BTB domain containing 16
+LOC101274324	SFN	2.92	4.68	40.61	stratifin
+LOC101285188	TMPRSS13	5.09	3.13	15.41	transmembrane serine protease 13

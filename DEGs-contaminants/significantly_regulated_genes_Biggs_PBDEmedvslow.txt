@@ -1,0 +1,6 @@
+gene_id	gene_name	log2FoldChange	log2CPM	baseMean	description
+LOC101285220	MRPL22	5.42	7.85	912.96	mitochondrial ribosomal protein L22
+LOC125961080	LOC125961080	7.09	13.94	514702.36	collagen alpha-1(I) chain-like
+LOC117202352	LOC117202352	5.62	8.46	680.33	protein C19orf12 homolog
+LOC101280235	METTL7A	4.74	8.64	827	methyltransferase like 7A
+LOC101271503	IFT22	5.68	7.96	466.13	intraflagellar transport 22
